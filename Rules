@@ -13,7 +13,7 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet/' do
+compile '/style/*' do
   # don’t filter or layout
 end
 
@@ -31,8 +31,8 @@ compile '*' do
   end
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/style/*' do
+  item.identifier.chop + '.' + item[:extension] 
 end
 
 route '/posts/*' do
