@@ -1,0 +1,27 @@
+---
+title: 4pdj
+pageable: true
+per_page: 10
+---
+<% if paginate %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+
+<% blog.articles[0...5].each do |article| %>
+  <article>
+    <h1><a href="<%= article.url %>"><%= article.title %></a></h1>
+    <time><%= article.date.strftime('%b %e, %Y') %></time>
+    <p><%= article.summary %></p>
+    <p><a href="<%= article.url %>">Read more.</a></p>
+  </article>
+<% end %>
+
+<% if paginate %>
+  <% if next_page %>
+    <p><%= link_to 'Next page', next_page %></p>
+  <% end %>
+<% end %>

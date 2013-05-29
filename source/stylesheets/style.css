@@ -1,0 +1,22 @@
+@import url('bootstrap.min.css');
+@import url('bootstrap-responsive.min.css');
+@import url('darkstrap.css');
+
+.content {
+  width: 800px;
+  border: 1px solid rgb(66, 66, 66);
+  border-top: none;
+  margin: 0 auto;
+  padding: 0px 20px 0 20px;
+}
+.post aside {
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgb(66, 66, 66);
+}
+.post article {
+  margin: 10px 0 60px 0;
+}
+
+.navbar .brand {
+  color: rgb(255, 142, 53);
+}
