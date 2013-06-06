@@ -1,0 +1,24 @@
+---
+author: pdj
+comments: true
+date: 2009-12-18
+slug: deeper-in-icc
+title: Deeper in ICC
+wordpress_id: 406
+categories:
+- athun
+- game
+- nagrand
+- world of warcraft
+- wow
+tags:
+- gunship
+- icecrown citadel
+- lady
+- reckless
+- wow
+---
+
+Tonight we continued our adventures in Icecrown Citadel:
+[![Lady down](/images/icc_lady_down_thumb.png)](/images/icc_lady_down.jpg)
+[![Gunship battle down](/images/icc_gunshipbattle_down_thumb.png)](/images/icc_gunshipbattle_down.jpg)

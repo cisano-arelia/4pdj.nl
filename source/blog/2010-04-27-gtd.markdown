@@ -1,0 +1,191 @@
+---
+author: pdj
+comments: true
+date: 2010-04-27
+slug: gtd
+title: GTD
+wordpress_id: 432
+categories:
+- gtd
+tags:
+- gtd
+- moleskine
+---
+
+Recently i read [Getting Things Done](https://secure.davidco.com/store/catalog/GETTING-THINGS-DONE-PAPERBACK-p-16175.php) by [David Allen](http://www.davidco.com/) and i was browsing for a medium which assists me with the process of collecting, processing, organizing, reviewing and doing. Personally i prefer a paper based system over the numerous technological sollutions.
+
+[![GTD Chart](/images/gtd_chart.png)](/images/gtd_chart.png)
+
+Google brought me many examples of systems on moleskine-like pads:
+
+
+
+	
+  * [PigPogPDA](http://pigpog.com/2007/01/20/pigpogpda-a-moleskine-hacked-into-a-complete-system/)
+
+	
+  * [Eston Bond GTD System a.k.a. Hacking a GTD Moleskine](http://socialuxe.com/2006/11/hacking-a-gtd-moleskine/)
+
+	
+  * many youtube movies
+
+
+After evaluating my needs and the above methods i chose Eston Bonds method.
+
+[![My GTD Moleskine hack](/images/gtd_moleskine_thumb-300x192.png)](/images/gtd_moleskine.jpg)
+
+In my version the tabs at the site are @work, the tabs at the top are @home or @shop.
+
+<!-- more -->His method (soz Eston, had to keep a copy of your method):
+
+
+> 
+
+> 
+> #### Introduction
+> 
+> 
+I’ve always been apprehensive to join the almost-fanatical cult of  Getting Things Done. I’ve heard more about it from the blogosphere (as  well as non-blogger co-workers) for the greater part of a year and a  half now, with massive blogs dedicated to bringing the GTD gospel to the  masses of unenlightened IT workers and friends alike. Something about  the GTD system seemed more than organised: it tiptoed the line of  absolute obsessive-compulsive disorder. It seemed like the kind of thing  my super-organised mother would use.
+
+Ironically, my mother called me the other day to see how I was doing,  and I explained how I was juggling freelance projects, what was left of  my undergraduate education, my blog, and my social life, falling behind  in the others when I focused on one. While I thought – and still think –  that my existing form of time management has been extremely successful  to date, my mother seemed to disagree fully. Writing off my mother’s  comments about my lack of time management as those motherly words that  no child ever really listens to, I continued on with my day. The same  day, some friends and colleagues of mine also told me that I needed to  clean up my time management system. Some of them were just punctual by  nature; others were members of the Church of GTD. Obviously, something  was wrong with my being nearly thirty minutes late on regular intervals,  my absent-mindedness toward group assignments, and my utter inability  to maximise my productivity in a given day. It was the ultimate in  economic hypocrisy: here I was, three months from officially being an  “economist,” and I was about as organised as I had been when I started  college. Something needed to change.
+
+I had tried to convert to the GTD discipline before, using my Treo  650, [Shadow Plan](http://www.codejedi.com/) and the built-in To Do system, but it felt  clunky and hacked-together. I then tried the [Kinkless GTD](http://kinkless.com/) system  that so many übergeeks have raved about only to find it equally  complex. Half of the actions that GTD was tailored to had little to no  relevance to my life, but I was stuck with them anyway. I found myself  trying to process tasks into increasingly weirder Projects. My  Someday/Maybe list was almost nonexistent. On the paper end of things, I  had seen multiple variations of the whole [Hipster PDA](http://en.wikipedia.org/wiki/Hipster_PDA) device, only to find  it lacking any grace or aesthetic beauty. It seemed that no matter where  I went, the GTD system just wasn’t for me; I’d lose the 43 folders  somewhere in my apartment, index cards would appear crumpled and ugly,  and the digital solutions had terrible or too complex interfaces.
+
+I felt as if I was missing something; if GTD was so spectacular, why  did it seem to be so awful? After a bit of research and a bit of  creativity, I decided that I’d just build my own GTD-based system from  scratch using a [Moleskine  Ruled Pocket Notebook](http://www.moleskineus.com/pocket.html) and inspired by the Hipster, the [PigPog](http://pigpog.com/node/1030), and a  bit of my own interaction design to make it as intuitive as possible for  _me_ to use. Considering there’s such a huge GTD community, I  decided to publish my own Moleskine Hack for people to use. And, with  that, I present the official hyalineskies GTD  System.
+
+> 
+> #### Building the Base
+> 
+> 
+It doesn’t take a lot to build this system; it cost me under $20 for  everything. Here’s what you’ll need:
+
+> 
+> 
+	
+>   * One (1) Moleskine Ruled Pocket Notebook
+> 
+	
+>   * Seven (7) Post-It® Tabs, at least three different colours (I used  the tabs because they’re easier to grab onto in a rush as well as  large.)
+> 
+	
+>   * One (1) Extra Fine point Sanford Sharpie or other permanent marker
+> 
+	
+>   * A pen of some sort to use with the Moleskine. This is a pen that  you’ll need to keep around with the system all the time — I constantly  carry a [Lamy Vista fountain pen](http://www.lamy.de/en/endverbraucher/produkte/schreibsysteme/fuellhalter?writesystem=1&program=0&targetgroup=1&language=2&prodgroup=1&highprice=0&lowprice=0&newest=0&ref=self&produktid=264&detailmode=overview), so that’s what I’m  using.
+> 
+
+Once you’ve rustled up the necessary materials, it’s time to start  hacking.
+
+> 
+> #### Preparing the Moleskine
+> 
+> 
+In all honesty, calling the hyalineskies system a GTD system is kind  of a misnomer, as it’s more closely related to the PigPog system than  GTD: it cuts all of the organisation of GTD and pares it down to its  task process. In this case, the Moleskine takes care of task Inboxing,  Processing, Project outlining, and the Someday / Maybe list. “Hard  calendar” events, such as doctor’s appointments and meeting times, are  handled electronically by my Motorola Q. I’ve cut out the 43 Folders  jazz and actually don’t use any type of foldering system at all; the  folder in the back of the Moleskine is used for storing business cards  (both my own and others’ cards.)
+
+> 
+> ##### 1. Date the outside, right edge, in the bottom  right upper corner.
+> 
+> 
+You should date the Moleskine with the date at which you plan on  beginning its use; when the Moleskine is full, you will write the  finished date underneath it and prep a new one. This way, you’ll always  have a running archive of your tasks.
+
+> 
+> ##### 2. Add your contact information to the inside  cover.
+> 
+> 
+The Moleskine has a section for contact information for a reason; on  the Moleskine that I write hyalineskies entries in, there is even a  fairly large cash reward. If the book is of considerable value, don’t  hesitate to assign a dollar value to it — any promised incentive will  increase the chances of you getting your book back. It may also be wise  to include alternate contact information or emergency contact  information to this page if you carry it with you daily.
+
+> 
+> ##### 3. Number the odd pages of the book.
+> 
+> 
+Starting with the first ruled page, number the page in the lower  right corner with the number 1. Your last numbered page will be number  191. Don’t worry about numbering the other pages; the time it takes to  number them is fairly useless considering your search accuracy will be  within two pages with the odd-numbered system. You’re also probably not  prone to looking at the even page numbers, considering they’re on the  back of the sheets.
+
+> 
+> #### It’s tabs time
+> 
+> 
+Once you’ve got the  Moleskine prepped for use, it’s time to label your tabs. Take the  Sharpie you used to mark the side of the book and write on your tabs.  For two of the tabs (preferably of the same colour,) write `INBOX /  NEXT PROCESSED`. For another two, wrote `PROJECTS`.  For yet another pair, write `SOMEDAY / MAYBE`. These tabs  will give you direct access to the proper sections of the Moleskine.
+
+What about that last tab? Label it `SPECIAL PRIORITY`.  It’s entirely optional, but having a special priority tab allows you to  mark a Project or Task as taking priority over everything else. I’ve got  the tab more for putting priority on social things than business  things, as I tend to forget key social events more than I do key  business ones.
+
+Once you’re done labeling, put the spare `INBOX`, `PROJECTS`,  and `SOMEDAY` tabs, as well as the `SPECIAL PRIORITY` tab, on the last page of the Moleskine. The last page of the Moleskine  is card stock, so it holds the tabs well and is pretty useless for  writing GTD content upon. Take the remaining three tabs and place them  on the upper parts of the page, as close together as possible. Put `INBOX` on Page 5, `PROJECTS` on Page 123, and `SOMEDAY` on Page 189. If you tend to have more Projects, you’ll probably want to  put the tab on a different page and increase the space available to  Projects; this goes for the other sections as well and this is just a  general guideline.
+
+If you look at my Moleskine head-on, my tabs seem tangent to one  another on the y-axis. I’ve done this in accordance with an  extrapolation of the old interaction design principle of [Fitts’ Law](http://en.wikipedia.org/wiki/Fitts%27_Law), which states that a  speed-accuracy tradeoff exists in a pointing atmosphere. In a more  intuitive sense, having these tabs close together allows you to quickly  flip between sections of the Moleskine with very little movement.
+
+> 
+> #### Formatting the Moleskine sections
+> 
+> 
+After much deliberation, I  came up with a format for listing tasks which seems in some ways to be  fairly complex at first glance, but it’s awfully intuitive to me (and my  own intuition was the priority here.) At the top of the section, label  it with the section name and then a small legend for formatting. For  example, in the `INBOX / NEXT PROCESSED` section, the first  two lines (pictured at left) are written as such:
+
+`INBOX/NEXT ACTIONS
+DATE TASK(REF)(ITERATION)  [PROJ.] WAIT?`
+
+The legend may seem fairly cryptic at first, but here’s what it  stands for:
+
+> 
+> 
+	
+>   * `DATE`: The short date (e.g., `05/31`) of the  time the task was entered. If you don’t process tasks daily, this gives  you an idea of the age of the task at hand.
+> 
+	
+>   * `TASK`: The actual task. This can span multiple lines if  need be, but leave at least a half-centimetre margin on the right side  for the `WAIT?` boolean (which I’ll explain in a second.)
+> 
+	
+>   * `(REF)`: A reference number. If this task was moved  forward in the list and not dumped into a project, you can then  reference the page of the original task here. If you’re really  obsessive-compulsive, you could do something like `page:line` where the page number and line number correspond to the task.
+> 
+	
+>   * `(ITERATION)`: An iteration number for tasks pushed  forward. This gives you an at-a-glance look at how many times the task  was moved forward; it also gives an idea to the degree of “stubbornness”  of the task. You increment this value every time you process tasks and  push them forward.
+> 
+	
+>   * `[PROJ.]`: Put a page number in square brackets when  processing a task to denote that you’ve spawned a project off of the  task. In this case, you get a reference number to a page in the  notebook’s `PROJECTS` section, so you can track where the  Project was created and why that might’ve been the case.
+> 
+	
+>   * `WAIT?`: If you’re waiting for a response from somebody,  simply put an X in this “column” of the page. If you followed the above  rules, this is a constant margin down the side of your page. This way,  on processing tasks for the day, you have a quick visual cue to all of  the tasks you’re waiting for someone or something else before you can  take action.
+> 
+
+Format the `PROJECTS` section like the `INBOX` session, but devote a whole page to a project when a project is started.  For the `SOMEDAY / MAYBE` section, I simply wrote a section  header, as task metadata is not important to me in this section of the  notebook.
+
+What about those first five pages? Title Page 1 `PROJECTS INDEX`,  and underneath write the legend `NAME, PAGES`. The first  five pages exist to build a quick-access Table of Contents for your `PROJECTS` section, more of which will be explained in the next section of this  article. Once you’re done formatting, you’ll be good.
+
+> 
+> #### Using the hyalineskies GTD system
+> 
+> 
+At this point, you’re  good to go — well, at least from the construction part. There are a few  things to remember while using the system to maintain its efficiency and  effectiveness.
+
+> 
+> ##### 1. Use the Moleskine’s fabric bookmark to  record your current active position, and move the Inbox tab accordingly.
+> 
+> 
+The Moleskine’s built-in bookmark should always be set to your  insertion point – that is, it should always rest on a page where there  is space for you to Inbox tasks in the `INBOX` section. It’s  the easiest thing to grab onto and flip open in a rush. Once you’ve  processed tasks up to the active point, move the `INBOX` tab  up to the last page where tasks have been processed. If you’re staying  on top of things, your `INBOX` tab should rest on the same  page as the built-in bookmark daily.
+
+> 
+> ##### 2. Record Next Actions as being Next Actions.  Reference their parents.
+> 
+> 
+I mark Next Actions with a left arrow (`->` ) before  the task name to signify that it is the next action taken on a previous  task. In the `(REF)` parentheses, I write the page number of  the original task that the next action corresponds to. Whenever I am  creating a new action, the `(REF)` is set to an empty set (`ø`)  and the `(ITERATION)` is set to zero (`0`).
+
+> 
+> ##### 3. When moving a task forward, increment its  iteration.
+> 
+> 
+When I move a task forward, I copy all of its original properties and  then increment `(ITERATION)` by 1. If a task lasts for more  than three or so processes (three iterations), it is seemingly becoming  more stubborn and I should probably either defer the task to `SOMEDAY` or get it done.
+
+> 
+> ##### 4. Mark the waiting for column if you’re  stalled.
+> 
+> 
+This column exists to provide an easy visual cue to the tasks you’re  stalled on due to other circumstances. If you fail to mark the column,  you’re losing that quick-scan functionality of what you’re waiting on.
+
+> 
+> ##### 5. When dumping a task to a project, mark it  with the project page.
+> 
+> 
+If you’re dumping an Inbox task to a Project when processing, mark it  with the proper `[PROJECT]` markup. This way, you’ll know  what page (and what project) it went off to.
+
+> 
+> ##### 6. When creating a new Project or a new page  for an existing Project, update the Project Index.
+> 
+> 
+The project index is useless unless kept up to date. Whenever a new  project is created, add it to the Project Index. This goes for pages,  too; if your project ends up colliding with another and has a disjointed  page, marking the index with `FREELANCE WORK, 124, 130` allows you to remember that the Freelance Work Project contains data on  both pages 124 and 130.

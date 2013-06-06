@@ -1,0 +1,21 @@
+---
+author: pdj
+comments: true
+date: 2009-04-16
+slug: ut
+title: UT
+wordpress_id: 20
+categories:
+- game
+tags:
+- quakenet
+- snm-clan
+- thenobodies
+- unreal
+---
+
+Yesterday booted up Unreal Tournament 2004. Didn't play it for a long time.  Tested Unreal 3 some months ago, but it has no charms.  But anyway, i found a lot of my old clannies still playing. Even the clanbase cups are still running. Played some TAM / CTF. Still have some skills after 4 years, did quite alright. Got invited in a clan right  away. Probably as mascotte, but who knows.
+
+irc: #thenobodies @ quakenet
+
+[![UT2004](/images/unreal_tournament2004_cover.jpg)]

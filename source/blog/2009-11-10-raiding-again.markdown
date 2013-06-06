@@ -1,0 +1,30 @@
+---
+author: pdj
+comments: true
+date: 2009-11-10
+slug: raiding-again
+title: Raiding again
+wordpress_id: 332
+categories:
+- athun
+- cats
+- game
+- nagrand
+- world of warcraft
+tags:
+- nagrand
+- onyxia
+- supervisor
+- trial of the crusader
+- ulduar
+- voa
+- world of warcraft
+---
+
+Hehe, just back in WoW since 25th of Oct, got in contact with old friends and applied to their raiding guild and got accepted.
+
+Lots of new content i didn't go through before i took my break. This week did the new VOA 10/25 bosses, Onyxia 10, Trial of the Crusader 10/25 (25 not completed) and Ulduar 10 (not completed).  Slowly gearing up again. Got the money together to get dualspec (1k gold wtf). It helps me a lot with dailies! They should have invented that before (/copy from Lineage2).
+
+I'll post a picture soon!
+
+[![The supervisor](/images/kaylee_is_the_supervisor_thumb.png)](/images/kaylee_is_the_supervisor.jpg)

@@ -1,0 +1,12 @@
+---
+author: None
+comments: true
+date: 2009-03-03
+slug: hello-world
+title: Hello world
+wordpress_id: 3
+categories:
+- site
+---
+
+The site is up!! I hope it keeps my interest and i'll actually post something. Possible visitors: welcome!

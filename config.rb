@@ -26,14 +26,10 @@ activate :blog do |blog|
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
-
-  blog.paginate = true
-  blog.per_page = 10
-  blog.page_link = "page/:num"
 end
 
 # Minify HTML
-activate :minify_html
+#activate :minify_html
 
 # RSS Feed
 page "/feed.xml", :layout => false

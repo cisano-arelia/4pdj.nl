@@ -15,3 +15,9 @@ gem "redcarpet"
 # Bugfix
 gem "rb-inotify"
 gem "therubyracer"
+
+# Blogpost summary
+gem "nokogiri"
+
+# Needed for JS
+gem 'json', '~> 1.7.7'

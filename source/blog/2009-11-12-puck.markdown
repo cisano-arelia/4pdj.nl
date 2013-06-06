@@ -1,0 +1,19 @@
+---
+author: pdj
+comments: true
+date: 2009-11-12
+slug: puck
+title: Puck
+wordpress_id: 345
+categories:
+- cats
+tags:
+- marum
+- puck
+---
+
+Today i ate with friends that live in the village of Marum. They got a new cat called Puck. She's sooo sweet and playful. Some pics:
+
+[![FC Groningen](/images/puck_fc_groningen_thumb.png)](/images/puck_fc_groningen.jpg)
+
+[![Freeze!](/images/puck_hands_up_thumb.png)](/images/puck_hands_up.jpg)

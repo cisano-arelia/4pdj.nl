@@ -1,0 +1,23 @@
+---
+author: pdj
+comments: true
+date: 2009-08-02
+slug: ode2
+title: Ode^2
+wordpress_id: 233
+categories:
+- cats
+tags:
+- kaylee
+- minas
+---
+
+Another ode to our cats:
+
+[![I hate reporters](/images/kaylee_garden_thumb.png)](/images/kaylee_garden.jpg)
+
+[![The king](/images/minas_thumb.png)](/images/minas_garden.jpg)
+
+[![Stop bothering me](/images/summer2009_minas1_thumb2.png)](/images/summer2009_minas1.jpg)
+
+[![Hug machine](/images/summer2009_kaylee_thumb2.png)](/images/summer2009_kaylee.jpg)

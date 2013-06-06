@@ -1,0 +1,21 @@
+---
+author: pdj
+comments: true
+date: 2009-06-28
+slug: ode
+title: Ode
+wordpress_id: 163
+categories:
+- cats
+tags:
+- cats
+- european shorthair
+- kaylee
+- minas
+---
+
+A little ode to Vanessa's and my cats. Too bad they are allways out of focus:
+
+[![Kaylee](/images/kaylee.png)](/images/kaylee.png)
+
+[![Minas](/images/minas.png)](/images/minas.png)

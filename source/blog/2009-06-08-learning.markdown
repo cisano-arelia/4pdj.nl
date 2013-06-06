@@ -1,0 +1,20 @@
+---
+author: pdj
+comments: true
+date: 2009-06-08
+slug: learning
+title: Learning
+wordpress_id: 51
+categories:
+- work
+tags:
+- istqb
+- testing sucks
+- tmap
+- work
+---
+
+Coming Wednesday exam [ISTQB](http://www.istqb.org/) Foundation. It's a testing framework like T-map. Allways good for QA and testing ur own code.
+Not used to learning anymore. The brain is resisting!!!!!111!
+
+[![Testing sucks](/images/225041472v6_350x350_front.jpg)](/images/225041472v6_350x350_front.jpg)

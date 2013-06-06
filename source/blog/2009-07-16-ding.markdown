@@ -1,0 +1,19 @@
+---
+author: pdj
+comments: true
+date: 2009-07-16
+slug: ding
+title: Ding!
+wordpress_id: 212
+categories:
+- game
+- lineage 2
+- teon
+tags:
+- lineage 2
+- teon
+---
+
+lvl 50! 2 lvl's to go and i can wear my b grade which is waiting for me in the warehouse.
+
+[![Ding! lvl 50](/images/lineage2_teon_dinged_lvl_50_thumb.png)](/images/lineage2_teon_dinged_lvl_50.jpg)

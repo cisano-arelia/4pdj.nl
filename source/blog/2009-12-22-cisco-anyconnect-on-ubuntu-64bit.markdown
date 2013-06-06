@@ -1,0 +1,52 @@
+---
+author: pdj
+comments: true
+date: 2009-12-22
+slug: cisco-anyconnect-on-ubuntu-64bit
+title: Cisco Anyconnect on Ubuntu 64bit
+wordpress_id: 414
+categories:
+- 64bit
+- cisco anyconnect
+- karmic
+- ubuntu
+tags:
+- 64bit
+- cisco anyconnect
+- karmic
+- linux
+- ubuntu
+---
+
+My work provides a VPN connection thru Cisco Anyconnect VPN so the employees can work remotely from a client or from home.
+
+Cisco does not provide a 64bit version for linux.
+
+Even after installing de 32bit libs
+
+    
+    sudo apt-get install ia32-libs lib32nss-mdns
+
+
+it will still complain:
+
+    
+    Warning: The following Certificate received from the Server could not be verified:
+
+
+
+Apparently it needs more 32bit libraries while it doesn't complain not having them. The solution is to download from the firefox site the 32bit binary of firefox and install this in /usr/local/firefox
+and then:
+
+    
+    cd /usr/local/firefox
+    sudo cp libnssutil3.so /opt/cisco/vpn/lib/
+    sudo cp libplc4.so /opt/cisco/vpn/lib/
+    sudo cp libplds4.so /opt/cisco/vpn/lib/
+    sudo cp libnspr4.so /opt/cisco/vpn/lib/
+    sudo cp libsqlite3.so /opt/cisco/vpn/lib/
+    sudo cp libnssdbm3.so /opt/cisco/vpn/lib/
+    sudo cp libfreebl3.so /opt/cisco/vpn/lib/
+
+
+Note that these libraries have dependencies to /usr/local/firefox.

@@ -1,0 +1,30 @@
+---
+author: pdj
+comments: true
+date: 2009-06-10
+slug: examen
+title: Exam
+wordpress_id: 92
+categories:
+- work
+tags:
+- blackout
+- computrain
+- drachten
+- istqb
+- testing sucks
+---
+
+Today the big day... after days of being unable to read a single line of syllabus, let alone learn the exam....
+
+Was somewhat early on the central station of Groningen, so took the slowest Qliner to Drachten through all the rural villages. CompuTrain facilitated the ISTQB exam there (in Drachten that is not the rural villages, wait skip that, Drachten is a rural village).
+
+Had a total blackout behind the pc, didn't know the answer of 20 multiple choice questions and skipped each to complete them later. After 59 minutes and 50 seconds i filled in the last question and pressed the "end" button with a big sigh. The result:
+
+[![Weeeeeeeeeeee](/images/istqb_thumb.png)](/images/istqb.jpg)
+
+Unbelievable....
+
+Tho i'm pretty uninterested about testing in general (any form of antfucking irritates me), i learned quite some things at the course from which my work will benefit.
+
+Even so... the first person who calls me a tester will be poked...

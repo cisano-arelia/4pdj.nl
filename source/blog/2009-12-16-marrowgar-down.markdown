@@ -1,0 +1,22 @@
+---
+author: pdj
+comments: true
+date: 2009-12-16
+slug: marrowgar-down
+title: Marrowgar down
+wordpress_id: 359
+categories:
+- athun
+- game
+- nagrand
+- reckless
+- world of warcraft
+- wow
+tags:
+- marrowgar
+- wow
+---
+
+Marrowgar at icecrown citadel was our target as the weekly raid. Killed him on the 2nd attempt:
+
+[![Marrowgar down](/images/marrowgar_down_thumb.png)](/images/marrowgar_down.jpg)

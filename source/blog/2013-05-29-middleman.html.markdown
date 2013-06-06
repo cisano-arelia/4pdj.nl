@@ -1,9 +1,18 @@
 ---
 title: middleman
-date: 2013-05-29 14:59 CEST
-tags: hello world
+date: 2013-05-29
+tags: 
+- hello
+- world
+- middleman
+- wordpress
+- exitwp
 ---
 
-Building a new blog based on middleman instead of wordpress.
+![middleman](/images/middleman.svg)
+
+I've build a new blog based on [Middleman](http://middlemanapp.com/) instead of [Wordpress](http://nl.wordpress.org/).
+
+Converted all posts with [ExitWP](https://github.com/thomasf/exitwp).
 
 READMORE
