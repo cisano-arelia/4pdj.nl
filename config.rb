@@ -44,12 +44,6 @@ set :markdown,  :fenced_code_blocks => true,
                 :autolink => true, 
                 :smartypants => true
 
-# Enable caching
-activate :asset_hash
-
-# Enable gzip
-activate :gzip
-
 ### 
 # Compass
 ###

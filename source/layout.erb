@@ -4,11 +4,12 @@
     <title>4pdj</title>
     <meta charset="utf-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0" >
-    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css" >
-    <script type="text/javascript" src="/javascript/bootstrap.min.js" ></script>
-    <script type="text/javascript" src="/javascript/jquery-1.7.2.min.js" ></script>
-    <script type="text/javascript" src="/javascript/lightbox.js" ></script>
-    <script type="text/javascript" src="/javascript/custom.js" ></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css" >
+    <script type="text/javascript" src="/js/jquery-1.7.2.min.js" ></script>
+    <script type="text/javascript" src="/js/bootstrap.js" ></script>
+    <script type="text/javascript" src="/js/lightbox.js" ></script>
+    <script type="text/javascript" src="/js/custom.js" ></script>
+    <base href="/">
   </head>
   <body>
     <div id="navbar" class="navbar navbar-medium navbar-inverse navbar-static-top">
@@ -29,20 +30,18 @@
           <aside id="sidebar-first" class="sidebar span3 hidden-phone">
             <div class="region-sidebar-first-affix affix-top" style="width:156px;">
               <div class="content">
-      <h6>By Year</h6>
-      <ol>
-        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-          <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
-        <% end %>
-      </ol>
-
-      <h6>Tags</h6>
-      <ol>
-        <% blog.tags.sort.each do |tag, articles| %>
-          <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
-        <% end %>
-      </ol>
-
+		<h6><a href="#" data-toggle="collapse" data-target="#byyear">By year</a></h6>
+		<ul id="byyear" class="collapse">
+		  <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                    <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
+                  <% end %>
+                </ul>
+                <h6><a href="#" data-toggle="collapse" data-target="#bytag">Tags</a></h6>
+                <ol id="bytag" class="collapse">
+                  <% blog.tags.sort.each do |tag, articles| %>
+                    <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
+                  <% end %>
+                </ol>
               </div>
             </div>
           </aside>

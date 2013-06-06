@@ -1,0 +1,35 @@
+@import url("/css/bootstrap.css");
+@import url("/css/bootstrap-responsive.css");
+@import url("/css/lightbox.css");
+
+.navbar .brand {
+  font-weight: bold;
+  color: rgb(255, 150, 53);
+}
+
+.pull-right {
+  float: right;
+}
+
+#main {
+padding: 30px 0;
+}
+
+#footer {
+  background-color: whitesmoke;
+  border-top: 1px solid #e5e5e5;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+img, a img {
+	padding: 5px;
+	border: solid 1px #EFEFEF;
+}
+a:hover img {
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+        box-shadow: 1px 1px 5px #999;
+}
