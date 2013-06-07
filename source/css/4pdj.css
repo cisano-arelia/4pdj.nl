@@ -27,9 +27,20 @@ img, a img {
 	padding: 5px;
 	border: solid 1px #EFEFEF;
 }
-a:hover img {
+#rss {
+        padding: 0px;
+        border: none;
+	height: 30px;
+	margin: -10px;
+}
+
+a:hover[rel="lightbox"] img {
 	border: solid 1px #CCC;
 	-moz-box-shadow: 1px 1px 5px #999;
 	-webkit-box-shadow: 1px 1px 5px #999;
         box-shadow: 1px 1px 5px #999;
+}
+
+article h1, section h1 {
+	color: #0088cc;
 }

@@ -12,3 +12,6 @@
 
 # Ignore Sass' cache
 /.sass-cache
+
+# Ignore Bing auth key
+/source/BingSiteAuth.xml

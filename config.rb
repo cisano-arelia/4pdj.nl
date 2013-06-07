@@ -44,6 +44,17 @@ set :markdown,  :fenced_code_blocks => true,
                 :autolink => true, 
                 :smartypants => true
 
+# Enable GZIP compression
+activate :gzip
+
+# Sitemap.xml
+require 'builder'
+page "/sitemap.xml", :layout => false
+page "/sitemap.html", :layout => false
+
+# Bing
+page "/BingSiteAuth.xml", :layout => false
+
 ### 
 # Compass
 ###
@@ -93,9 +104,9 @@ set :markdown,  :fenced_code_blocks => true,
 #   end
 # end
 
-set :css_dir, 'stylesheets'
+set :css_dir, 'css'
 
-set :js_dir, 'javascripts'
+set :js_dir, 'js'
 
 set :images_dir, 'images'
 
