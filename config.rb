@@ -22,7 +22,7 @@ activate :blog do |blog|
   blog.prefix = "blog"
   blog.permalink = ":year-:month-:day-:title"
   blog.layout = "blog"
-  blog.default_extension = ".markdown"
+  blog.default_extension = ".markdown.erd"
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
@@ -36,16 +36,22 @@ page "/feed.xml", :layout => false
 
 # Enable Pretty URL's
 activate :directory_indexes
-page "/404.html", directory_index: false
 
-# Enable markdown and redcarpet
-set :markdown_engine, :redcarpet
-set :markdown,  :fenced_code_blocks => true,
-                :autolink => true, 
-                :smartypants => true
+# Enable markdown
+set :markdown_engine, :kramdown
+set :markdown, :layout_engine => :erb, 
+               :tables => true, 
+               :autolink => true,
+               :smartypants => true
 
 # Enable GZIP compression
 activate :gzip
+
+# Syntax
+activate :syntax
+
+# Sprockets
+activate :sprockets
 
 # Sitemap.xml
 require 'builder'
@@ -104,11 +110,18 @@ page "/BingSiteAuth.xml", :layout => false
 #   end
 # end
 
-set :css_dir, 'css'
+set :css_dir, 'assets/css'
 
-set :js_dir, 'js'
+set :js_dir, 'assets/js'
 
 set :images_dir, 'images'
+
+ignore 'assets/js/bootstrap.js'
+ignore 'assets/js/jquery.js'
+ignore 'assets/js/lightbox.js'
+ignore 'assets/css/bootstrap.css'
+ignore 'assets/css/bootstrap-responsive.css'
+ignore 'assets/css/lightbox.css'
 
 # Build-specific configuration
 configure :build do
@@ -119,10 +132,10 @@ configure :build do
   activate :minify_javascript
   
   # Enable cache buster
-  # activate :cache_buster
+  #activate :cache_buster
   
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
   
   # Compress PNGs after build
   # First: gem install middleman-smusher

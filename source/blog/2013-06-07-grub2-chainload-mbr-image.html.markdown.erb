@@ -1,0 +1,49 @@
+---
+title: Grub2 chainload MBR image
+date: 2013-06-07
+tags:
+- grub2
+- chainload
+- mbr
+- image
+---
+
+My company laptop with Windows is secured with McAfee Endpoint Encryption, formerly known as SafeBoot.
+SafeBoot uses a custom MBR. 
+
+READMORE
+
+/dev/sda1-2-3 are claimed by Windows.
+
+I want to DualBoot Windows/Linux and boot Windows by chainloading the SafeBoot MBR from Grub2, so SafeBoot still works.
+But:
+* I do not wish to boot from USB / CD for Linux
+* Altering the windows bootloader with EasyBCD is out of scope, as it costs money in a company environment.
+
+I succeeded partly implementing above wishes.
+
+What did I do:
+* backup MBR with from Ubuntu Live with:
+
+    dd if=/dev/sda of=/path/mbr-backup bs=512 count=1
+
+* shrink windows volume
+* install ubuntu on new partition /dev/sda4 with some lvm volumes and with grub setup on /dev/sda1.
+* add the following menu entry to grub2:
+
+~~~~~~~~
+    menuentry "Windows 7" {
+       insmod lvm
+       chainloader (lvm/ubuntu-root)/safeboot.mbr
+    }
+~~~~~~~~
+
+Loading the MBR image gives the following problems:
+* Windows 7 or SafeBoot overwrites the /dev/sda partition table with partition table in safeboot.mbr
+* Windows 7 or SafeBoot overwrites the data of core.img which is located behind the MBR.
+
+The first point can be 'fixed' by updating the partition table in the MBR backup.
+
+Now I'm stuck with the second problem.
+
+Any ideas are welcome at [p.de.jong@gmail.com](mailto:p.de.jong@gmail.com)
