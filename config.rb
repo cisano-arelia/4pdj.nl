@@ -116,9 +116,11 @@ set :js_dir, 'assets/js'
 
 set :images_dir, 'images'
 
+ignore 'assets/js/license.js'
 ignore 'assets/js/bootstrap.js'
 ignore 'assets/js/jquery.js'
 ignore 'assets/js/lightbox.js'
+
 ignore 'assets/css/bootstrap.css'
 ignore 'assets/css/bootstrap-responsive.css'
 ignore 'assets/css/lightbox.css'
@@ -135,7 +137,7 @@ configure :build do
   #activate :cache_buster
   
   # Use relative URLs
-  activate :relative_assets
+  #activate :relative_assets
   
   # Compress PNGs after build
   # First: gem install middleman-smusher

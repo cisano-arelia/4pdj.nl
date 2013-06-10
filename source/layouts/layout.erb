@@ -5,6 +5,11 @@
     <meta charset="utf-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="alternate"  href="/feed.xml" title="4pdj" type="application/atom+xml">
+    <!-- License info content within 4pdj.css and 4pdj.js (bundled with sprockets and minified):
+         - jQuery v1.7.2 jquery.com | jquery.org/license 
+         - Bootstrap v2.3.2 | Copyright 2012 Twitter, Inc.
+         - Lightbox v2.51 | Lokesh Dhakar - http://www.lokeshdhakar.com
+    -->
     <%= stylesheet_link_tag "4pdj" %>
     <%= javascript_include_tag "4pdj" %>
   </head>
@@ -24,27 +29,49 @@
     <div id="main">
       <div class="container">
         <div class="row-toggle row-fluid">
-          <aside id="sidebar-first" class="sidebar span3 hidden-phone">
-            <div class="region-sidebar-first-affix affix-top" style="width:156px;">
-              <div class="content">
-		<h6><a href="#" data-toggle="collapse" data-target="#byyear">Archive</a></h6>
-		<ul id="byyear" class="collapse">
-		  <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-                    <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
-                  <% end %>
-                </ul>
-                <h6><a href="#" data-toggle="collapse" data-target="#bytag">Topics</a></h6>
-                <ol id="bytag" class="collapse">
-                  <% blog.tags.sort.each do |tag, articles| %>
-                    <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
-                  <% end %>
-                </ol>
-              </div>
-            </div>
-          </aside>
           <section id='content' class="span9">
               <%= yield %>
           </section>
+          <aside id="sidebar-first" class="sidebar span3 hidden-phone">
+            <div class="region-sidebar-first-affix affix-top" style="width:156px;">
+              <div class="content">
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        Archive
+      </a>
+    </div>
+    <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+		      <ul>
+		        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                          <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
+                        <% end %>
+                      </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+        Topics
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
+      <div class="accordion-inner">
+                      <ol>
+                        <% blog.tags.sort.each do |tag, articles| %>
+                          <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
+                        <% end %>
+                      </ol>
+      </div>
+    </div>
+  </div>
+</div>
+              </div>
+            </div>
+          </aside>
         </div>
       </div>
     </div>
