@@ -4,6 +4,9 @@
     <title>4pdj</title>
     <meta charset="utf-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <% if current_page.data['tags'] %>
+    <meta name="keywords" content="<%= current_page.data['tags'].join(', ') %>">
+    <% end %>
     <link rel="alternate"  href="/feed.xml" title="4pdj" type="application/atom+xml">
     <!-- License info content within 4pdj.css and 4pdj.js (bundled with sprockets and minified):
          - jQuery v1.7.2 jquery.com | jquery.org/license 
@@ -18,10 +21,10 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href='/'>4pdj</a>
-          <ul class="nav">
-            <li><a href='/feed.xml'><img src="/images/rss.svg" id="rss" alt="Syndication"/></a></li>
-            <li><a href='/pages/about'>About</a></li>
-            <li><a href='/pages/ptools'>PTools</a></li>
+          <ul class="nav pull-right">
+            <li><a href='http://twitter.com/_pdj_' target="_blank"><img src="/assets/img/twitter.png" id="twitter" alt="Twitter"/></a></li>
+            <li><a href='http://nl.linkedin.com/in/pdjnl' target="_blank"><img src="/assets/img/linkedin.svg" id="linkedin" alt="LinkedIn"/></a></li>
+            <li><a href='/feed.xml'><img src="/assets/img/rss.svg" id="rss" alt="Syndication"/></a></li>
           </ul>
         </div>
       </div>
@@ -39,10 +42,25 @@
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Archive
+        Pages
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+		      <ul>
+                        <li><a href='/pages/about'>About</a></li>
+                        <li><a href='/pages/ptools'>PTools</a></li>
+                      </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+        Archive
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
 		      <ul>
 		        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
@@ -54,17 +72,17 @@
   </div>
   <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
         Topics
       </a>
     </div>
-    <div id="collapseTwo" class="accordion-body collapse">
+    <div id="collapseThree" class="accordion-body collapse">
       <div class="accordion-inner">
-                      <ol>
+                      <ul>
                         <% blog.tags.sort.each do |tag, articles| %>
                           <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
                         <% end %>
-                      </ol>
+                      </ul>
       </div>
     </div>
   </div>

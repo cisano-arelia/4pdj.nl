@@ -1,4 +1,5 @@
 ---
+author: pdj
 title: Grub2 chainload MBR image
 date: 2013-06-07
 tags:
@@ -28,7 +29,7 @@ I succeeded partly implementing above wishes. I did the following:
     dd if=/dev/sda of=/path/mbr-backup bs=512 count=1
 
 * shrink windows volume
-* install ubuntu on new partition /dev/sda4 with some lvm volumes and with grub setup on /dev/sda1.
+* install ubuntu on new partition /dev/sda4 with some lvm volumes and with grub setup on /dev/sda.
 * add the following menu entry to grub2:
 
 ~~~~~~~~
