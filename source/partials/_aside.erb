@@ -1,0 +1,55 @@
+          <aside id="sidebar-first" class="sidebar span3 hidden-phone">
+            <div class="region-sidebar-first-affix affix-top" style="width:156px;">
+              <div class="content">
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        Pages
+      </a>
+    </div>
+    <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+		      <ul>
+                        <li><a href='/pages/about'>About</a></li>
+                        <li><a href='/pages/ptools'>PTools</a></li>
+                      </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+        Archive
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
+      <div class="accordion-inner">
+		      <ul>
+		        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                          <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
+                        <% end %>
+                      </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+        Topics
+      </a>
+    </div>
+    <div id="collapseThree" class="accordion-body collapse">
+      <div class="accordion-inner">
+                      <ul>
+                        <% blog.tags.sort.each do |tag, articles| %>
+                          <li><%= link_to tag, tag_path(tag) %> (<%= articles.size %>)</li>
+                        <% end %>
+                      </ul>
+      </div>
+    </div>
+  </div>
+</div>
+              </div>
+            </div>
+          </aside>

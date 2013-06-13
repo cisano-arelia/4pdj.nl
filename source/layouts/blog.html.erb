@@ -1,3 +1,4 @@
+<% breadcrumbs.unshift current_page.title %>
 <% wrap_layout :layout do %>
   <article>
     <header>
@@ -11,7 +12,6 @@
         By <address class="author"><a rel="author" href="/pages/about/" title="<%= current_page.data['author'] %>"><%= current_page.data['author'] %></a></address>
         on <time pubdate datetime="<%= current_page.date.strftime('%Y-%m-%d') %>"><%= current_page.date.strftime('%b %e, %Y') %></time>
       </div>
-      <br/>
       <div class="tagline">
         Tagged as
         <% if current_page.data['tags'] %>
@@ -20,6 +20,20 @@
         <% end %>
         <% end %>
       </div>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = '4pdj';
+        var disqus_identifier = 'http://4pdj.nl/<%= current_page.url %>';
+        var disqus_title = '<%= current_page.title %>';
+        var disqus_url = 'http://4pdj.nl/<%= current_page.url %>';
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </footer>
   </article>
 <% end %>

@@ -53,6 +53,10 @@ activate :syntax
 # Sprockets
 activate :sprockets
 
+# Breadcrumbs
+require "lib/breadcrumbs"
+helpers Breadcrumbs
+
 # Sitemap.xml
 require 'builder'
 page "/sitemap.xml", :layout => false

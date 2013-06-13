@@ -18,11 +18,16 @@
 }
 
 #footer {
-	background-color: whitesmoke;
-	border-top: 1px solid #e5e5e5;
+	background-color: #f1f1f1;
+	border-top: 1px solid #ddd;
 	padding-bottom: 30px;
 	padding-right: 30px;
 	padding-top: 30px;
+}
+
+.breadcrumb {
+	background-color: #f1f1f1;
+	border-bottom: 1px solid #ddd;
 }
 
 article img, article a img {
@@ -46,16 +51,27 @@ article h1, section h1 {
 	color: #0088cc;
 }
 
-article footer {
-	margin-top: 50px;
+.byline address {
+	display:inline;
+	line-height:normal;
 }
 
 .byline, .tagline, .byline address {
 	font-variant:small-caps;
 	font-weight:500;
 	font-size:110%;
-	display:inline;
 	margin:0px;
-	line-height:normal;
 }
 
+#disqus_thread, article footer {
+	margin-top: 20px;
+	padding-top:20px;
+	border-top: 1px solid #ddd;
+}
+
+article {
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #ddd;
+}
+	
