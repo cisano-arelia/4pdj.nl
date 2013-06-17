@@ -7,29 +7,20 @@ Time.zone = "CET"
 
 # Blog
 activate :blog do |blog|
-  # blog.prefix = "blog"
-  # blog.permalink = ":year/:month/:day/:title.html"
-  # blog.sources = ":year-:month-:day-:title.html"
+  blog.prefix = "blog"
+  blog.permalink = ":year/:month/:day/:title.html"
+  blog.sources = ":year-:month-:day-:title.html"
   # blog.taglink = "tags/:tag.html"
-  # blog.layout = "layout"
+  blog.layout = "blog"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = ":year.html"
   # blog.month_link = ":year/:month.html"
   # blog.day_link = ":year/:month/:day.html"
-  # blog.default_extension = ".markdown"
-
-  blog.prefix = "blog"
-  blog.permalink = ":year-:month-:day-:title"
-  blog.layout = "blog"
-  blog.default_extension = ".markdown.erd"
-
+  blog.default_extension = ".markdown.erb"
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
 end
-
-# Minify HTML
-#activate :minify_html
 
 # RSS Feed
 page "/feed.xml", :layout => false
@@ -56,6 +47,10 @@ activate :sprockets
 # Breadcrumbs
 require "lib/breadcrumbs"
 helpers Breadcrumbs
+
+# Breadcrumbs
+require "lib/image"
+helpers Image
 
 # Sitemap.xml
 require 'builder'
@@ -136,6 +131,9 @@ configure :build do
   
   # Minify Javascript on build
   activate :minify_javascript
+
+  # Minify html
+  activate :minify_html
   
   # Enable cache buster
   #activate :cache_buster
