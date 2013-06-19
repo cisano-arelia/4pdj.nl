@@ -1,0 +1,43 @@
+%aside#sidebar-first.sidebar.span3.hidden-phone
+  .region-sidebar-first-affix.affix-top{:style=>"width:156px;"}
+    .content
+      .accordion#accordion2
+        .accordion-group
+          .accordion-heading
+            %a.accordion-toggle(data-toggle="collapse" data-parent="#accordion2" href="#collapseOne")
+              Pages
+          .accordion-body.collapse.in#collapseOne
+            .accordion-inner
+              %ul
+                %li
+                  %a{:href=>'/pages/about'}
+                    About
+                %li
+                  %a{:href=>'/pages/ptools'}
+                    PTools
+        .accordion-group
+          .accordion-heading
+            %a.accordion-toggle(data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo")
+              Archive
+          .accordion-body.collapse#collapseTwo
+            .accordion-inner
+              %ul
+                - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+                  %li
+                    = link_to year, blog_year_path(year)
+                    (
+                    = articles.size
+                    )
+        .accordion-group
+          .accordion-heading
+            %a.accordion-toggle(data-toggle="collapse" data-parent="#accordion2" href="#collapseThree")
+              Topics
+          .accordion-body.collapse#collapseThree
+            .accordion-inner
+              %ul
+                - blog.tags.sort.each do |tag, articles|
+                  %li
+                    = link_to tag, tag_path(tag)
+                    (
+                    = articles.size
+                    )

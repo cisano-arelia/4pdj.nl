@@ -1,0 +1,42 @@
+- breadcrumbs.unshift current_page.title
+- wrap_layout :layout do
+  %article
+    %header>
+      %h1.headline
+        = current_page.title
+    .article-content
+      = yield
+    %footer
+      .byline
+        By 
+        %address.author
+          %a{:rel=>"author", :href=>"/pages/about/", :title=>current_page.data['author']}
+            = current_page.data['author']
+        on 
+        %time{:datetime=>current_page.date.strftime('%Y-%m-%d')}
+          = current_page.date.strftime('%b %e, %Y')
+      .tagline
+        Tagged as 
+        - if current_page.data['tags']
+          - current_page.data['tags'].sort.each do |tag|
+            = link_to tag, tag_path(tag)
+            ,
+      #disqus_thread
+      :javascript
+        var disqus_shortname = '4pdj';
+        var disqus_identifier = 'http://4pdj.nl/#{current_page.url}';
+        var disqus_title = '#{current_page.title}';
+        var disqus_url = 'http://4pdj.nl/#{current_page.url}';
+        (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      %noscript
+        Please enable JavaScript to view the 
+        %a{:href=>"http://disqus.com/?ref_noscript"}
+          comments powered by Disqus.
+      %a.dsq-brlink{:href=>"http://disqus.com"}
+        comments powered by 
+        %span.logo-disqus
+          Disqus

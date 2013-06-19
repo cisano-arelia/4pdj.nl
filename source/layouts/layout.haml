@@ -1,0 +1,23 @@
+- breadcrumbs.unshift '<a href="/">Home</a>'
+!!!
+%html
+  %head
+    %title
+      4pdj
+    %meta{:charset=>"utf-8"}
+    %meta{:name=>"viewport", :content=>"width=device-width, initial-scale=1.0"}
+    - if current_page.data['tags']
+      %meta{:name=>"keywords", :content=>current_page.data['tags'].join(', ')}
+    %link{:rel=>"alternate", :href=>"/feed.xml", :title=>"4pdj", :type=>"application/atom+xml"}
+    = stylesheet_link_tag "4pdj"
+    = javascript_include_tag "4pdj"
+  %body
+    = partial "partials/header"
+    = partial "partials/breadcrumbs"
+    .main
+      .container
+        .row-toggle.row-fluid
+          %section#content.span9
+            = yield
+          = partial "partials/aside"
+    = partial "partials/footer"

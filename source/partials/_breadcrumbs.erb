@@ -1,9 +1,0 @@
-<ul class="breadcrumb">
-  <% breadcrumbs.each do |breadcrumb| %>
-    <li <% if breadcrumb == breadcrumbs.last %>class="active"<% end %>><%= breadcrumb %>
-    <% if breadcrumb != breadcrumbs.last %>
-      <span class="divider">&raquo;</span>
-    <% end %>
-    </li>
-  <% end %>
-</ul>
