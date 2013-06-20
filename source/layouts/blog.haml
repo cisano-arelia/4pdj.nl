@@ -1,7 +1,13 @@
+- content_for :head do
+  - if current_page.data['tags']
+    %meta{:name=>"keywords", :content=>current_page.data['tags'].join(', ')}
+- content_for :title do
+  \-
+  = current_page.title
 - breadcrumbs.unshift current_page.title
 - wrap_layout :layout do
   %article
-    %header>
+    %header
       %h1.headline
         = current_page.title
     .article-content
@@ -20,7 +26,8 @@
         - if current_page.data['tags']
           - current_page.data['tags'].sort.each do |tag|
             = link_to tag, tag_path(tag)
-            ,
+            - if tag != current_page.data['tags'].sort.last
+              ,
       #disqus_thread
       :javascript
         var disqus_shortname = '4pdj';
