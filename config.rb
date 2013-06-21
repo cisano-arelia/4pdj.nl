@@ -134,6 +134,11 @@ configure :build do
   # Minify html
   activate :minify_html
   
+  # Favicon generator
+  activate :favicon_maker,
+    :favicon_maker_input_dir => "source/assets/img/",
+    :favicon_maker_base_image => "sigil-white.png"
+
   # Enable cache buster
   #activate :cache_buster
   

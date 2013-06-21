@@ -3,6 +3,9 @@ source "https://rubygems.org"
 gem "middleman", "~> 3.0.14"
 gem "middleman-blog", "~> 3.2.0"
 
+# Favicons
+gem "middleman-favicon-maker", "~> 3.2"
+
 # Minify
 gem "middleman-minify-html"
 
