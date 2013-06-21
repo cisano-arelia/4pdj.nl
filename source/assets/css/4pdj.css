@@ -5,6 +5,11 @@
  */
 
 body {
+	background: url(/assets/img/natural_landscape.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	padding: 0px;
 	margin: 0px;
 }
@@ -65,6 +70,13 @@ article a:hover img {
         box-shadow: 1px 1px 5px #999;
 }
 
+#main {
+	background-color: white;
+	-moz-box-shadow: 1px 1px 10px #999;
+	-webkit-box-shadow: 1px 1px 10px #999;
+        box-shadow: 1px 1px 10px #999;
+}
+
 article h1, section h1 {
 	color: #0088cc;
 }
@@ -94,21 +106,25 @@ article {
 }
 	
 .logo {
-  background-image: url(/assets/img/eyes_sylvain.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-color: black;
+	background-image: url(/assets/img/eyes_sylvain.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-color: black;
 }
 
 img.sigil {
-  margin: 14px;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -khtml-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  width: 120px;
-  height: 120px;
-  -moz-box-shadow: 1px 1px 3px #999;
-  -webkit-box-shadow: 1px 1px 3px #999;
-  box-shadow: 1px 1px 3px #999;
+	margin: 14px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	width: 120px;
+	height: 120px;
+	-moz-box-shadow: 1px 1px 3px #999;
+	-webkit-box-shadow: 1px 1px 3px #999;
+	box-shadow: 1px 1px 3px #999;
+}
+
+#spacer {
+	height: 15px;
 }
