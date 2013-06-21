@@ -114,6 +114,8 @@ set :js_dir, 'assets/js'
 
 set :images_dir, 'images'
 
+ignore 'assets/img/sigil-white.png'
+
 ignore 'assets/js/license.js'
 ignore 'assets/js/bootstrap.js'
 ignore 'assets/js/jquery.js'

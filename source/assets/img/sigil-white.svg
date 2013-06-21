@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744"
+   height="744"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sigil.svg"
+   inkscape:export-filename="/home/nathema/Dropbox/Projects/InkScape/sigil.png"
+   inkscape:export-xdpi="99.980003"
+   inkscape:export-ydpi="99.980003">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3786"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3788"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3790"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter3792"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3794"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3796"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter3798"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3800"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3802"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter3804"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3806"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3808"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter3810"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3812"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3814"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4855"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4857"
+         in="SourceAlpha"
+         stdDeviation="4"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4859"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset4861"
+         in="bluralpha"
+         dx="20"
+         dy="20"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4863">
+        <feMergeNode
+           id="feMergeNode4865"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4867"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       id="filter4869"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4871"
+         in="SourceAlpha"
+         stdDeviation="4"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4873"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset4875"
+         in="bluralpha"
+         dx="20"
+         dy="20"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4877">
+        <feMergeNode
+           id="feMergeNode4879"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4881"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       id="filter4883"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4885"
+         in="SourceAlpha"
+         stdDeviation="4"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4887"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset4889"
+         in="bluralpha"
+         dx="20"
+         dy="20"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4891">
+        <feMergeNode
+           id="feMergeNode4893"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4895"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       id="filter4897"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4899"
+         in="SourceAlpha"
+         stdDeviation="4"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4901"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset4903"
+         in="bluralpha"
+         dx="20"
+         dy="20"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4905">
+        <feMergeNode
+           id="feMergeNode4907"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4909"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36"
+     inkscape:cx="368.25805"
+     inkscape:cy="426.06919"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1154"
+     inkscape:window-height="769"
+     inkscape:window-x="142"
+     inkscape:window-y="223"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2997"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Achterachterground">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;opacity:1"
+       id="rect5333"
+       width="880"
+       height="880"
+       x="-40"
+       y="-56" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Achtergrond"
+     transform="translate(0,-308.36218)">
+    <path
+       style="opacity:0.5614618;fill:none;stroke:#0080ff;stroke-width:37.70781326;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none"
+       d="M 80,332.36218 21.236775,395.63174 138.76322,332.36218 21.236775,466.49366 247.69018,334.89296 21.236775,555.07105 358.05038,331.09678 41.302267,625.93297 455.51132,333.62757 21.236775,696.79488 524.3073,331.09678 41.302267,749.94132 597.40301,334.89296 21.236775,820.80323 653.29974,341.21991 21.236775,891.66515 723.52895,342.48531 21.236775,962.52706 723.52895,431.0627 21.236775,1033.389 703.46346,537.35557 121.56422,1015.6736 683.39797,625.93297 201.82619,1033.389 683.39797,714.51036 302.15365,1033.389 703.46346,785.37226 422.5466,1033.389 703.46346,873.94966 542.93954,1033.389 703.46346,962.52706 643.26699,1033.389"
+       id="path3002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+  </g>
+  <g
+     id="g3816"
+     inkscape:groupmode="layer"
+     inkscape:label="Sigil"
+     transform="translate(0,-308.36218)">
+    <g
+       transform="translate(80,-0.01281738)"
+       id="g3818"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4855);font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter" />
+    <g
+       id="g3822"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4869);font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       transform="matrix(1,0,0,-1,80,-0.01281738)" />
+    <g
+       transform="translate(80,-0.01281738)"
+       id="g3824"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4883);font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter" />
+    <g
+       id="g3828"
+       style="filter:url(#filter4897)"
+       transform="matrix(0.91594099,0,0,0.89083107,29.927099,323.75029)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 300,132.36218 0,20 c 25,0 35,15 40,40 l 0,200 c 0,0 -180,0 -180,140 0,140 180,140 180,140 0,19.99999 -10,40.00001 -40,50 l 30,40 c 40,-10 70,-40 70,-90 l 40,0 0,-20 c -25,0 -35,-15 -40,-40 l 0,-200 c 0,0 180,0 180,-140 0,-140 -180,-140 -180,-140 l -100,0 z m 100,20 c 0,0 120,0 120,120 0,120 -120,120 -120,120 l 0,-240 z m -60,260 0,240 c 0,0 -120,0 -120,-120 0,-120 120,-120 120,-120 z"
+         id="path3820"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#754600;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 409.99999,72.349363 c 0,22.091389 -17.90861,39.999997 -40,39.999997 -22.09139,0 -40,-17.908608 -40,-39.999997 0,-22.09139 17.90861,-39.999999 40,-39.999999 22.09139,0 40,17.908609 40,39.999999 z"
+         id="path3826"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
