@@ -51,10 +51,6 @@ activate :sprockets
 require "lib/breadcrumbs"
 helpers Breadcrumbs
 
-# Breadcrumbs
-require "lib/image"
-helpers Image
-
 # Sitemap.xml
 require 'builder'
 page "/sitemap.xml", :layout => false

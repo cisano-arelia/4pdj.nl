@@ -12,7 +12,7 @@
         = current_page.title
     .article-content
       = yield
-    %footer
+    %footer.footer.blog_article
       .byline
         By 
         %address.author
@@ -31,9 +31,9 @@
       #disqus_thread
       :javascript
         var disqus_shortname = '4pdj';
-        var disqus_identifier = 'http://4pdj.nl/#{current_page.url}';
+        var disqus_identifier = 'http://4pdj.nl#{current_page.url}';
         var disqus_title = '#{current_page.title}';
-        var disqus_url = 'http://4pdj.nl/#{current_page.url}';
+        var disqus_url = 'http://4pdj.nl#{current_page.url}';
         (function() {
           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
           dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';

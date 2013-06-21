@@ -63,7 +63,7 @@ article h1, section h1 {
 	margin:0px;
 }
 
-#disqus_thread, article footer {
+#disqus_thread, .blog_article {
 	margin-top: 20px;
 	padding-top:20px;
 	border-top: 1px solid #ddd;
