@@ -1,6 +1,8 @@
 - content_for :head do
   - if current_page.data['tags']
     %meta{:name=>"keywords", :content=>current_page.data['tags'].join(', ')}
+  %meta{:name=>"description", :content=>current_page.title}
+  %meta{:name=>"author", :content=>current_page.data['author']}
 - content_for :title do
   \-
   = current_page.title

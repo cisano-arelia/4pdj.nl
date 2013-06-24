@@ -54,7 +54,6 @@ helpers Breadcrumbs
 # Sitemap.xml
 require 'builder'
 page "/sitemap.xml", :layout => false
-page "/sitemap.html", :layout => false
 
 # Bing
 page "/BingSiteAuth.xml", :layout => false
