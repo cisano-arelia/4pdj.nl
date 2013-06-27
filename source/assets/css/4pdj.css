@@ -5,23 +5,9 @@
  */
 
 body {
-	background: url(/assets/img/natural_landscape.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	background: url(/assets/img/orange.png) repeat fixed center;
 	padding: 0px;
 	margin: 0px;
-}
-
-@media only screen and (-moz-min-device-pixel-ratio: 1.5),
-only screen and (-o-min-device-pixel-ratio: 3/2),
-only screen and (-webkit-min-device-pixel-ratio: 1.5),
-only screen and (min-device-pixel-ratio: 1.5),
-only screen and (min-resolution: 144dpi) {
-	body {
-		background: none;
-	}
 }
 
 .navbar-inner, .navbar .brand, .navbar-static-top {
@@ -58,6 +44,14 @@ ul.nav.pull-right {
         padding-top: 10px;
 }
 
+#copyright {
+	padding: 4px;
+}
+
+#poweredby {
+	padding-top: 4px;
+}
+
 .breadcrumb {
 	background-color: #f1f1f1;
 	border-bottom: 1px solid #ddd;
@@ -67,6 +61,7 @@ article img, article a img {
 	padding: 5px;
 	border: solid 1px #EFEFEF;
 }
+
 #rss, #linkedin, #twitter {
         padding: 0px;
 	height: 30px;
@@ -82,9 +77,9 @@ article a:hover img {
 
 #main {
 	background-color: white;
-	-moz-box-shadow: 1px 1px 10px #999;
-	-webkit-box-shadow: 1px 1px 10px #999;
-        box-shadow: 1px 1px 10px #999;
+	-moz-box-shadow: 1px 1px 20px #000;
+	-webkit-box-shadow: 1px 1px 20px #000;
+        box-shadow: 1px 1px 20px #000;
 }
 
 article h1, section h1 {

@@ -28,6 +28,9 @@ end
 # RSS Feed
 page "/feed.xml", :layout => false
 
+# Enable LiveReload
+activate :livereload
+
 # Enable Pretty URL's
 activate :directory_indexes
 
