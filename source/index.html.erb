@@ -1,10 +1,16 @@
 ---
 title: 4pdj
-pageable: true
-per_page: 5
+per_page: 7
 ---
-<% page_articles.each_with_index do |current_article, i| %>
-  <article>
+<% current_article = blog.articles[0] %>
+<div class="hero-unit">
+  <% if current_article.data['hero'] %>
+  <div class="row-fluid">
+    <div class="span4 hidden-phone">
+    <img src="<%= current_article.data['hero'] %>" alt="<%= current_article.title %>">
+    </div>
+  <% end %>
+  <article <% if current_article.data['hero'] %>class="span8"<% end %>>
     <header>
       <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
     </header>
@@ -15,16 +21,24 @@ per_page: 5
       <a href="<%= current_article.url %>" class="btn disabled"><i class="icon-zoom-in"></i> read more</a>
     </footer>
   </article>
-<% end %>
+  <% if current_article.data['hero'] %>
+  </div>
+  <% end %>
+</div>
 
-<% if paginate %>
-<ul class="pager">
-  <li class="previous<% unless next_page %> disabled<% end %>">
-    <%= link_to '&larr; Older', next_page %>
-  </li>
-  <li class="next<% unless prev_page %> disabled<% end %>"">
-    <%= link_to 'Newer &rarr;', prev_page %>
-  </li>
-</ul>
-<% end %>
-
+<div class="row-fluid">
+  <% blog.articles[1..3].each do |current_article| %>
+    <article class="span4">
+      <header>
+        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
+      </header>
+      <div class="article-content">
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail hidden-phone" alt="<%= current_article.title %>"><% end %>
+        <%= current_article.summary %>
+      </div>
+      <footer>
+        <a href="<%= current_article.url %>" class="btn disabled"><i class="icon-zoom-in"></i> read more</a>
+      </footer>
+    </article>
+  <% end %>
+</div>

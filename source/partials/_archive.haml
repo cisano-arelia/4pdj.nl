@@ -1,0 +1,3 @@
+- blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+  %li
+    = link_to(year.to_s + " (" + articles.size.to_s + ")", blog_year_path(year))

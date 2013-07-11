@@ -1,0 +1,1030 @@
+WARNING: Nokogiri was built against LibXML version 2.8.0, but has dynamically loaded 2.7.8
+== Activating: sprockets
+== Reading:  Local config
+== Activating: blog
+== Activating: livereload
+== Activating: directory_indexes
+== Activating: gzip
+== Activating: syntax
+== Activating: sprockets
+== Activating: minify_css
+== Activating: minify_javascript
+== Activating: minify_html
+== Activating: favicon_maker
+Loaded extensions:
+== Extension: sprockets
+== Extension: blog
+== Extension: livereload
+== Extension: directory_indexes
+== Extension: gzip
+== Extension: syntax
+== Extension: minify_css
+== Extension: minify_javascript
+== Extension: minify_html
+== Extension: favicon_maker
+== Extension: frontmatter
+== File Change: archive/lightbox2/images/speech-bubbles.png
+== File Change: archive/lightbox2/images/next.png
+== File Change: archive/lightbox2/images/close.png
+== File Change: archive/lightbox2/images/bullet.gif
+== File Change: archive/lightbox2/images/loading.gif
+== File Change: archive/lightbox2/images/box.png
+== File Change: archive/lightbox2/images/prev.png
+== File Change: archive/lightbox2/images/bg-checker.png
+== File Change: archive/lightbox2/images/examples/image-1.jpg
+== File Change: archive/lightbox2/images/examples/image-4.jpg
+== File Change: archive/lightbox2/images/examples/thumb-4.jpg
+== File Change: archive/lightbox2/images/examples/thumb-1.jpg
+== File Change: archive/lightbox2/images/examples/thumb-5.jpg
+== File Change: archive/lightbox2/images/examples/thumb-2.jpg
+== File Change: archive/lightbox2/images/examples/thumb-3.jpg
+== File Change: archive/lightbox2/images/examples/image-5.jpg
+== File Change: archive/lightbox2/images/examples/thumb-6.jpg
+== File Change: archive/lightbox2/images/examples/image-2.jpg
+== File Change: archive/lightbox2/images/examples/image-3.jpg
+== File Change: archive/lightbox2/images/examples/image-6.jpg
+== File Change: archive/lightbox2/images/favicon.gif
+== File Change: archive/lightbox2/images/donate.png
+== File Change: archive/lightbox2/index.html
+== File Change: archive/lightbox2/README.markdown
+== File Change: archive/lightbox2/.project
+== File Change: archive/lightbox2/coffee/lightbox.coffee
+== File Change: archive/lightbox2/.gitignore
+== File Change: archive/lightbox2/releases/lightbox2.04.zip
+== File Change: archive/lightbox2/releases/lightbox2.01.zip
+== File Change: archive/lightbox2/releases/lightbox2.03.zip
+== File Change: archive/lightbox2/releases/lightbox2.03.2.zip
+== File Change: archive/lightbox2/releases/lightbox2.zip
+== File Change: archive/lightbox2/releases/lightbox2.03.1.zip
+== File Change: archive/lightbox2/releases/lightbox2.03.3.zip
+== File Change: archive/lightbox2/releases/lightbox2.51.zip
+== File Change: archive/lightbox2/releases/lightbox2.05.zip
+== File Change: archive/lightbox2/releases/lightbox2.02.zip
+== File Change: archive/lightbox2/releases/lightbox2.5.zip
+== File Change: archive/lightbox2/css/screen.css
+== File Change: archive/lightbox2/css/lightbox.css
+== File Change: archive/lightbox2/js/jquery-ui-1.8.18.custom.min.js
+== File Change: archive/lightbox2/js/jquery-1.7.2.min.js
+== File Change: archive/lightbox2/js/lightbox.js
+== File Change: archive/lightbox2/js/jquery.smooth-scroll.min.js
+== File Change: archive/lightbox2/.git/hooks/commit-msg.sample
+== File Change: archive/lightbox2/.git/hooks/pre-rebase.sample
+== File Change: archive/lightbox2/.git/hooks/pre-applypatch.sample
+== File Change: archive/lightbox2/.git/hooks/update.sample
+== File Change: archive/lightbox2/.git/hooks/pre-commit.sample
+== File Change: archive/lightbox2/.git/hooks/prepare-commit-msg.sample
+== File Change: archive/lightbox2/.git/hooks/post-update.sample
+== File Change: archive/lightbox2/.git/hooks/applypatch-msg.sample
+== File Change: archive/lightbox2/.git/packed-refs
+== File Change: archive/lightbox2/.git/info/exclude
+== File Change: archive/lightbox2/.git/index
+== File Change: archive/lightbox2/.git/config
+== File Change: archive/lightbox2/.git/HEAD
+== File Change: archive/lightbox2/.git/objects/pack/pack-653699ced1d4c30d34f1c53a02d674f624a17e0d.idx
+== File Change: archive/lightbox2/.git/objects/pack/pack-653699ced1d4c30d34f1c53a02d674f624a17e0d.pack
+== File Change: archive/lightbox2/.git/logs/HEAD
+== File Change: archive/lightbox2/.git/logs/refs/heads/master
+== File Change: archive/lightbox2/.git/description
+== File Change: archive/lightbox2/.git/refs/remotes/origin/HEAD
+== File Change: archive/lightbox2/.git/refs/heads/master
+== File Change: archive/lightbox2/sass/lightbox.sass
+== File Change: archive/lightbox2/sass/screen.sass
+== File Change: archive/lightbox2/sass/_variables.sass
+== File Change: archive/middleman-sitemap/sitemap.html.erb
+== File Change: archive/middleman-sitemap/README.md
+== File Change: archive/middleman-sitemap/data/sitemap.yml
+== File Change: archive/middleman-sitemap/sitemap.xml.builder
+== File Change: archive/middleman-sitemap/.git/hooks/commit-msg.sample
+== File Change: archive/middleman-sitemap/.git/hooks/pre-rebase.sample
+== File Change: archive/middleman-sitemap/.git/hooks/pre-applypatch.sample
+== File Change: archive/middleman-sitemap/.git/hooks/update.sample
+== File Change: archive/middleman-sitemap/.git/hooks/pre-commit.sample
+== File Change: archive/middleman-sitemap/.git/hooks/prepare-commit-msg.sample
+== File Change: archive/middleman-sitemap/.git/hooks/post-update.sample
+== File Change: archive/middleman-sitemap/.git/hooks/applypatch-msg.sample
+== File Change: archive/middleman-sitemap/.git/packed-refs
+== File Change: archive/middleman-sitemap/.git/info/exclude
+== File Change: archive/middleman-sitemap/.git/index
+== File Change: archive/middleman-sitemap/.git/config
+== File Change: archive/middleman-sitemap/.git/HEAD
+== File Change: archive/middleman-sitemap/.git/ORIG_HEAD
+== File Change: archive/middleman-sitemap/.git/FETCH_HEAD
+== File Change: archive/middleman-sitemap/.git/objects/ef/8930c084b87347733cbb36cb27a84131f42d7a
+== File Change: archive/middleman-sitemap/.git/objects/69/d0e0293f9c3592c1a9a3d53672b984e7a8a888
+== File Change: archive/middleman-sitemap/.git/objects/52/f93a11207fea010ae82931ca4392e972c24e9c
+== File Change: archive/middleman-sitemap/.git/objects/28/eab411ef5f8ba0e10d71e87f53abb55631e469
+== File Change: archive/middleman-sitemap/.git/objects/bb/d2dd191cb5875ffe108441da685a64802c1290
+== File Change: archive/middleman-sitemap/.git/objects/71/f62240b82b122b042f47b6f8ec5b2fca116756
+== File Change: archive/middleman-sitemap/.git/objects/09/8930f550f517bcac4b1b3305f10d3b818759ba
+== File Change: archive/middleman-sitemap/.git/objects/d6/f03ccca6f9def31fd002f562a88beb1938c4e0
+== File Change: archive/middleman-sitemap/.git/objects/81/e0b81f37df8994e01eddcdb2c0521ed8fcc804
+== File Change: archive/middleman-sitemap/.git/objects/b4/43cdbfad2c5f2ea38a4505726cddfee084aacd
+== File Change: archive/middleman-sitemap/.git/objects/b4/22ad3bc6b5a1bcf17e6737a2f3d7192c114fc8
+== File Change: archive/middleman-sitemap/.git/objects/63/17f9fd3eb5cf7872a61d427193048e7b29dfe8
+== File Change: archive/middleman-sitemap/.git/objects/1d/41f8dfb1c46b5e1e7106e749ae41dc2d6ce7d5
+== File Change: archive/middleman-sitemap/.git/objects/c8/ae389299b838fb081852baae3799674adb2ae2
+== File Change: archive/middleman-sitemap/.git/objects/5d/754d3865e7e434d8b90c403ad24ca032d234ff
+== File Change: archive/middleman-sitemap/.git/objects/e7/ae6a68d8ea30f9cf8625f28f1d3f7dedfbfefb
+== File Change: archive/middleman-sitemap/.git/objects/a2/921390e85bc989db7552cc6a400d5ef4fb224c
+== File Change: archive/middleman-sitemap/.git/objects/8c/2ebdbe3b726e070f26a1fa14a197f09261806d
+== File Change: archive/middleman-sitemap/.git/objects/ca/8468f0cd1179eff97d69df70bb0aa0d5c7dd46
+== File Change: archive/middleman-sitemap/.git/objects/5e/8dbb74eeaad3711bdf73c15bf2670d5e6aa794
+== File Change: archive/middleman-sitemap/.git/objects/fd/7c2be1bd6b005795b869ea8f9df6e1da7c5bb5
+== File Change: archive/middleman-sitemap/.git/objects/b6/866d5ab933d6a6f3c2c26f02b66fdd264d627e
+== File Change: archive/middleman-sitemap/.git/logs/HEAD
+== File Change: archive/middleman-sitemap/.git/logs/refs/heads/master
+== File Change: archive/middleman-sitemap/.git/description
+== File Change: archive/middleman-sitemap/.git/refs/remotes/origin/HEAD
+== File Change: archive/middleman-sitemap/.git/refs/heads/master
+== File Change: archive/bootstrap/img/glyphicons-halflings.png
+== File Change: archive/bootstrap/img/glyphicons-halflings-white.png
+== File Change: archive/bootstrap/css/bootstrap-responsive.min.css
+== File Change: archive/bootstrap/css/bootstrap.min.css
+== File Change: archive/bootstrap/css/bootstrap-responsive.css
+== File Change: archive/bootstrap/css/bootstrap.css
+== File Change: archive/bootstrap/js/bootstrap.min.js
+== File Change: archive/bootstrap/js/bootstrap.js
+== File Change: archive/mkthumb.sh
+== File Change: archive/apache-virtualhost-www.4pdj.nl
+== File Change: lib/breadcrumbs.rb
+== File Change: source/images/Sylvain-een-likje-is-niet-genoeg.jpg
+== File Change: source/images/eerste_sneeuw_2009_644_thumb.png
+== File Change: source/images/gtd_moleskine.jpg
+== File Change: source/images/lineage2_cooki_clanwar_thumb.png
+== File Change: source/images/lineage2_teon_cemetary_thumb.png
+== File Change: source/images/summer2009_minas2_thumb.png
+== File Change: source/images/gtd_succes_agenda-300x225.jpg
+== File Change: source/images/marrowgar_down_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_645.jpg
+== File Change: source/images/gtd_succes_agenda_thumb-300x225.png
+== File Change: source/images/sylvain-19-07-2010-thumb-300x225.png
+== File Change: source/images/eerste_sneeuw_2009_654.jpg
+== File Change: source/images/gtd_chart-180x300.png
+== File Change: source/images/Sylvain-staand-op-de-bank-thumb.png
+== File Change: source/images/Sylvain-spelend-op-zijn-mat-thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-207x300.png
+== File Change: source/images/Sylvain-in-skipakje-in-de-winter.jpg
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-707x1024.jpg
+== File Change: source/images/summer2009_pizza3.jpg
+== File Change: source/images/middleman.svg
+== File Change: source/images/gtd_moleskine_thumb.png
+== File Change: source/images/gtd_chart.png
+== File Change: source/images/Silvain-20wekenecho_thumb-150x150.png
+== File Change: source/images/icc_gunshipbattle_down.jpg
+== File Change: source/images/2012-07-16_00.23.05.png
+== File Change: source/images/oracle.png
+== File Change: source/images/tap0.png
+== File Change: source/images/Silvain-20wekenecho-300x222.jpg
+== File Change: source/images/summer2009_france_joigny_hotel.jpg
+== File Change: source/images/eerste_sneeuw_2009_656_thumb.png
+== File Change: source/images/speech-bubbles.png
+== File Change: source/images/kaylee.png
+== File Change: source/images/google_wave.png
+== File Change: source/images/schiermonnikoog-vuurtoren.jpg
+== File Change: source/images/subskills_thumb.png
+== File Change: source/images/summer2009_kaylee_thumb.png
+== File Change: source/images/2012-07-11_23.33.00.png
+== File Change: source/images/2012-07-16_10.27.52.png
+== File Change: source/images/Sylvain-op-de-bank-bij-opa-en-oma-thumb.png
+== File Change: source/images/sylvain-19-07-2010-300x225.jpg
+== File Change: source/images/sylvain-19-07-2010-thumb-400x198.png
+== File Change: source/images/Sylvain-een-likje-is-niet-genoeg-thumb.png
+== File Change: source/images/puck_hands_up_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl_21_dion.jpg
+== File Change: source/images/gtd_succes_agenda-1024x768.jpg
+== File Change: source/images/lineage2_teon_this_is_what_treasure_hunters_are_about_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl20_hunting_for_raccoons.jpg
+== File Change: source/images/eerste_sneeuw_2009_662.jpg
+== File Change: source/images/lineage2_cooki_clanwar.jpg
+== File Change: source/images/lineage2_teon_th_lvl20_hunting_for_raccoons_thumb.png
+== File Change: source/images/next.png
+== File Change: source/images/eerste_sneeuw_2009_648_thumb.png
+== File Change: source/images/kaylee_is_the_supervisor_thumb.png
+== File Change: source/images/Sylvain-staand-op-de-bank2-thumb.png
+== File Change: source/images/efteling_vliegende_hollander.png
+== File Change: source/images/gtd_moleskine_thumb-150x150.png
+== File Change: source/images/lineage2_cooki_political_drama_thumb.png
+== File Change: source/images/close.png
+== File Change: source/images/eerste_sneeuw_2009_647_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_652.jpg
+== File Change: source/images/summer2009_minas1_thumb2.png
+== File Change: source/images/istqb.jpg
+== File Change: source/images/wow_nathema_naxxramas_thumb.png
+== File Change: source/images/Sylvain-zittend.jpg
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma-thumb.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma2.jpg
+== File Change: source/images/eerste_sneeuw_2009_653_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl35_forest_of_mirrors_thumb.png
+== File Change: source/images/gtd_succes_agenda.jpg
+== File Change: source/images/eerste_sneeuw_2009_657_thumb.png
+== File Change: source/images/puck_fc_groningen_thumb.png
+== File Change: source/images/wow_nathema_naxxramas.jpg
+== File Change: source/images/puck_fc_groningen.jpg
+== File Change: source/images/lineage2_teon_catacombs_all_the_way.jpg
+== File Change: source/images/minas_garden.jpg
+== File Change: source/images/bullet.gif
+== File Change: source/images/summer2009_pizza4_thumb.png
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land2_thumb.png
+== File Change: source/images/wow_nathema_naxxramas2_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_657.jpg
+== File Change: source/images/schiermonnikoog-strand.jpg
+== File Change: source/images/eerste_sneeuw_2009_651_thumb.png
+== File Change: source/images/2012-07-09_22.58.56.jpg
+== File Change: source/images/summer2009_pizza1.jpg
+== File Change: source/images/wow_athun_revival_thumb.png
+== File Change: source/images/lineage2_gracia_delivered.jpg
+== File Change: source/images/icc_lady_down.jpg
+== File Change: source/images/eerste_sneeuw_2009_646_thumb.png
+== File Change: source/images/sylvain-19-07-2010-thumb-150x150.png
+== File Change: source/images/eerste_sneeuw_2009_648.jpg
+== File Change: source/images/summer2009_france_joigny_thumb.png
+== File Change: source/images/2012-07-11_23.25.36.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-400x198.png
+== File Change: source/images/gtd_succes_agenda_thumb.png
+== File Change: source/images/gtd_moleskine-150x150.jpg
+== File Change: source/images/efteling_vliegende_hollander_thumb.png
+== File Change: source/images/sylvain-19-07-2010-1024x768.jpg
+== File Change: source/images/summer2009_d-olle_grieze_thumb.png
+== File Change: source/images/kaylee_garden_thumb.png
+== File Change: source/images/summer2009_kaylee.jpg
+== File Change: source/images/lineage2_teon_b_grade.jpg
+== File Change: source/images/lineage2_teon_b_grade_thumb.png
+== File Change: source/images/Sylvain-verjaardag.jpg
+== File Change: source/images/2012-07-13_12.03.36.png
+== File Change: source/images/schiermonnikoog-vuurtoren-thumb.png
+== File Change: source/images/lineage2_ashura_giran_castle.jpg
+== File Change: source/images/lineage2_cooki_fake_romance.jpg
+== File Change: source/images/summer2009_dokkum1.jpg
+== File Change: source/images/efteling.jpg
+== File Change: source/images/eerste_sneeuw_2009_661_thumb.png
+== File Change: source/images/summer2009_pizza4.jpg
+== File Change: source/images/eerste_sneeuw_2009_653.jpg
+== File Change: source/images/PDJ-2012-May-Apollo-0006-thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-207x300.jpg
+== File Change: source/images/Silvain-20wekenecho_thumb.png
+== File Change: source/images/summer2009_lauwersoog2_thumb.png
+== File Change: source/images/lineage2_worldmap_kamael.jpg
+== File Change: source/images/lineage2_worldmap_kamael_thumb.png
+== File Change: source/images/Sylvain-op-de-komode.jpg
+== File Change: source/images/lineage2_ashura_syn_alliance_thumb.png
+== File Change: source/images/loading.gif
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land.jpg
+== File Change: source/images/gtd_moleskine-300x192.jpg
+== File Change: source/images/eerste_sneeuw_2009_650.jpg
+== File Change: source/images/PDJ-2012-May-Apollo-0006.jpg
+== File Change: source/images/summer2009_pizza1_thumb.png
+== File Change: source/images/lineage2_cooki_the_beginning.jpg
+== File Change: source/images/summer2009_dokkum3.jpg
+== File Change: source/images/gtd_moleskine_thumb-300x192.png
+== File Change: source/images/lineage2_teon_raiding_near_oren2_thumb.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma3.jpg
+== File Change: source/images/box.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma2-thumb.png
+== File Change: source/images/eerste_sneeuw_2009_655_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_ivory_tower.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_hardins_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_650_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_oren1.jpg
+== File Change: source/images/eerste_sneeuw_2009_660_thumb.png
+== File Change: source/images/Sylvain-op-de-komode-thumb.png
+== File Change: source/images/summer2009_pizza2_thumb.png
+== File Change: source/images/lineage2_ashura_syn_alliance.jpg
+== File Change: source/images/Sylvain-op-de-bank-met-opa.jpg
+== File Change: source/images/lineage2_cooki_the_beginning_thumb.png
+== File Change: source/images/2012-07-09_22.59.59.jpg
+== File Change: source/images/summer2009_dokkum1_thumb.png
+== File Change: source/images/lineage2_teon_dinged_lvl_50_thumb.png
+== File Change: source/images/ffxiv_20130615_194139-thumb.png
+== File Change: source/images/eerste_sneeuw_2009_656.jpg
+== File Change: source/images/sylvain-19-07-2010.jpg
+== File Change: source/images/gtd_succes_agenda-150x150.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land_thumb.png
+== File Change: source/images/schiermonnikoog-ijsje.jpg
+== File Change: source/images/eerste_sneeuw_2009_649_thumb.png
+== File Change: source/images/lineage2_revival_giran_lvl20_artisan.jpg
+== File Change: source/images/summer2009_pizza2.jpg
+== File Change: source/images/summer2009_minas2.jpg
+== File Change: source/images/prev.png
+== File Change: source/images/eerste_sneeuw_2009_651.jpg
+== File Change: source/images/summer2009_kaylee_thumb2.png
+== File Change: source/images/Sylvain-in-skipakje-in-de-winter-thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_oren1_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_645_thumb.png
+== File Change: source/images/ffxiv_20130615_194139.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land2.jpg
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma3-thumb.png
+== File Change: source/images/bg-checker.png
+== File Change: source/images/eerste_sneeuw_2009_660.jpg
+== File Change: source/images/summer2009_dokkum3_thumb.png
+== File Change: source/images/summer2009_minas1_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_644.jpg
+== File Change: source/images/mayou_lucy_samen_thumb.png
+== File Change: source/images/summer2009_lauwersoog2.jpg
+== File Change: source/images/summer2009_lauwersoog1.jpg
+== File Change: source/images/225041472v6_350x350_front.jpg
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-150x150.jpg
+== File Change: source/images/summer2009_pizza3_thumb.png
+== File Change: source/images/marrowgar_down.jpg
+== File Change: source/images/summer2009_france_joigny_hotel_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_654_thumb.png
+== File Change: source/images/camping_dobbe_friesland.jpg
+== File Change: source/images/eerste_sneeuw_2009_649.jpg
+== File Change: source/images/sylvain-19-07-2010-150x150.jpg
+== File Change: source/images/2012-07-13_15.09.30.png
+== File Change: source/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee-thumb.png
+== File Change: source/images/vbox_logo2_gradient.png
+== File Change: source/images/wow_athun_revival.jpg
+== File Change: source/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank.jpg
+== File Change: source/images/Sylvain-zittend-thumb.png
+== File Change: source/images/lineage2_ashura_giran_castle_thumb.png
+== File Change: source/images/Sylvain-spelend-op-zijn-mat.jpg
+== File Change: source/images/kaylee_garden.jpg
+== File Change: source/images/Silvain-20wekenecho-150x150.jpg
+== File Change: source/images/lineage2_teon_sleeping_on_the_job.jpg
+== File Change: source/images/minime.jpg
+== File Change: source/images/gtd_chart-150x150.png
+== File Change: source/images/eerste_sneeuw_2009_643_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_oren2.jpg
+== File Change: source/images/Silvain-20wekenecho.jpg
+== File Change: source/images/eerste_sneeuw_2009_661.jpg
+== File Change: source/images/lineage2_gracia_delivered_and_accepted_thumb.png
+== File Change: source/images/sylvain-19-07-2010-thumb.png
+== File Change: source/images/eerste_sneeuw_2009_646.jpg
+== File Change: source/images/schiermonnikoog-ijsje-thumb.png
+== File Change: source/images/unreal_tournament2004_cover.jpg
+== File Change: source/images/lineage2_cooki_political_drama.jpg
+== File Change: source/images/lineage2_teon_raiding_near_ivory_tower_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-150x150.png
+== File Change: source/images/gtd_succes_agenda_thumb-150x150.png
+== File Change: source/images/Sylvain-verjaardag-thumb.png
+== File Change: source/images/lineage2_teon_th_lvl_30_catacomb.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank2.jpg
+== File Change: source/images/lineage2_teon_this_is_what_treasure_hunters_are_about.jpg
+== File Change: source/images/eerste_sneeuw_2009_652_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl_21_dion_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb.png
+== File Change: source/images/gracia.png
+== File Change: source/images/kaylee_is_the_supervisor.jpg
+== File Change: source/images/lineage2_teon_sleeping_on_the_job_thumb.png
+== File Change: source/images/cooki.jpg
+== File Change: source/images/lineage2_cooki_fake_romance_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl35_forest_of_mirrors.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_hardins.jpg
+== File Change: source/images/eerste_sneeuw_2009_662_thumb.png
+== File Change: source/images/minas_thumb.png
+== File Change: source/images/minas.png
+== File Change: source/images/lineage2_revival_giran_lvl20_artisan_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_655.jpg
+== File Change: source/images/Silvain-20wekenecho_thumb-300x222.png
+== File Change: source/images/lineage2_teon_cemetary.jpg
+== File Change: source/images/camping_dobbe_friesland_thumb.png
+== File Change: source/images/summer2009_france_joigny.jpg
+== File Change: source/images/istqb_thumb.png
+== File Change: source/images/puck_hands_up.jpg
+== File Change: source/images/summer2009_d-olle_grieze.jpg
+== File Change: source/images/favicon.gif
+== File Change: source/images/summer2009_dokkum4.jpg
+== File Change: source/images/summer2009_lauwersoog1_thumb.png
+== File Change: source/images/wow_nathema_naxxramas2.jpg
+== File Change: source/images/lineage2_teon_th_lvl_30_catacomb_thumb.png
+== File Change: source/images/lineage2_teon_catacombs_all_the_way_thumb.png
+== File Change: source/images/summer2009_dokkum4_thumb.png
+== File Change: source/images/summer2009_dokkum2_thumb.png
+== File Change: source/images/sylvain-19-07-2010-940x198.jpg
+== File Change: source/images/summer2009_minas1.jpg
+== File Change: source/images/donate.png
+== File Change: source/images/icc_gunshipbattle_down_thumb.png
+== File Change: source/images/lineage2_teon_dinged_lvl_50.jpg
+== File Change: source/images/schiermonnikoog-strand-thumb.png
+== File Change: source/images/subskills.jpg
+== File Change: source/images/lineage2_gracia_delivered_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010.jpg
+== File Change: source/images/Sylvain-op-de-bank-bij-opa-en-oma.jpg
+== File Change: source/images/Sylvain-op-de-bank-met-opa-thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-760x198.jpg
+== File Change: source/images/eerste_sneeuw_2009_643.jpg
+== File Change: source/images/icc_lady_down_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_647.jpg
+== File Change: source/images/summer2009_dokkum2.jpg
+== File Change: source/BingSiteAuth.xml
+== File Change: source/pages/about.markdown
+== File Change: source/pages/ptools.markdown
+== File Change: source/assets/img/glyphicons-halflings.png
+== File Change: source/assets/img/eyes_sylvain.png
+== File Change: source/assets/img/close.png
+== File Change: source/assets/img/sigil-white.png
+== File Change: source/assets/img/sigil-white.svg
+== File Change: source/assets/img/loading.gif
+== File Change: source/assets/img/rss.svg
+== File Change: source/assets/img/linkedin.svg
+== File Change: source/assets/img/twitter.png
+== File Change: source/assets/img/glyphicons-halflings-white.png
+== File Change: source/assets/css/lightbox.css
+== File Change: source/assets/css/bootstrap-responsive.css
+== File Change: source/assets/css/bootstrap.css
+== File Change: source/assets/css/4pdj.css
+== File Change: source/assets/js/4pdj.js
+== File Change: source/assets/js/license.js
+== File Change: source/assets/js/bootstrap.js
+== File Change: source/assets/js/lightbox.js
+== File Change: source/assets/js/jquery.js
+== File Change: source/sitemap.html.erb
+== File Change: source/feed.xml.builder
+== File Change: source/partials/_breadcrumbs.haml
+== File Change: source/partials/_pages.haml
+== File Change: source/partials/_header.haml
+== File Change: source/partials/_archive.haml
+== File Change: source/partials/_footer.haml
+== File Change: source/partials/_topics.haml
+== File Change: source/blog/2009-06-13-delivered-but-epic-fail.html.markdown.erb
+== File Change: source/blog/2009-06-19-artisan.html.markdown.erb
+== File Change: source/blog/2009-06-14-on-the-camping.html.markdown.erb
+== File Change: source/blog/2009-12-18-deeper-in-icc.html.markdown.erb
+== File Change: source/blog/2009-07-05-testimony-of-the-pilgrim.html.markdown.erb
+== File Change: source/blog/2010-04-28-weeeeeee-cute.html.markdown.erb
+== File Change: source/blog/2009-12-16-marrowgar-down.html.markdown.erb
+== File Change: source/blog/2009-06-24-dispatched2.html.markdown.erb
+== File Change: source/blog/2009-06-10-examen.html.markdown.erb
+== File Change: source/blog/2009-07-21-b-grade-and-a-pause.html.markdown.erb
+== File Change: source/blog/2013-05-29-middleman.html.markdown.erb
+== File Change: source/blog/2009-12-18-at-home.html.markdown.erb
+== File Change: source/blog/2010-07-20-hugz.html.markdown.erb
+== File Change: source/blog/2009-08-16-road-trip.html.markdown.erb
+== File Change: source/blog/2009-12-17-snow.html.markdown.erb
+== File Change: source/blog/2013-06-15-final-fantasy-xiv.html.markdown.erb
+== File Change: source/blog/2009-07-11-raiding-with-the-guild.html.markdown.erb
+== File Change: source/blog/2010-01-11-custom-firewall-under-ubuntu-karmic-koala-with-upstart.html.markdown.erb
+== File Change: source/blog/2009-05-17-efteling.html.markdown.erb
+== File Change: source/blog/2009-10-06-oracle-service-bus.html.markdown.erb
+== File Change: source/blog/2009-05-08-wow-rip.html.markdown.erb
+== File Change: source/blog/2009-12-22-cisco-anyconnect-on-ubuntu-64bit.html.markdown.erb
+== File Change: source/blog/2009-03-03-hello-world.html.markdown.erb
+== File Change: source/blog/2009-08-02-ode2.html.markdown.erb
+== File Change: source/blog/2009-05-27-finally.html.markdown.erb
+== File Change: source/blog/2009-04-16-ut.html.markdown.erb
+== File Change: source/blog/2009-06-11-dispatched.html.markdown.erb
+== File Change: source/blog/2009-07-16-ding.html.markdown.erb
+== File Change: source/blog/2009-07-04-its-sooooo-hot.html.markdown.erb
+== File Change: source/blog/2011-07-25-kitties.html.markdown.erb
+== File Change: source/blog/2009-06-28-lvl-30.html.markdown.erb
+== File Change: source/blog/2011-08-24-el-pooki-grande.html.markdown.erb
+== File Change: source/blog/2010-05-25-gtd-revisited.html.markdown.erb
+== File Change: source/blog/2009-06-06-ptools-went-public.html.markdown.erb
+== File Change: source/blog/2010-06-17-ubuntu-64-bit-lucid-lynx-vs-flash.html.markdown.erb
+== File Change: source/blog/2010-01-01-happy-newyear.html.markdown.erb
+== File Change: source/blog/2009-07-07-lets-hunt-for-treasure.html.markdown.erb
+== File Change: source/blog/2012-08-27-apollo-2.html.markdown.erb
+== File Change: source/blog/2009-06-25-arrived2.html.markdown.erb
+== File Change: source/blog/2013-06-07-grub2-chainload-mbr-image.html.markdown.erb
+== File Change: source/blog/2009-06-08-learning.html.markdown.erb
+== File Change: source/blog/2010-07-14-cute111.html.markdown.erb
+== File Change: source/blog/2009-08-27-post-joigny-syndrome.html.markdown.erb
+== File Change: source/blog/2009-05-31-it-has-been-decided.html.markdown.erb
+== File Change: source/blog/2009-10-25-wow-revival.html.markdown.erb
+== File Change: source/blog/2009-11-11-wave.html.markdown.erb
+== File Change: source/blog/2009-09-29-course-bea-weblogic-application-server.html.markdown.erb
+== File Change: source/blog/2009-11-10-raiding-again.html.markdown.erb
+== File Change: source/blog/2009-06-28-ode.html.markdown.erb
+== File Change: source/blog/2009-08-30-joigny.html.markdown.erb
+== File Change: source/blog/2013-06-24-schiermonnikoog.html.markdown.erb
+== File Change: source/blog/2009-11-20-virtualbox-bridged.html.markdown.erb
+== File Change: source/blog/2009-11-12-puck.html.markdown.erb
+== File Change: source/blog/2010-04-27-gtd.html.markdown.erb
+== File Change: source/blog/2009-07-17-treasure.html.markdown.erb
+== File Change: source/index.html.erb
+== File Change: source/calendar.html.erb
+== File Change: source/layouts/layout.haml
+== File Change: source/layouts/blog.haml
+== File Change: source/sitemap.xml.builder
+== File Change: source/output
+== File Change: source/tag.html.erb
+== File Change: config.ru
+== File Change: log/thin.9194.log
+== File Change: log/thin.9193.log
+== File Change: log/thin.9191.log
+== File Change: log/thin.9192.log
+== File Change: log/thin.9195.log
+== File Change: config.rb
+== Rebuilding resource list
+== Prerendering CSS
+== Checking for Compass sprites
+== Building files
+[1m[34m   identical[0m  build/assets/img/twitter.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_644_thumb.png
+[1m[34m   identical[0m  build/assets/img/close.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_clanwar_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_cemetary_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_minas2_thumb.png
+[1m[34m   identical[0m  build/assets/img/eyes_sylvain.png
+[1m[34m   identical[0m  build/images/marrowgar_down_thumb.png
+[1m[34m   identical[0m  build/assets/img/glyphicons-halflings.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb-300x225.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-300x225.png
+[1m[34m   identical[0m  build/assets/img/glyphicons-halflings-white.png
+[1m[34m   identical[0m  build/images/gtd_chart-180x300.png
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank-thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-spelend-op-zijn-mat-thumb.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-207x300.png
+[1m[34m   identical[0m  build/images/icc_lady_down_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-met-opa-thumb.png
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-strand-thumb.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb.png
+[1m[34m   identical[0m  build/images/gtd_chart.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb-150x150.png
+[1m[34m   identical[0m  build/images/icc_gunshipbattle_down_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-16_00.23.05.png
+[1m[34m   identical[0m  build/images/oracle.png
+[1m[34m   identical[0m  build/images/tap0.png
+[1m[34m   identical[0m  build/images/donate.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum2_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_656_thumb.png
+[1m[34m   identical[0m  build/images/speech-bubbles.png
+[1m[34m   identical[0m  build/images/kaylee.png
+[1m[34m   identical[0m  build/images/google_wave.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum4_thumb.png
+[1m[34m   identical[0m  build/images/subskills_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_kaylee_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-11_23.33.00.png
+[1m[34m   identical[0m  build/images/2012-07-16_10.27.52.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-bij-opa-en-oma-thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_catacombs_all_the_way_thumb.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-400x198.png
+[1m[34m   identical[0m  build/images/Sylvain-een-likje-is-niet-genoeg-thumb.png
+[1m[34m   identical[0m  build/images/puck_hands_up_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_30_catacomb_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog1_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_this_is_what_treasure_hunters_are_about_thumb.png
+[1m[34m   identical[0m  build/images/istqb_thumb.png
+[1m[34m   identical[0m  build/images/camping_dobbe_friesland_thumb.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb-300x222.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl20_hunting_for_raccoons_thumb.png
+[1m[34m   identical[0m  build/images/next.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_648_thumb.png
+[1m[34m   identical[0m  build/images/kaylee_is_the_supervisor_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank2-thumb.png
+[1m[34m   identical[0m  build/images/efteling_vliegende_hollander.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb-150x150.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_political_drama_thumb.png
+[1m[34m   identical[0m  build/images/close.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_647_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_revival_giran_lvl20_artisan_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_minas1_thumb2.png
+[1m[34m   identical[0m  build/images/minas.png
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas_thumb.png
+[1m[34m   identical[0m  build/images/minas_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma-thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_662_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_653_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl35_forest_of_mirrors_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_fake_romance_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_657_thumb.png
+[1m[34m   identical[0m  build/images/puck_fc_groningen_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_sleeping_on_the_job_thumb.png
+[1m[34m   identical[0m  build/images/gracia.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_21_dion_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_652_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza4_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land2_thumb.png
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas2_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-verjaardag-thumb.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb-150x150.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_651_thumb.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-150x150.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_ivory_tower_thumb.png
+[1m[34m   identical[0m  build/images/wow_athun_revival_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-ijsje-thumb.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_646_thumb.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-150x150.png
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered_and_accepted_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-11_23.25.36.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-400x198.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_643_thumb.png
+[1m[34m   identical[0m  build/images/efteling_vliegende_hollander_thumb.png
+[1m[34m   identical[0m  build/images/gtd_chart-150x150.png
+[1m[34m   identical[0m  build/images/summer2009_d-olle_grieze_thumb.png
+[1m[34m   identical[0m  build/images/kaylee_garden_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_ashura_giran_castle_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-zittend-thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_b_grade_thumb.png
+[1m[34m   identical[0m  build/images/vbox_logo2_gradient.png
+[1m[34m   identical[0m  build/images/2012-07-13_12.03.36.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-vuurtoren-thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee-thumb.png
+[1m[34m   identical[0m  build/images/2012-07-13_15.09.30.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_654_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_hotel_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_661_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza3_thumb.png
+[1m[34m   identical[0m  build/images/mayou_lucy_samen_thumb.png
+[1m[34m   identical[0m  build/images/PDJ-2012-May-Apollo-0006-thumb.png
+[1m[34m   identical[0m  build/images/summer2009_minas1_thumb.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog2_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum3_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_worldmap_kamael_thumb.png
+[1m[34m   identical[0m  build/images/bg-checker.png
+[1m[34m   identical[0m  build/images/lineage2_ashura_syn_alliance_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma3-thumb.png
+[1m[34m   identical[0m  build/images/ffxiv_20130615_194139.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_645_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren1_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-in-skipakje-in-de-winter-thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza1_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_kaylee_thumb2.png
+[1m[34m   identical[0m  build/images/prev.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb-300x192.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren2_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_649_thumb.png
+[1m[34m   identical[0m  build/images/box.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma2-thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_655_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_hardins_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_650_thumb.png
+[1m[34m   identical[0m  build/images/ffxiv_20130615_194139-thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_660_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-komode-thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza2_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_dinged_lvl_50_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum1_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_the_beginning_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum4.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-met-opa.jpg
+[1m[34m   identical[0m  build/images/lineage2_ashura_syn_alliance.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren1.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_656.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_ivory_tower.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-ijsje.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma3.jpg
+[1m[34m   identical[0m  build/images/lineage2_revival_giran_lvl20_artisan.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza2.jpg
+[1m[34m   identical[0m  build/images/summer2009_minas2.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum3.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_651.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_the_beginning.jpg
+[1m[34m   identical[0m  build/images/PDJ-2012-May-Apollo-0006.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_650.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine-300x192.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land2.jpg
+[1m[34m   identical[0m  build/images/Sylvain-een-likje-is-niet-genoeg.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-komode.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_660.jpg
+[1m[34m   identical[0m  build/images/lineage2_worldmap_kamael.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-207x300.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_644.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_653.jpg
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog2.jpg
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog1.jpg
+[1m[34m   identical[0m  build/images/225041472v6_350x350_front.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-150x150.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza4.jpg
+[1m[34m   identical[0m  build/images/marrowgar_down.jpg
+[1m[34m   identical[0m  build/images/efteling.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum1.jpg
+[1m[34m   identical[0m  build/images/camping_dobbe_friesland.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_649.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_fake_romance.jpg
+[1m[34m   identical[0m  build/images/lineage2_ashura_giran_castle.jpg
+[1m[34m   identical[0m  build/images/Sylvain-verjaardag.jpg
+[1m[34m   identical[0m  build/images/wow_athun_revival.jpg
+[1m[34m   identical[0m  build/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee.jpg
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_b_grade.jpg
+[1m[34m   identical[0m  build/images/summer2009_kaylee.jpg
+[1m[34m   identical[0m  build/images/Sylvain-spelend-op-zijn-mat.jpg
+[1m[34m   identical[0m  build/images/kaylee_garden.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_sleeping_on_the_job.jpg
+[1m[34m   identical[0m  build/images/minime.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-1024x768.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren2.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_661.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_648.jpg
+[1m[34m   identical[0m  build/images/icc_lady_down.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_646.jpg
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered.jpg
+[1m[34m   identical[0m  build/images/unreal_tournament2004_cover.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_political_drama.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza1.jpg
+[1m[34m   identical[0m  build/images/2012-07-09_22.58.56.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-strand.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_657.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_30_catacomb.jpg
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank2.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_this_is_what_treasure_hunters_are_about.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine.jpg
+[1m[34m   identical[0m  build/images/minas_garden.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_catacombs_all_the_way.jpg
+[1m[34m   identical[0m  build/images/puck_fc_groningen.jpg
+[1m[34m   identical[0m  build/images/kaylee_is_the_supervisor.jpg
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas.jpg
+[1m[34m   identical[0m  build/images/cooki.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl35_forest_of_mirrors.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_hardins.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma2.jpg
+[1m[34m   identical[0m  build/images/Sylvain-zittend.jpg
+[1m[34m   identical[0m  build/images/istqb.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_652.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_655.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_clanwar.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_cemetary.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_662.jpg
+[1m[34m   identical[0m  build/images/summer2009_france_joigny.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl20_hunting_for_raccoons.jpg
+[1m[34m   identical[0m  build/images/puck_hands_up.jpg
+[1m[34m   identical[0m  build/images/summer2009_d-olle_grieze.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-300x225.jpg
+[1m[34m   identical[0m  build/images/2012-07-09_22.59.59.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_654.jpg
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas2.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_21_dion.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-300x225.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-vuurtoren.jpg
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_hotel.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-940x198.jpg
+[1m[34m   identical[0m  build/images/summer2009_minas1.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho-300x222.jpg
+[1m[34m   identical[0m  build/images/icc_gunshipbattle_down.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_dinged_lvl_50.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_645.jpg
+[1m[34m   identical[0m  build/images/subskills.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza3.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-bij-opa-en-oma.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-707x1024.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-760x198.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_643.jpg
+[1m[34m   identical[0m  build/images/Sylvain-in-skipakje-in-de-winter.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_647.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum2.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-1024x768.jpg
+[1m[34m   identical[0m  build/images/loading.gif
+[1m[34m   identical[0m  build/assets/img/loading.gif
+[1m[34m   identical[0m  build/images/bullet.gif
+[1m[34m   identical[0m  build/images/favicon.gif
+[1m[34m   identical[0m  build/images/middleman.svg
+== Request: /assets/img/rss.svg
+== Finishing Request: assets/img/rss.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/rss.svg
+== Request: /assets/img/linkedin.svg
+== Finishing Request: assets/img/linkedin.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/linkedin.svg
+== Request: /assets/img/sigil-white.svg
+== Finishing Request: assets/img/sigil-white.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/sigil-white.svg
+[1m[34m   identical[0m  build/assets/js/4pdj.js
+[1m[34m   identical[0m  build/assets/css/4pdj.css
+== Request: /blog/2010/06/17/index.html
+== Finishing Request: blog/2010/06/17/index.html (0.11s)
+[1m[34m   identical[0m  build/blog/2010/06/17/index.html
+== Request: /pages/about/index.html
+== Finishing Request: pages/about/index.html (0.16s)
+[1m[34m   identical[0m  build/pages/about/index.html
+== Request: /BingSiteAuth.xml
+== Finishing Request: BingSiteAuth.xml (0.0s)
+[1m[34m   identical[0m  build/BingSiteAuth.xml
+== Request: /sitemap.html
+== Finishing Request: sitemap.html (0.0s)
+[1m[34m   identical[0m  build/sitemap.html
+== Request: /feed.xml
+== Finishing Request: feed.xml (0.07s)
+[1m[34m   identical[0m  build/feed.xml
+== Request: /blog/2009/06/13/delivered-but-epic-fail/index.html
+== Finishing Request: blog/2009/06/13/delivered-but-epic-fail/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/13/delivered-but-epic-fail/index.html
+== Request: /blog/2009/06/19/artisan/index.html
+== Finishing Request: blog/2009/06/19/artisan/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/19/artisan/index.html
+== Request: /blog/2009/06/14/on-the-camping/index.html
+== Finishing Request: blog/2009/06/14/on-the-camping/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/06/14/on-the-camping/index.html
+== Request: /blog/2009/12/18/deeper-in-icc/index.html
+== Finishing Request: blog/2009/12/18/deeper-in-icc/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/12/18/deeper-in-icc/index.html
+== Request: /blog/2009/07/05/testimony-of-the-pilgrim/index.html
+== Finishing Request: blog/2009/07/05/testimony-of-the-pilgrim/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/07/05/testimony-of-the-pilgrim/index.html
+== Request: /blog/2010/04/28/weeeeeee-cute/index.html
+== Finishing Request: blog/2010/04/28/weeeeeee-cute/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2010/04/28/weeeeeee-cute/index.html
+== Request: /blog/2009/12/16/marrowgar-down/index.html
+== Finishing Request: blog/2009/12/16/marrowgar-down/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/12/16/marrowgar-down/index.html
+== Request: /blog/2009/06/24/dispatched2/index.html
+== Finishing Request: blog/2009/06/24/dispatched2/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/24/dispatched2/index.html
+== Request: /blog/2009/06/10/examen/index.html
+== Finishing Request: blog/2009/06/10/examen/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/10/examen/index.html
+== Request: /blog/2009/07/21/b-grade-and-a-pause/index.html
+== Finishing Request: blog/2009/07/21/b-grade-and-a-pause/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/07/21/b-grade-and-a-pause/index.html
+== Request: /blog/2013/05/29/middleman/index.html
+== Finishing Request: blog/2013/05/29/middleman/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2013/05/29/middleman/index.html
+== Request: /blog/2009/12/18/at-home/index.html
+== Finishing Request: blog/2009/12/18/at-home/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/12/18/at-home/index.html
+== Request: /blog/2010/07/20/hugz/index.html
+== Finishing Request: blog/2010/07/20/hugz/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2010/07/20/hugz/index.html
+== Request: /blog/2009/08/16/road-trip/index.html
+== Finishing Request: blog/2009/08/16/road-trip/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/08/16/road-trip/index.html
+== Request: /blog/2009/12/17/snow/index.html
+== Finishing Request: blog/2009/12/17/snow/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/12/17/snow/index.html
+== Request: /blog/2013/06/15/final-fantasy-xiv/index.html
+== Finishing Request: blog/2013/06/15/final-fantasy-xiv/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2013/06/15/final-fantasy-xiv/index.html
+== Request: /blog/2009/07/11/raiding-with-the-guild/index.html
+== Finishing Request: blog/2009/07/11/raiding-with-the-guild/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/07/11/raiding-with-the-guild/index.html
+== Request: /blog/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html
+== Finishing Request: blog/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html
+== Request: /blog/2009/05/17/efteling/index.html
+== Finishing Request: blog/2009/05/17/efteling/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/05/17/efteling/index.html
+== Request: /blog/2009/10/06/oracle-service-bus/index.html
+== Finishing Request: blog/2009/10/06/oracle-service-bus/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/10/06/oracle-service-bus/index.html
+== Request: /blog/2009/05/08/wow-rip/index.html
+== Finishing Request: blog/2009/05/08/wow-rip/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/05/08/wow-rip/index.html
+== Request: /blog/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html
+== Finishing Request: blog/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html
+== Request: /blog/2009/03/03/hello-world/index.html
+== Finishing Request: blog/2009/03/03/hello-world/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2009/03/03/hello-world/index.html
+== Request: /blog/2009/08/02/ode2/index.html
+== Finishing Request: blog/2009/08/02/ode2/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/08/02/ode2/index.html
+== Request: /blog/2009/05/27/finally/index.html
+== Finishing Request: blog/2009/05/27/finally/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/05/27/finally/index.html
+== Request: /blog/2009/04/16/ut/index.html
+== Finishing Request: blog/2009/04/16/ut/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/04/16/ut/index.html
+== Request: /blog/2009/06/11/dispatched/index.html
+== Finishing Request: blog/2009/06/11/dispatched/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/11/dispatched/index.html
+== Request: /blog/2009/07/16/ding/index.html
+== Finishing Request: blog/2009/07/16/ding/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/07/16/ding/index.html
+== Request: /blog/2009/07/04/its-sooooo-hot/index.html
+== Finishing Request: blog/2009/07/04/its-sooooo-hot/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/07/04/its-sooooo-hot/index.html
+== Request: /blog/2011/07/25/kitties/index.html
+== Finishing Request: blog/2011/07/25/kitties/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2011/07/25/kitties/index.html
+== Request: /blog/2009/06/28/lvl-30/index.html
+== Finishing Request: blog/2009/06/28/lvl-30/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/06/28/lvl-30/index.html
+== Request: /blog/2011/08/24/el-pooki-grande/index.html
+== Finishing Request: blog/2011/08/24/el-pooki-grande/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2011/08/24/el-pooki-grande/index.html
+== Request: /blog/2010/05/25/gtd-revisited/index.html
+== Finishing Request: blog/2010/05/25/gtd-revisited/index.html (0.06s)
+[1m[34m   identical[0m  build/blog/2010/05/25/gtd-revisited/index.html
+== Request: /blog/2009/06/06/ptools-went-public/index.html
+== Finishing Request: blog/2009/06/06/ptools-went-public/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/06/06/ptools-went-public/index.html
+== Request: /blog/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html
+== Finishing Request: blog/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html
+== Request: /blog/2010/01/01/happy-newyear/index.html
+== Finishing Request: blog/2010/01/01/happy-newyear/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2010/01/01/happy-newyear/index.html
+== Request: /blog/2009/07/07/lets-hunt-for-treasure/index.html
+== Finishing Request: blog/2009/07/07/lets-hunt-for-treasure/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/07/07/lets-hunt-for-treasure/index.html
+== Request: /blog/2012/08/27/apollo-2/index.html
+== Finishing Request: blog/2012/08/27/apollo-2/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2012/08/27/apollo-2/index.html
+== Request: /blog/2009/06/25/arrived2/index.html
+== Finishing Request: blog/2009/06/25/arrived2/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/25/arrived2/index.html
+== Request: /blog/2013/06/07/grub2-chainload-mbr-image/index.html
+== Finishing Request: blog/2013/06/07/grub2-chainload-mbr-image/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2013/06/07/grub2-chainload-mbr-image/index.html
+== Request: /blog/2009/06/08/learning/index.html
+== Finishing Request: blog/2009/06/08/learning/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/06/08/learning/index.html
+== Request: /blog/2010/07/14/cute111/index.html
+== Finishing Request: blog/2010/07/14/cute111/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2010/07/14/cute111/index.html
+== Request: /blog/2009/08/27/post-joigny-syndrome/index.html
+== Finishing Request: blog/2009/08/27/post-joigny-syndrome/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/08/27/post-joigny-syndrome/index.html
+== Request: /blog/2009/05/31/it-has-been-decided/index.html
+== Finishing Request: blog/2009/05/31/it-has-been-decided/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/05/31/it-has-been-decided/index.html
+== Request: /blog/2009/10/25/wow-revival/index.html
+== Finishing Request: blog/2009/10/25/wow-revival/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/10/25/wow-revival/index.html
+== Request: /blog/2009/11/11/wave/index.html
+== Finishing Request: blog/2009/11/11/wave/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/11/11/wave/index.html
+== Request: /blog/2009/09/29/course-bea-weblogic-application-server/index.html
+== Finishing Request: blog/2009/09/29/course-bea-weblogic-application-server/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/09/29/course-bea-weblogic-application-server/index.html
+== Request: /blog/2009/11/10/raiding-again/index.html
+== Finishing Request: blog/2009/11/10/raiding-again/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/11/10/raiding-again/index.html
+== Request: /blog/2009/06/28/ode/index.html
+== Finishing Request: blog/2009/06/28/ode/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/06/28/ode/index.html
+== Request: /blog/2009/08/30/joigny/index.html
+== Finishing Request: blog/2009/08/30/joigny/index.html (0.09s)
+[1m[34m   identical[0m  build/blog/2009/08/30/joigny/index.html
+== Request: /blog/2013/06/24/schiermonnikoog/index.html
+== Finishing Request: blog/2013/06/24/schiermonnikoog/index.html (0.04s)
+[1m[34m   identical[0m  build/blog/2013/06/24/schiermonnikoog/index.html
+== Request: /blog/2009/11/20/virtualbox-bridged/index.html
+== Finishing Request: blog/2009/11/20/virtualbox-bridged/index.html (0.06s)
+[1m[34m   identical[0m  build/blog/2009/11/20/virtualbox-bridged/index.html
+== Request: /blog/2009/11/12/puck/index.html
+== Finishing Request: blog/2009/11/12/puck/index.html (0.08s)
+[1m[34m   identical[0m  build/blog/2009/11/12/puck/index.html
+== Request: /blog/2010/04/27/gtd/index.html
+== Finishing Request: blog/2010/04/27/gtd/index.html (0.12s)
+[1m[34m   identical[0m  build/blog/2010/04/27/gtd/index.html
+== Request: /blog/2009/07/17/treasure/index.html
+== Finishing Request: blog/2009/07/17/treasure/index.html (0.05s)
+[1m[34m   identical[0m  build/blog/2009/07/17/treasure/index.html
+/var/lib/gems/1.9.1/gems/tilt-1.3.7/lib/tilt/template.rb:227:in `class_eval': /var/www/4pdj.nl/blog/source/index.html.erb:19: syntax error, unexpected ';', expecting ')' (SyntaxError)
+; @_out_buf.concat "    ";  if i == 4 ; @_out_buf.concat "\n"
+ ^
+/var/www/4pdj.nl/blog/source/index.html.erb:38: syntax error, unexpected keyword_ensure, expecting keyword_end
+/var/www/4pdj.nl/blog/source/index.html.erb:42: syntax error, unexpected keyword_end, expecting $end
+end;end;end;end
+               ^
+	from /var/lib/gems/1.9.1/gems/tilt-1.3.7/lib/tilt/template.rb:227:in `compile_template_method'
+	from /var/lib/gems/1.9.1/gems/tilt-1.3.7/lib/tilt/template.rb:208:in `compiled_method'
+	from /var/lib/gems/1.9.1/gems/tilt-1.3.7/lib/tilt/template.rb:143:in `evaluate'
+	from /var/lib/gems/1.9.1/gems/tilt-1.3.7/lib/tilt/template.rb:77:in `render'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/rendering.rb:273:in `render_individual_file'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/rendering.rb:150:in `render_template'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/sitemap/resource.rb:150:in `block in render'
+	from /var/lib/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:125:in `instrument'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/util.rb:60:in `instrument'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/application.rb:196:in `instrument'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/sitemap/resource.rb:16:in `instrument'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/sitemap/resource.rb:121:in `render'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/request.rb:252:in `process_request'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/request.rb:202:in `block in call!'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/request.rb:201:in `catch'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/request.rb:201:in `call!'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/core_extensions/request.rb:187:in `call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:138:in `call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/urlmap.rb:65:in `block in call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/urlmap.rb:50:in `each'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/urlmap.rb:50:in `call'
+	from /var/lib/gems/1.9.1/gems/middleman-minify-html-3.1.1/lib/middleman-minify-html/vendor/htmlcompressor-0.0.6/lib/htmlcompressor/rack.rb:36:in `call'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-more/extensions/minify_javascript.rb:42:in `call'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-more/extensions/minify_css.rb:48:in `call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:138:in `call'
+	from /var/lib/gems/1.9.1/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+	from /var/lib/gems/1.9.1/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+	from /var/lib/gems/1.9.1/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:138:in `render_to_file'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:280:in `block in execute!'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:277:in `each'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:277:in `execute!'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:199:in `invoke!'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/actions.rb:95:in `action'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli/build.rb:64:in `build'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli.rb:77:in `method_missing'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/command.rb:29:in `run'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/command.rb:128:in `run'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	from /var/lib/gems/1.9.1/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/lib/middleman-core/cli.rb:22:in `start'
+	from /var/lib/gems/1.9.1/gems/middleman-core-3.1.3/bin/middleman:18:in `<top (required)>'
+	from /usr/local/bin/middleman:19:in `load'
+	from /usr/local/bin/middleman:19:in `<main>'
+== Request: /index.html

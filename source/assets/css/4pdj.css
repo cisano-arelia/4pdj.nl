@@ -5,9 +5,10 @@
  */
 
 body {
-	background: url(/assets/img/orange.png) repeat fixed center;
+	font-family: 'Droid Sans','Noto Sans',Arial,sans-serif;
 	padding: 0px;
 	margin: 0px;
+	background: url(/assets/img/victorian_darkblue_by_iamfreeman.jpg) repeat;
 }
 
 .navbar-inner, .navbar .brand, .navbar-static-top {
@@ -19,7 +20,7 @@ body {
 
 .navbar .brand {
 	font-weight: bold;
-	color: rgb(255, 150, 53);
+	color: rgb(73, 167, 255);
 	padding-left: 15px;
 }
 
@@ -32,7 +33,7 @@ ul.nav.pull-right {
 }
 
 #content {
-	padding-left: 15px;
+	padding: 14px 15px;
 }
 
 #footer {
@@ -55,16 +56,26 @@ ul.nav.pull-right {
 .breadcrumb {
 	background-color: #f1f1f1;
 	border-bottom: 1px solid #ddd;
+	margin-bottom: 0px;
 }
 
-article img, article a img {
+article img, article a img, .hero-unit img {
 	padding: 5px;
 	border: solid 1px #EFEFEF;
+	margin: 0px;
+}
+
+.hero-unit img {
+	background: white;
+	border: solid 1px #BBB;
+}
+
+#rss, #linkedin, #twitter, #github {
+	height: 30px;
 }
 
 #rss, #linkedin, #twitter {
         padding: 0px;
-	height: 30px;
 	margin: -10px;
 }
 
@@ -75,20 +86,31 @@ article a:hover img {
         box-shadow: 1px 1px 5px #999;
 }
 
+.thumbnail {
+	float: left;
+	margin-right: 6px;
+}
+
 #main {
 	-moz-box-shadow: 1px 1px 20px #000;
 	-webkit-box-shadow: 1px 1px 20px #000;
         box-shadow: 1px 1px 20px #000;
 	margin-top: 20px;
 	margin-bottom: 20px;
-}
-
-.row-fluid {
 	background-color:white;
 }
 
 article h1, section h1 {
 	color: #0088cc;
+
+	-ms-word-break: break-all;
+	word-break: break-all;
+
+	word-break: break-word;
+
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+        hyphens: auto;
 }
 
 .byline address {
@@ -109,12 +131,6 @@ article h1, section h1 {
 	border-top: 1px solid #ddd;
 }
 
-article {
-	padding-bottom:10px;
-	margin-bottom:10px;
-	border-bottom:1px solid #ddd;
-}
-	
 .logo {
 	background-image: url(/assets/img/eyes_sylvain.png);
 	background-repeat: no-repeat;
@@ -135,6 +151,22 @@ img.sigil {
 	box-shadow: 1px 1px 3px #999;
 }
 
-#spacer {
-	height: 15px;
+.hero-unit .span8 {
+	padding-left:20px;
+}
+
+@media screen and (max-width: 767px) {
+	#main {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	article h1, section h1, .hero-unit h1 {
+		font-size:30px;
+	}
+	.hero-unit {
+		padding: 20px;
+	}
+	.hero-unit .span8 {
+		padding-left:0px;
+	}
 }

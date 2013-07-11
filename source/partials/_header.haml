@@ -1,10 +1,32 @@
 .logo.hidden-phone
-  %img.sigil{:src=>"/assets/img/sigil-white.svg"}
+  %img.sigil{:src=>"/assets/img/sigil-white.svg",:alt=>"4pdj"}
 .navbar.navbar-medium.navbar-inverse.navbar-static-top#navbar
   .navbar-inner
     %a.brand{:href=>'/'}
       4pdj
-    %ul.nav.pull-right
+    %ul.nav
+      %li.divider-vertical
+      %li.dropdown
+        %a.dropdown-toggle(href='#' data-toggle='dropdown')
+          Pages
+          %b.caret
+        %ul.dropdown-menu
+          = partial "partials/pages"
+      %li.divider-vertical.hidden-phone
+      %li.dropdown.hidden-phone
+        %a.dropdown-toggle(href='#' data-toggle='dropdown')
+          Archive
+          %b.caret
+        %ul.dropdown-menu
+          = partial "partials/archive"
+      %li.divider-vertical.hidden-phone
+      %li.dropdown.hidden-phone
+        %a.dropdown-toggle(href='#' data-toggle='dropdown')
+          Topics
+          %b.caret
+        %ul.dropdown-menu
+          = partial "partials/topics"
+    %ul.nav.pull-right.hidden-phone
       %li
         %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
           %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
