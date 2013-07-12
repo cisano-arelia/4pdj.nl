@@ -24,6 +24,12 @@ body {
 	padding-left: 15px;
 }
 
+.navbar .dropdown-menu {
+	max-height: 500px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
 .pull-right {
 	float: right;
 }
