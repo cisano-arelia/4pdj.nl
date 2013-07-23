@@ -18,14 +18,15 @@
     = javascript_include_tag "4pdj"
     = yield_content :head
   %body
+    %header#header
+      .row-fluid
+        .span12
+          = partial "partials/header"
     .container#main
-      %header.row-fluid#header
-        .row-fluid
-          .span12
-            = partial "partials/header"
-        .row-fluid
-          .span12
-            = partial "partials/breadcrumbs"
+      .row-fluid
+        = partial "partials/breadcrumbs"
+      .row-fluid
+        = partial "partials/search"
       .row-fluid
         %section#content
           = yield

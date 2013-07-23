@@ -30,6 +30,10 @@ body {
 	overflow-y: auto;
 }
 
+.navbar {
+	z-index: 100;
+}
+
 .pull-right {
 	float: right;
 }
@@ -40,6 +44,10 @@ ul.nav.pull-right {
 
 #content {
 	padding: 14px 15px;
+}
+
+#search-results, #search-close {
+	padding: 14px 15px 0px 15px;
 }
 
 #footer {
@@ -101,12 +109,11 @@ article a:hover img {
 	-moz-box-shadow: 1px 1px 20px #000;
 	-webkit-box-shadow: 1px 1px 20px #000;
         box-shadow: 1px 1px 20px #000;
-	margin-top: 20px;
 	margin-bottom: 20px;
 	background-color:white;
 }
 
-article h1, section h1 {
+article h1, section h1, #search-results h1 {
 	color: #0088cc;
 
 	-ms-word-break: break-all;
@@ -161,6 +168,10 @@ img.sigil {
 	padding-left:20px;
 }
 
+article h1, section h1, .hero-unit h1 {
+	font-size:40px;
+}
+
 @media screen and (max-width: 767px) {
 	#main {
 		margin-top: 0px;
@@ -168,6 +179,7 @@ img.sigil {
 	}
 	article h1, section h1, .hero-unit h1 {
 		font-size:30px;
+		font-weight: 600;
 	}
 	.hero-unit {
 		padding: 20px;
@@ -176,3 +188,4 @@ img.sigil {
 		padding-left:0px;
 	}
 }
+

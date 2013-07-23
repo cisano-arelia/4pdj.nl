@@ -28,6 +28,9 @@
           = partial "partials/topics"
     %ul.nav.pull-right.hidden-phone
       %li
+        %form.navbar-search.pull-left
+          %input.search-query(type="text" placeholder="Search")
+      %li
         %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
           %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
       %li

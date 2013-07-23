@@ -117,6 +117,8 @@ ignore 'assets/js/license.js'
 ignore 'assets/js/bootstrap.js'
 ignore 'assets/js/jquery.js'
 ignore 'assets/js/lightbox.js'
+ignore 'assets/js/stick_navbar.js'
+ignore 'assets/js/search.coffee'
 
 ignore 'assets/css/bootstrap.css'
 ignore 'assets/css/bootstrap-responsive.css'

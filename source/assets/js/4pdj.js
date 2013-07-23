@@ -1,5 +1,4 @@
-//= require lightbox
-//= require bootstrap
+//= require_tree .
 
 jQuery(document).ready(function($) {
 	$('a[href$=".jpg"], a[href$=".gif"]').each(function() {
@@ -11,4 +10,5 @@ jQuery(document).ready(function($) {
             img.attr("alt", "No alt specified.");
     	  }
         });
+
 });
