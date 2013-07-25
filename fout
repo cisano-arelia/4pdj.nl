@@ -1,0 +1,2735 @@
+== Activating: sprockets
+== Reading:  Local config
+== Activating: blog
+== Activating: blog
+== Activating: blog
+== Activating: livereload
+== Activating: directory_indexes
+== Activating: gzip
+== Activating: syntax
+== Activating: sprockets
+== Activating: minify_css
+== Activating: minify_javascript
+== Activating: minify_html
+== Activating: favicon_maker
+Loaded extensions:
+== Extension: sprockets
+== Extension: blog
+== Extension: livereload
+== Extension: directory_indexes
+== Extension: gzip
+== Extension: syntax
+== Extension: minify_css
+== Extension: minify_javascript
+== Extension: minify_html
+== Extension: favicon_maker
+== Extension: frontmatter
+== File Change: lib/breadcrumbs.rb
+== File Change: lib/allarticles.rb
+== File Change: source/images/Sylvain-een-likje-is-niet-genoeg.jpg
+== File Change: source/images/eerste_sneeuw_2009_644_thumb.png
+== File Change: source/images/gtd_moleskine.jpg
+== File Change: source/images/lineage2_cooki_clanwar_thumb.png
+== File Change: source/images/schiermonnikoog-vuurtoren_thumb.png
+== File Change: source/images/lineage2_teon_cemetary_thumb.png
+== File Change: source/images/summer2009_minas2_thumb.png
+== File Change: source/images/gtd_succes_agenda-300x225.jpg
+== File Change: source/images/marrowgar_down_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_645.jpg
+== File Change: source/images/gtd_succes_agenda_thumb-300x225.png
+== File Change: source/images/sylvain-19-07-2010-thumb-300x225.png
+== File Change: source/images/eerste_sneeuw_2009_654.jpg
+== File Change: source/images/gtd_chart-180x300.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma2_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-207x300.png
+== File Change: source/images/rijexamen-geslaagd_squarebig.png
+== File Change: source/images/Sylvain-in-skipakje-in-de-winter.jpg
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-707x1024.jpg
+== File Change: source/images/summer2009_pizza3.jpg
+== File Change: source/images/middleman.svg
+== File Change: source/images/gtd_moleskine_thumb.png
+== File Change: source/images/gtd_chart.png
+== File Change: source/images/Silvain-20wekenecho_thumb-150x150.png
+== File Change: source/images/icc_gunshipbattle_down.jpg
+== File Change: source/images/2012-07-16_00.23.05.png
+== File Change: source/images/oracle.png
+== File Change: source/images/tap0.png
+== File Change: source/images/Silvain-20wekenecho-300x222.jpg
+== File Change: source/images/rijexamen-geslaagd.jpg
+== File Change: source/images/summer2009_france_joigny_hotel.jpg
+== File Change: source/images/eerste_sneeuw_2009_656_thumb.png
+== File Change: source/images/speech-bubbles.png
+== File Change: source/images/kaylee.png
+== File Change: source/images/google_wave.png
+== File Change: source/images/schiermonnikoog-vuurtoren.jpg
+== File Change: source/images/subskills_thumb.png
+== File Change: source/images/summer2009_kaylee_thumb.png
+== File Change: source/images/2012-07-11_23.33.00.png
+== File Change: source/images/2012-07-16_10.27.52.png
+== File Change: source/images/ffxiv_20130615_194139_square.png
+== File Change: source/images/sylvain-19-07-2010-300x225.jpg
+== File Change: source/images/PDJ-2012-May-Apollo-0006_square.png
+== File Change: source/images/sylvain-19-07-2010-thumb-400x198.png
+== File Change: source/images/puck_hands_up_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl_21_dion.jpg
+== File Change: source/images/gtd_succes_agenda-1024x768.jpg
+== File Change: source/images/lineage2_teon_this_is_what_treasure_hunters_are_about_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl20_hunting_for_raccoons.jpg
+== File Change: source/images/Sylvain-op-de-komode_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_662.jpg
+== File Change: source/images/lineage2_cooki_clanwar.jpg
+== File Change: source/images/lineage2_teon_th_lvl20_hunting_for_raccoons_thumb.png
+== File Change: source/images/next.png
+== File Change: source/images/eerste_sneeuw_2009_648_thumb.png
+== File Change: source/images/kaylee_is_the_supervisor_thumb.png
+== File Change: source/images/ffxiv_20130615_194139_thumb.png
+== File Change: source/images/efteling_vliegende_hollander.png
+== File Change: source/images/gtd_moleskine_thumb-150x150.png
+== File Change: source/images/lineage2_cooki_political_drama_thumb.png
+== File Change: source/images/close.png
+== File Change: source/images/eerste_sneeuw_2009_647_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_652.jpg
+== File Change: source/images/summer2009_minas1_thumb2.png
+== File Change: source/images/istqb.jpg
+== File Change: source/images/wow_nathema_naxxramas_thumb.png
+== File Change: source/images/Sylvain-zittend.jpg
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma2.jpg
+== File Change: source/images/eerste_sneeuw_2009_653_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl35_forest_of_mirrors_thumb.png
+== File Change: source/images/gtd_succes_agenda.jpg
+== File Change: source/images/eerste_sneeuw_2009_657_thumb.png
+== File Change: source/images/puck_fc_groningen_thumb.png
+== File Change: source/images/wow_nathema_naxxramas.jpg
+== File Change: source/images/puck_fc_groningen.jpg
+== File Change: source/images/lineage2_teon_catacombs_all_the_way.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank_thumb.png
+== File Change: source/images/minas_garden.jpg
+== File Change: source/images/bullet.gif
+== File Change: source/images/summer2009_pizza4_thumb.png
+== File Change: source/images/Sylvain-in-skipakje-in-de-winter_thumb.png
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land2_thumb.png
+== File Change: source/images/wow_nathema_naxxramas2_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_657.jpg
+== File Change: source/images/schiermonnikoog-strand.jpg
+== File Change: source/images/eerste_sneeuw_2009_651_thumb.png
+== File Change: source/images/2012-07-09_22.58.56.jpg
+== File Change: source/images/summer2009_pizza1.jpg
+== File Change: source/images/wow_athun_revival_thumb.png
+== File Change: source/images/lineage2_gracia_delivered.jpg
+== File Change: source/images/icc_lady_down.jpg
+== File Change: source/images/eerste_sneeuw_2009_646_thumb.png
+== File Change: source/images/sylvain-19-07-2010-thumb-150x150.png
+== File Change: source/images/eerste_sneeuw_2009_648.jpg
+== File Change: source/images/summer2009_france_joigny_thumb.png
+== File Change: source/images/2012-07-11_23.25.36.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-400x198.png
+== File Change: source/images/gtd_succes_agenda_thumb.png
+== File Change: source/images/gtd_moleskine-150x150.jpg
+== File Change: source/images/Sylvain-een-likje-is-niet-genoeg_thumb.png
+== File Change: source/images/efteling_vliegende_hollander_thumb.png
+== File Change: source/images/Sylvain-staand-op-de-bank2_thumb.png
+== File Change: source/images/schiermonnikoog-vuurtoren_square.png
+== File Change: source/images/sylvain-19-07-2010-1024x768.jpg
+== File Change: source/images/summer2009_d-olle_grieze_thumb.png
+== File Change: source/images/kaylee_garden_thumb.png
+== File Change: source/images/summer2009_kaylee.jpg
+== File Change: source/images/lineage2_teon_b_grade.jpg
+== File Change: source/images/lineage2_teon_b_grade_thumb.png
+== File Change: source/images/Sylvain-verjaardag.jpg
+== File Change: source/images/2012-07-13_12.03.36.png
+== File Change: source/images/Sylvain-op-de-bank-met-opa_thumb.png
+== File Change: source/images/lineage2_ashura_giran_castle.jpg
+== File Change: source/images/lineage2_cooki_fake_romance.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank_square.png
+== File Change: source/images/summer2009_dokkum1.jpg
+== File Change: source/images/efteling.jpg
+== File Change: source/images/eerste_sneeuw_2009_661_thumb.png
+== File Change: source/images/summer2009_pizza4.jpg
+== File Change: source/images/eerste_sneeuw_2009_653.jpg
+== File Change: source/images/PDJ-2012-May-Apollo-0006-thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-207x300.jpg
+== File Change: source/images/Silvain-20wekenecho_thumb.png
+== File Change: source/images/summer2009_lauwersoog2_thumb.png
+== File Change: source/images/lineage2_worldmap_kamael.jpg
+== File Change: source/images/lineage2_worldmap_kamael_thumb.png
+== File Change: source/images/Sylvain-op-de-komode.jpg
+== File Change: source/images/lineage2_ashura_syn_alliance_thumb.png
+== File Change: source/images/loading.gif
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land.jpg
+== File Change: source/images/gtd_moleskine-300x192.jpg
+== File Change: source/images/eerste_sneeuw_2009_650.jpg
+== File Change: source/images/PDJ-2012-May-Apollo-0006.jpg
+== File Change: source/images/summer2009_pizza1_thumb.png
+== File Change: source/images/lineage2_cooki_the_beginning.jpg
+== File Change: source/images/summer2009_dokkum3.jpg
+== File Change: source/images/gtd_moleskine_thumb-300x192.png
+== File Change: source/images/lineage2_teon_raiding_near_oren2_thumb.png
+== File Change: source/images/Sylvain-op-de-bank-bij-opa-en-oma_thumb.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma3_thumb.png
+== File Change: source/images/Sylvain-spelend-op-zijn-mat_thumb.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma3.jpg
+== File Change: source/images/box.png
+== File Change: source/images/eerste_sneeuw_2009_655_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_ivory_tower.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_hardins_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_650_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_oren1.jpg
+== File Change: source/images/eerste_sneeuw_2009_660_thumb.png
+== File Change: source/images/summer2009_pizza2_thumb.png
+== File Change: source/images/rijexamen-geslaagd_square.png
+== File Change: source/images/lineage2_ashura_syn_alliance.jpg
+== File Change: source/images/Sylvain-op-de-bank-met-opa.jpg
+== File Change: source/images/lineage2_cooki_the_beginning_thumb.png
+== File Change: source/images/2012-07-09_22.59.59.jpg
+== File Change: source/images/summer2009_dokkum1_thumb.png
+== File Change: source/images/lineage2_teon_dinged_lvl_50_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_656.jpg
+== File Change: source/images/sylvain-19-07-2010.jpg
+== File Change: source/images/gtd_succes_agenda-150x150.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land_thumb.png
+== File Change: source/images/schiermonnikoog-ijsje.jpg
+== File Change: source/images/eerste_sneeuw_2009_649_thumb.png
+== File Change: source/images/lineage2_revival_giran_lvl20_artisan.jpg
+== File Change: source/images/summer2009_pizza2.jpg
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma_thumb.png
+== File Change: source/images/summer2009_minas2.jpg
+== File Change: source/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee_thumb.png
+== File Change: source/images/prev.png
+== File Change: source/images/eerste_sneeuw_2009_651.jpg
+== File Change: source/images/summer2009_kaylee_thumb2.png
+== File Change: source/images/lineage2_teon_raiding_near_oren1_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_645_thumb.png
+== File Change: source/images/ffxiv_20130615_194139.png
+== File Change: source/images/Sylvain-op-de-grond-bij-opa-en-oma.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_swamp_land2.jpg
+== File Change: source/images/bg-checker.png
+== File Change: source/images/rijexamen-geslaagd_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_660.jpg
+== File Change: source/images/summer2009_dokkum3_thumb.png
+== File Change: source/images/summer2009_minas1_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_644.jpg
+== File Change: source/images/mayou_lucy_samen_thumb.png
+== File Change: source/images/summer2009_lauwersoog2.jpg
+== File Change: source/images/summer2009_lauwersoog1.jpg
+== File Change: source/images/225041472v6_350x350_front.jpg
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-150x150.jpg
+== File Change: source/images/Sylvain-zittend_thumb.png
+== File Change: source/images/summer2009_pizza3_thumb.png
+== File Change: source/images/marrowgar_down.jpg
+== File Change: source/images/summer2009_france_joigny_hotel_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_654_thumb.png
+== File Change: source/images/camping_dobbe_friesland.jpg
+== File Change: source/images/eerste_sneeuw_2009_649.jpg
+== File Change: source/images/sylvain-19-07-2010-150x150.jpg
+== File Change: source/images/2012-07-13_15.09.30.png
+== File Change: source/images/vbox_logo2_gradient.png
+== File Change: source/images/wow_athun_revival.jpg
+== File Change: source/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank.jpg
+== File Change: source/images/lineage2_ashura_giran_castle_thumb.png
+== File Change: source/images/Sylvain-spelend-op-zijn-mat.jpg
+== File Change: source/images/kaylee_garden.jpg
+== File Change: source/images/Silvain-20wekenecho-150x150.jpg
+== File Change: source/images/lineage2_teon_sleeping_on_the_job.jpg
+== File Change: source/images/minime.jpg
+== File Change: source/images/gtd_chart-150x150.png
+== File Change: source/images/eerste_sneeuw_2009_643_thumb.png
+== File Change: source/images/lineage2_teon_raiding_near_oren2.jpg
+== File Change: source/images/Silvain-20wekenecho.jpg
+== File Change: source/images/eerste_sneeuw_2009_661.jpg
+== File Change: source/images/lineage2_gracia_delivered_and_accepted_thumb.png
+== File Change: source/images/sylvain-19-07-2010-thumb.png
+== File Change: source/images/eerste_sneeuw_2009_646.jpg
+== File Change: source/images/schiermonnikoog-ijsje-thumb.png
+== File Change: source/images/unreal_tournament2004_cover.jpg
+== File Change: source/images/lineage2_cooki_political_drama.jpg
+== File Change: source/images/lineage2_teon_raiding_near_ivory_tower_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb-150x150.png
+== File Change: source/images/gtd_succes_agenda_thumb-150x150.png
+== File Change: source/images/lineage2_teon_th_lvl_30_catacomb.jpg
+== File Change: source/images/Sylvain-staand-op-de-bank2.jpg
+== File Change: source/images/lineage2_teon_this_is_what_treasure_hunters_are_about.jpg
+== File Change: source/images/eerste_sneeuw_2009_652_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl_21_dion_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-thumb.png
+== File Change: source/images/gracia.png
+== File Change: source/images/kaylee_is_the_supervisor.jpg
+== File Change: source/images/lineage2_teon_sleeping_on_the_job_thumb.png
+== File Change: source/images/cooki.jpg
+== File Change: source/images/lineage2_cooki_fake_romance_thumb.png
+== File Change: source/images/lineage2_teon_th_lvl35_forest_of_mirrors.jpg
+== File Change: source/images/lineage2_teon_th_and_cleric_at_hardins.jpg
+== File Change: source/images/eerste_sneeuw_2009_662_thumb.png
+== File Change: source/images/minas_thumb.png
+== File Change: source/images/minas.png
+== File Change: source/images/lineage2_revival_giran_lvl20_artisan_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_655.jpg
+== File Change: source/images/Silvain-20wekenecho_thumb-300x222.png
+== File Change: source/images/lineage2_teon_cemetary.jpg
+== File Change: source/images/camping_dobbe_friesland_thumb.png
+== File Change: source/images/summer2009_france_joigny.jpg
+== File Change: source/images/istqb_thumb.png
+== File Change: source/images/puck_hands_up.jpg
+== File Change: source/images/summer2009_d-olle_grieze.jpg
+== File Change: source/images/favicon.gif
+== File Change: source/images/summer2009_dokkum4.jpg
+== File Change: source/images/summer2009_lauwersoog1_thumb.png
+== File Change: source/images/wow_nathema_naxxramas2.jpg
+== File Change: source/images/lineage2_teon_th_lvl_30_catacomb_thumb.png
+== File Change: source/images/lineage2_teon_catacombs_all_the_way_thumb.png
+== File Change: source/images/summer2009_dokkum4_thumb.png
+== File Change: source/images/summer2009_dokkum2_thumb.png
+== File Change: source/images/sylvain-19-07-2010-940x198.jpg
+== File Change: source/images/summer2009_minas1.jpg
+== File Change: source/images/donate.png
+== File Change: source/images/icc_gunshipbattle_down_thumb.png
+== File Change: source/images/lineage2_teon_dinged_lvl_50.jpg
+== File Change: source/images/schiermonnikoog-strand-thumb.png
+== File Change: source/images/subskills.jpg
+== File Change: source/images/lineage2_gracia_delivered_thumb.png
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010.jpg
+== File Change: source/images/Sylvain-op-de-bank-bij-opa-en-oma.jpg
+== File Change: source/images/huwelijk_peter_vanessa_14-juli-2010-760x198.jpg
+== File Change: source/images/Sylvain-verjaardag_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_643.jpg
+== File Change: source/images/icc_lady_down_thumb.png
+== File Change: source/images/eerste_sneeuw_2009_647.jpg
+== File Change: source/images/summer2009_dokkum2.jpg
+== File Change: source/entries.json.erb
+== File Change: source/gaming/2009-06-13-delivered-but-epic-fail.html.markdown.erb
+== File Change: source/gaming/2009-06-19-artisan.html.markdown.erb
+== File Change: source/gaming/2009-12-18-deeper-in-icc.html.markdown.erb
+== File Change: source/gaming/2009-07-05-testimony-of-the-pilgrim.html.markdown.erb
+== File Change: source/gaming/2009-12-16-marrowgar-down.html.markdown.erb
+== File Change: source/gaming/2009-06-24-dispatched2.html.markdown.erb
+== File Change: source/gaming/2009-07-21-b-grade-and-a-pause.html.markdown.erb
+== File Change: source/gaming/2013-06-15-final-fantasy-xiv.html.markdown.erb
+== File Change: source/gaming/2009-07-11-raiding-with-the-guild.html.markdown.erb
+== File Change: source/gaming/2009-05-08-wow-rip.html.markdown.erb
+== File Change: source/gaming/2009-04-16-ut.html.markdown.erb
+== File Change: source/gaming/2009-06-11-dispatched.html.markdown.erb
+== File Change: source/gaming/2009-07-16-ding.html.markdown.erb
+== File Change: source/gaming/2009-07-04-its-sooooo-hot.html.markdown.erb
+== File Change: source/gaming/2009-06-28-lvl-30.html.markdown.erb
+== File Change: source/gaming/2009-07-07-lets-hunt-for-treasure.html.markdown.erb
+== File Change: source/gaming/2009-06-25-arrived2.html.markdown.erb
+== File Change: source/gaming/2009-05-31-it-has-been-decided.html.markdown.erb
+== File Change: source/gaming/2009-10-25-wow-revival.html.markdown.erb
+== File Change: source/gaming/2009-11-10-raiding-again.html.markdown.erb
+== File Change: source/gaming/2009-07-17-treasure.html.markdown.erb
+== File Change: source/BingSiteAuth.xml
+== File Change: source/category.html.erb
+== File Change: source/pages/about.markdown
+== File Change: source/pages/ptools.markdown
+== File Change: source/assets/img/glyphicons-halflings.png
+== File Change: source/assets/img/eyes_sylvain.png
+== File Change: source/assets/img/close.png
+== File Change: source/assets/img/github.svg
+== File Change: source/assets/img/sigil-white.png
+== File Change: source/assets/img/sigil-white.svg
+== File Change: source/assets/img/loading.gif
+== File Change: source/assets/img/victorian_darkblue_by_iamfreeman.jpg
+== File Change: source/assets/img/rss.svg
+== File Change: source/assets/img/linkedin.svg
+== File Change: source/assets/img/twitter.png
+== File Change: source/assets/img/glyphicons-halflings-white.png
+== File Change: source/assets/css/lightbox.css
+== File Change: source/assets/css/bootstrap-responsive.css
+== File Change: source/assets/css/bootstrap.css
+== File Change: source/assets/css/4pdj.css
+== File Change: source/assets/js/sticky_navbar.js
+== File Change: source/assets/js/4pdj.js
+== File Change: source/assets/js/search.coffee
+== File Change: source/assets/js/license.js
+== File Change: source/assets/js/bootstrap.js
+== File Change: source/assets/js/lightbox.js
+== File Change: source/assets/js/jquery.js
+== File Change: source/sitemap.html.erb
+== File Change: source/feed.xml.builder
+== File Change: source/partials/_breadcrumbs.haml
+== File Change: source/partials/_pages.haml
+== File Change: source/partials/_header.haml
+== File Change: source/partials/_archive.haml
+== File Change: source/partials/_footer.haml
+== File Change: source/partials/_search.haml
+== File Change: source/index.html.erb
+== File Change: source/calendar.html.erb
+== File Change: source/layouts/layout.haml
+== File Change: source/layouts/article.haml
+== File Change: source/sitemap.xml.builder
+== File Change: source/technology/2009-06-10-examen.html.markdown.erb
+== File Change: source/technology/2013-05-29-middleman.html.markdown.erb
+== File Change: source/technology/2010-01-11-custom-firewall-under-ubuntu-karmic-koala-with-upstart.html.markdown.erb
+== File Change: source/technology/2009-10-06-oracle-service-bus.html.markdown.erb
+== File Change: source/technology/2009-12-22-cisco-anyconnect-on-ubuntu-64bit.html.markdown.erb
+== File Change: source/technology/2009-03-03-hello-world.html.markdown.erb
+== File Change: source/technology/2009-05-27-finally.html.markdown.erb
+== File Change: source/technology/2009-06-06-ptools-went-public.html.markdown.erb
+== File Change: source/technology/2010-06-17-ubuntu-64-bit-lucid-lynx-vs-flash.html.markdown.erb
+== File Change: source/technology/2013-06-07-grub2-chainload-mbr-image.html.markdown.erb
+== File Change: source/technology/2009-06-08-learning.html.markdown.erb
+== File Change: source/technology/2009-11-11-wave.html.markdown.erb
+== File Change: source/technology/2009-09-29-course-bea-weblogic-application-server.html.markdown.erb
+== File Change: source/technology/2009-11-20-virtualbox-bridged.html.markdown.erb
+== File Change: source/tag.html.erb
+== File Change: source/personal/2009-06-14-on-the-camping.html.markdown.erb
+== File Change: source/personal/2010-04-28-weeeeeee-cute.html.markdown.erb
+== File Change: source/personal/2009-12-18-at-home.html.markdown.erb
+== File Change: source/personal/2010-07-20-hugz.html.markdown.erb
+== File Change: source/personal/2009-08-16-road-trip.html.markdown.erb
+== File Change: source/personal/2009-12-17-snow.html.markdown.erb
+== File Change: source/personal/2009-05-17-efteling.html.markdown.erb
+== File Change: source/personal/2009-08-02-ode2.html.markdown.erb
+== File Change: source/personal/2011-07-25-kitties.html.markdown.erb
+== File Change: source/personal/2011-08-24-el-pooki-grande.html.markdown.erb
+== File Change: source/personal/2010-05-25-gtd-revisited.html.markdown.erb
+== File Change: source/personal/2010-01-01-happy-newyear.html.markdown.erb
+== File Change: source/personal/2012-08-27-apollo-2.html.markdown.erb
+== File Change: source/personal/2010-07-14-cute111.html.markdown.erb
+== File Change: source/personal/2009-08-27-post-joigny-syndrome.html.markdown.erb
+== File Change: source/personal/2009-06-28-ode.html.markdown.erb
+== File Change: source/personal/2009-08-30-joigny.html.markdown.erb
+== File Change: source/personal/2013-06-24-schiermonnikoog.html.markdown.erb
+== File Change: source/personal/2009-11-12-puck.html.markdown.erb
+== File Change: source/personal/2010-04-27-gtd.html.markdown.erb
+== File Change: source/personal/2013-07-10-passed-my-driving-exam.html.markdown.erb
+== File Change: config.ru
+== File Change: config.rb
+== File Change: fout
+== File Change: contrib/lightbox2/images/speech-bubbles.png
+== File Change: contrib/lightbox2/images/next.png
+== File Change: contrib/lightbox2/images/close.png
+== File Change: contrib/lightbox2/images/bullet.gif
+== File Change: contrib/lightbox2/images/loading.gif
+== File Change: contrib/lightbox2/images/box.png
+== File Change: contrib/lightbox2/images/prev.png
+== File Change: contrib/lightbox2/images/bg-checker.png
+== File Change: contrib/lightbox2/images/examples/image-1.jpg
+== File Change: contrib/lightbox2/images/examples/image-4.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-4.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-1.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-5.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-2.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-3.jpg
+== File Change: contrib/lightbox2/images/examples/image-5.jpg
+== File Change: contrib/lightbox2/images/examples/thumb-6.jpg
+== File Change: contrib/lightbox2/images/examples/image-2.jpg
+== File Change: contrib/lightbox2/images/examples/image-3.jpg
+== File Change: contrib/lightbox2/images/examples/image-6.jpg
+== File Change: contrib/lightbox2/images/favicon.gif
+== File Change: contrib/lightbox2/images/donate.png
+== File Change: contrib/lightbox2/index.html
+== File Change: contrib/lightbox2/README.markdown
+== File Change: contrib/lightbox2/.project
+== File Change: contrib/lightbox2/coffee/lightbox.coffee
+== File Change: contrib/lightbox2/.gitignore
+== File Change: contrib/lightbox2/releases/lightbox2.04.zip
+== File Change: contrib/lightbox2/releases/lightbox2.01.zip
+== File Change: contrib/lightbox2/releases/lightbox2.03.zip
+== File Change: contrib/lightbox2/releases/lightbox2.03.2.zip
+== File Change: contrib/lightbox2/releases/lightbox2.zip
+== File Change: contrib/lightbox2/releases/lightbox2.03.1.zip
+== File Change: contrib/lightbox2/releases/lightbox2.03.3.zip
+== File Change: contrib/lightbox2/releases/lightbox2.51.zip
+== File Change: contrib/lightbox2/releases/lightbox2.05.zip
+== File Change: contrib/lightbox2/releases/lightbox2.02.zip
+== File Change: contrib/lightbox2/releases/lightbox2.5.zip
+== File Change: contrib/lightbox2/css/screen.css
+== File Change: contrib/lightbox2/css/lightbox.css
+== File Change: contrib/lightbox2/js/jquery-ui-1.8.18.custom.min.js
+== File Change: contrib/lightbox2/js/jquery-1.7.2.min.js
+== File Change: contrib/lightbox2/js/lightbox.js
+== File Change: contrib/lightbox2/js/jquery.smooth-scroll.min.js
+== File Change: contrib/lightbox2/.git/hooks/commit-msg.sample
+== File Change: contrib/lightbox2/.git/hooks/pre-rebase.sample
+== File Change: contrib/lightbox2/.git/hooks/pre-applypatch.sample
+== File Change: contrib/lightbox2/.git/hooks/update.sample
+== File Change: contrib/lightbox2/.git/hooks/pre-commit.sample
+== File Change: contrib/lightbox2/.git/hooks/prepare-commit-msg.sample
+== File Change: contrib/lightbox2/.git/hooks/post-update.sample
+== File Change: contrib/lightbox2/.git/hooks/applypatch-msg.sample
+== File Change: contrib/lightbox2/.git/packed-refs
+== File Change: contrib/lightbox2/.git/info/exclude
+== File Change: contrib/lightbox2/.git/index
+== File Change: contrib/lightbox2/.git/config
+== File Change: contrib/lightbox2/.git/HEAD
+== File Change: contrib/lightbox2/.git/objects/pack/pack-653699ced1d4c30d34f1c53a02d674f624a17e0d.idx
+== File Change: contrib/lightbox2/.git/objects/pack/pack-653699ced1d4c30d34f1c53a02d674f624a17e0d.pack
+== File Change: contrib/lightbox2/.git/logs/HEAD
+== File Change: contrib/lightbox2/.git/logs/refs/heads/master
+== File Change: contrib/lightbox2/.git/description
+== File Change: contrib/lightbox2/.git/refs/remotes/origin/HEAD
+== File Change: contrib/lightbox2/.git/refs/heads/master
+== File Change: contrib/lightbox2/sass/lightbox.sass
+== File Change: contrib/lightbox2/sass/screen.sass
+== File Change: contrib/lightbox2/sass/_variables.sass
+== File Change: contrib/middleman-search-example/Gemfile
+== File Change: contrib/middleman-search-example/Gemfile.lock
+== File Change: contrib/middleman-search-example/source/images/background.png
+== File Change: contrib/middleman-search-example/source/images/middleman.png
+== File Change: contrib/middleman-search-example/source/entries.json.erb
+== File Change: contrib/middleman-search-example/source/entries-example.json
+== File Change: contrib/middleman-search-example/source/javascripts/search.coffee
+== File Change: contrib/middleman-search-example/source/javascripts/all.js
+== File Change: contrib/middleman-search-example/source/javascripts/.search.coffee.swp
+== File Change: contrib/middleman-search-example/source/blog/2012-12-01-test.markdown
+== File Change: contrib/middleman-search-example/source/index.html.erb
+== File Change: contrib/middleman-search-example/source/layouts/layout.erb
+== File Change: contrib/middleman-search-example/source/stylesheets/all.css
+== File Change: contrib/middleman-search-example/source/stylesheets/normalize.css
+== File Change: contrib/middleman-search-example/config.rb
+== File Change: contrib/middleman-search-example/.gitignore
+== File Change: contrib/middleman-search-example/README.md
+== File Change: contrib/middleman-search-example/.git/hooks/commit-msg.sample
+== File Change: contrib/middleman-search-example/.git/hooks/pre-rebase.sample
+== File Change: contrib/middleman-search-example/.git/hooks/pre-applypatch.sample
+== File Change: contrib/middleman-search-example/.git/hooks/update.sample
+== File Change: contrib/middleman-search-example/.git/hooks/pre-commit.sample
+== File Change: contrib/middleman-search-example/.git/hooks/prepare-commit-msg.sample
+== File Change: contrib/middleman-search-example/.git/hooks/post-update.sample
+== File Change: contrib/middleman-search-example/.git/hooks/applypatch-msg.sample
+== File Change: contrib/middleman-search-example/.git/packed-refs
+== File Change: contrib/middleman-search-example/.git/info/exclude
+== File Change: contrib/middleman-search-example/.git/index
+== File Change: contrib/middleman-search-example/.git/config
+== File Change: contrib/middleman-search-example/.git/HEAD
+== File Change: contrib/middleman-search-example/.git/objects/ef/873e66af8629f05398b97a68e4c80110a3e2b6
+== File Change: contrib/middleman-search-example/.git/objects/c6/a6452d249f902a80b0775bf01352cbca6f284b
+== File Change: contrib/middleman-search-example/.git/objects/c6/85e564378b038c44e51ec98454af7237d3412a
+== File Change: contrib/middleman-search-example/.git/objects/2a/7ed337a45b7154118d54794d7d2711a3b2e3e8
+== File Change: contrib/middleman-search-example/.git/objects/0a/89ccd261c367946860cfd704f6d1a226a98eec
+== File Change: contrib/middleman-search-example/.git/objects/0a/7d0f884874ed9a1c67247fe54e025f4bf71b8d
+== File Change: contrib/middleman-search-example/.git/objects/4d/f8fa33fe62e09d2c8f0840b49d19ed0e5586a3
+== File Change: contrib/middleman-search-example/.git/objects/52/59ff8c843ef4fa26c05f79492d52ce880c6edc
+== File Change: contrib/middleman-search-example/.git/objects/52/2a5ac1cd0e44f88dedcc82ff8888527ff96b5a
+== File Change: contrib/middleman-search-example/.git/objects/07/21a809affce17ef6e0e9c9e7c1494f07534b64
+== File Change: contrib/middleman-search-example/.git/objects/4e/a9c919f8db544c7b404505ea08378692fc4707
+== File Change: contrib/middleman-search-example/.git/objects/4e/687aa11c5f3e08f349360f6d331d58465086e6
+== File Change: contrib/middleman-search-example/.git/objects/e1/a3506561b7bfd7c2e19311966cdffe9c77750f
+== File Change: contrib/middleman-search-example/.git/objects/72/e4c91fe03d0326e4a60fd9d2b96256f23380ae
+== File Change: contrib/middleman-search-example/.git/objects/72/7cc4ef569d3570deb126b9041a4c47899c4587
+== File Change: contrib/middleman-search-example/.git/objects/da/cf2e1861be0377092a7fb9a6779b11b837241f
+== File Change: contrib/middleman-search-example/.git/objects/c0/8101b1c065fa10f6b7e55f3f1c453766e8a13f
+== File Change: contrib/middleman-search-example/.git/objects/1c/1eeac74b3573a62278ca57259f2b267c4113fd
+== File Change: contrib/middleman-search-example/.git/objects/06/e004a8e431ca82aebcbd3435f414b1deb16d81
+== File Change: contrib/middleman-search-example/.git/objects/06/b3017fd2b609a2c4a5e7e826c52e0968cf867f
+== File Change: contrib/middleman-search-example/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+== File Change: contrib/middleman-search-example/.git/objects/2f/2f67abfb042ad894443cb7bc878f5160e9d6fd
+== File Change: contrib/middleman-search-example/.git/objects/87/a40ca716dad71fa07307fc4db974ad992efcf2
+== File Change: contrib/middleman-search-example/.git/objects/4b/2b59aff418fe2244a7be6e4903395a03727a29
+== File Change: contrib/middleman-search-example/.git/objects/78/8b70a7fcee60b2c0cbcbf9d2d0cc809f58b9fd
+== File Change: contrib/middleman-search-example/.git/objects/51/557d9fbba2113074da4b6fff57dcf11940b3c2
+== File Change: contrib/middleman-search-example/.git/objects/2c/35211407455b058cb88fa0ffab44fc33af4a69
+== File Change: contrib/middleman-search-example/.git/objects/d1/98d0039cdd0fec428ad3974046ea07359641b4
+== File Change: contrib/middleman-search-example/.git/objects/d1/824351d2017841acb09db9cc8a05e17a9e7394
+== File Change: contrib/middleman-search-example/.git/objects/9a/ced60cd94ddec6ba3bd336eded769ab9216e50
+== File Change: contrib/middleman-search-example/.git/objects/e5/e97e6df3d70c11cdb909bcf2e44184a15649d1
+== File Change: contrib/middleman-search-example/.git/objects/f5/51ab1882209bcba57eb1dc7eb6c9d57b30c13a
+== File Change: contrib/middleman-search-example/.git/objects/f5/4602699446dc1eb1705aa57b4c796a8e81b27a
+== File Change: contrib/middleman-search-example/.git/objects/4f/dbd2277a3546bb44cfd21497cb259b4438f474
+== File Change: contrib/middleman-search-example/.git/objects/fa/94bba6f1002d27cf792f5744ada043e48ed09e
+== File Change: contrib/middleman-search-example/.git/objects/58/99d07fdbf1b0c5cf15e93578ba41441e0df234
+== File Change: contrib/middleman-search-example/.git/objects/f9/3e3a1a1525fb5b91020da86e44810c87a2d7bc
+== File Change: contrib/middleman-search-example/.git/objects/2b/ecd765c79234b8662c575fac6c259ba87d033c
+== File Change: contrib/middleman-search-example/.git/objects/aa/c77ac5b50e4ae1486db1cd6b3e3f6d6fa5d3d4
+== File Change: contrib/middleman-search-example/.git/objects/aa/2c2535b033f85185ea529a7af17334288c5b28
+== File Change: contrib/middleman-search-example/.git/objects/ed/1bcbd6ad6fb652b1a9299f62880fa12b7ea3fc
+== File Change: contrib/middleman-search-example/.git/objects/27/d6b9fea8009df80f2f387e5cb48035a0dd9eb6
+== File Change: contrib/middleman-search-example/.git/objects/e4/12324de0e16f2c38ffcd967a022601da016de5
+== File Change: contrib/middleman-search-example/.git/objects/22/f6479e0371676695bbf0519536afd725544a6c
+== File Change: contrib/middleman-search-example/.git/objects/23/e88b3e145970b817f9850cf168b8792225d267
+== File Change: contrib/middleman-search-example/.git/objects/85/97792f1d9f04bf7188ff16434efe4bfff42a20
+== File Change: contrib/middleman-search-example/.git/objects/f6/beb07dbdea67c7c23e14f89fb1db80643cf772
+== File Change: contrib/middleman-search-example/.git/objects/c4/1accb7d4bb53ec2e75cfe18155b020a6510c5a
+== File Change: contrib/middleman-search-example/.git/objects/c4/92166f8f923d932a7f6768187c7596dffa6be1
+== File Change: contrib/middleman-search-example/.git/objects/5d/06d113e261b827bbd85e42121654b70eed1504
+== File Change: contrib/middleman-search-example/.git/objects/97/0cb27fe0d8d96d09b7a201585ebef2406a89e2
+== File Change: contrib/middleman-search-example/.git/objects/e7/a23a2a4ab1333714017258bc98421409394bb9
+== File Change: contrib/middleman-search-example/.git/objects/84/f0b08aa5aa271a7210247d7d61e3f1a786dac0
+== File Change: contrib/middleman-search-example/.git/objects/ba/6c0dedc84f3dafc4461428d8ca020370d22646
+== File Change: contrib/middleman-search-example/.git/objects/36/0890e9ccff43b8b615abbfd8a4a0732094d3d2
+== File Change: contrib/middleman-search-example/.git/objects/7d/1e72c5133301cf3e25454db821f6572adc39d5
+== File Change: contrib/middleman-search-example/.git/objects/f4/90abe6bf2ea9469c928c25b3e3ba3460f5fb68
+== File Change: contrib/middleman-search-example/.git/objects/b8/81d12c180af893fa143b0a33e6b504abb089aa
+== File Change: contrib/middleman-search-example/.git/objects/5f/5ca9a5764aafa5d9ec4823836b04274dfeb751
+== File Change: contrib/middleman-search-example/.git/objects/3d/8aa7bee275cff16d0a0a98702d7024abb44031
+== File Change: contrib/middleman-search-example/.git/objects/1f/6dd8a99dd4315dddd78d8bc01bb22f42f16d1b
+== File Change: contrib/middleman-search-example/.git/objects/6a/5e25a40bc22f46776b494ac258ef68ceb03b02
+== File Change: contrib/middleman-search-example/.git/objects/6a/897ba99196ccdccfe9da7f9adf08723ecbae05
+== File Change: contrib/middleman-search-example/.git/objects/54/c9f7eed00ee1e81ffb0de85246d080677bfc0b
+== File Change: contrib/middleman-search-example/.git/objects/8d/51ee48a60937e338cb34b9a6f9b15356e6f9e6
+== File Change: contrib/middleman-search-example/.git/objects/99/f5db44b37b278bb2987066db0d1f0297c63142
+== File Change: contrib/middleman-search-example/.git/objects/18/a5e9f5c22f18b0b4aa25b55a7300f15d70241c
+== File Change: contrib/middleman-search-example/.git/objects/26/5d5da4d9a0ebd8f3076c4942da4f98feb1c66d
+== File Change: contrib/middleman-search-example/.git/objects/26/75d4f27d8c44070cc7575b02ca57a8b8d0eed8
+== File Change: contrib/middleman-search-example/.git/objects/26/b47787c6e552144cec98f6752babac785f1224
+== File Change: contrib/middleman-search-example/.git/objects/34/8a50912c7cc45302f41c6bbb1be13e966c3cdd
+== File Change: contrib/middleman-search-example/.git/objects/34/9cfb5ec6024297046962560d71d2d88ecfaa3f
+== File Change: contrib/middleman-search-example/.git/objects/c3/ecebd7f39e0fb0dd7b4ca1f996306b9240a8ba
+== File Change: contrib/middleman-search-example/.git/objects/19/41c93b45773f10b4c66f1d5e84930377890987
+== File Change: contrib/middleman-search-example/.git/objects/5e/9ec641a5f8d9484f2c5a9217afacef905c1b4f
+== File Change: contrib/middleman-search-example/.git/objects/d2/bf99195dad719d7380ba6d561408f4b3e74c04
+== File Change: contrib/middleman-search-example/.git/objects/fe/2863cf3fc676bd061101d5bd829393740575f1
+== File Change: contrib/middleman-search-example/.git/objects/7b/de95a280f33b4a709140860360dc29ac49d46d
+== File Change: contrib/middleman-search-example/.git/objects/13/0923ccdd2d4e95cc0d2d64ac7cc353bed5c2a4
+== File Change: contrib/middleman-search-example/.git/objects/e3/f2d083a02ba2cb77bae9a2d1eb80fcdbd2dfdd
+== File Change: contrib/middleman-search-example/.git/objects/e3/5ce83b180f8c083a0ad57275ea8bc64ff8da27
+== File Change: contrib/middleman-search-example/.git/objects/b7/99c15adeeb8bde77b824b53da03753f0732999
+== File Change: contrib/middleman-search-example/.git/objects/b7/fd7babcfc0d8144752f68666676b16c40bb36d
+== File Change: contrib/middleman-search-example/.git/objects/b7/4ce2fde060aac33f088cd11e75df431e7a07cc
+== File Change: contrib/middleman-search-example/.git/objects/86/81d44f7954cf98014bf87abb43af7ee7f63cd7
+== File Change: contrib/middleman-search-example/.git/objects/86/b3f1f467ed8e3b68a2d17b144ae2bb35022ae7
+== File Change: contrib/middleman-search-example/.git/objects/94/943b273511d1b1ebefc9b6e522153cd43d4d8e
+== File Change: contrib/middleman-search-example/.git/objects/d0/d6990765d14d695ca90d269c5c94bba3fdc8f5
+== File Change: contrib/middleman-search-example/.git/objects/61/873bbce66fc221ca1f9ca44d9dac4edb382639
+== File Change: contrib/middleman-search-example/.git/objects/38/bc06ea57f95ab4b912ea1019c60ac355ff1a89
+== File Change: contrib/middleman-search-example/.git/objects/d5/4ff16dd407a76005e93f22996ab8d0a7cb4781
+== File Change: contrib/middleman-search-example/.git/objects/56/871b8975e8aa2cad63da5986c0ee823a5f29d0
+== File Change: contrib/middleman-search-example/.git/objects/29/2138a22a5ee8fcc722bd5a40366b1d5cd36be8
+== File Change: contrib/middleman-search-example/.git/objects/b5/82dfacce5e969b06d0f96f9064d6d20c4b3483
+== File Change: contrib/middleman-search-example/.git/objects/b6/9be164ad6c91fda13ae397c1149875c80110bc
+== File Change: contrib/middleman-search-example/.git/objects/b6/c0978e75fb9021b88500457f276f47e78861c3
+== File Change: contrib/middleman-search-example/.git/objects/73/abb76fa418d070053579755fd19a1c022f7ad7
+== File Change: contrib/middleman-search-example/.git/objects/73/a08dd2be6bad200e4e0ba0f259377c97d44bdc
+== File Change: contrib/middleman-search-example/.git/logs/HEAD
+== File Change: contrib/middleman-search-example/.git/logs/refs/heads/master
+== File Change: contrib/middleman-search-example/.git/description
+== File Change: contrib/middleman-search-example/.git/refs/remotes/origin/HEAD
+== File Change: contrib/middleman-search-example/.git/refs/heads/master
+== File Change: contrib/scripts/mksquare.sh
+== File Change: contrib/scripts/mksquare64.sh
+== File Change: contrib/scripts/mkthumb.sh
+== File Change: contrib/middleman-sitemap/sitemap.html.erb
+== File Change: contrib/middleman-sitemap/README.md
+== File Change: contrib/middleman-sitemap/data/sitemap.yml
+== File Change: contrib/middleman-sitemap/sitemap.xml.builder
+== File Change: contrib/middleman-sitemap/.git/hooks/commit-msg.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/pre-rebase.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/pre-applypatch.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/update.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/pre-commit.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/prepare-commit-msg.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/post-update.sample
+== File Change: contrib/middleman-sitemap/.git/hooks/applypatch-msg.sample
+== File Change: contrib/middleman-sitemap/.git/packed-refs
+== File Change: contrib/middleman-sitemap/.git/info/exclude
+== File Change: contrib/middleman-sitemap/.git/index
+== File Change: contrib/middleman-sitemap/.git/config
+== File Change: contrib/middleman-sitemap/.git/HEAD
+== File Change: contrib/middleman-sitemap/.git/ORIG_HEAD
+== File Change: contrib/middleman-sitemap/.git/FETCH_HEAD
+== File Change: contrib/middleman-sitemap/.git/objects/ef/8930c084b87347733cbb36cb27a84131f42d7a
+== File Change: contrib/middleman-sitemap/.git/objects/69/d0e0293f9c3592c1a9a3d53672b984e7a8a888
+== File Change: contrib/middleman-sitemap/.git/objects/52/f93a11207fea010ae82931ca4392e972c24e9c
+== File Change: contrib/middleman-sitemap/.git/objects/28/eab411ef5f8ba0e10d71e87f53abb55631e469
+== File Change: contrib/middleman-sitemap/.git/objects/bb/d2dd191cb5875ffe108441da685a64802c1290
+== File Change: contrib/middleman-sitemap/.git/objects/71/f62240b82b122b042f47b6f8ec5b2fca116756
+== File Change: contrib/middleman-sitemap/.git/objects/09/8930f550f517bcac4b1b3305f10d3b818759ba
+== File Change: contrib/middleman-sitemap/.git/objects/d6/f03ccca6f9def31fd002f562a88beb1938c4e0
+== File Change: contrib/middleman-sitemap/.git/objects/81/e0b81f37df8994e01eddcdb2c0521ed8fcc804
+== File Change: contrib/middleman-sitemap/.git/objects/b4/43cdbfad2c5f2ea38a4505726cddfee084aacd
+== File Change: contrib/middleman-sitemap/.git/objects/b4/22ad3bc6b5a1bcf17e6737a2f3d7192c114fc8
+== File Change: contrib/middleman-sitemap/.git/objects/63/17f9fd3eb5cf7872a61d427193048e7b29dfe8
+== File Change: contrib/middleman-sitemap/.git/objects/1d/41f8dfb1c46b5e1e7106e749ae41dc2d6ce7d5
+== File Change: contrib/middleman-sitemap/.git/objects/c8/ae389299b838fb081852baae3799674adb2ae2
+== File Change: contrib/middleman-sitemap/.git/objects/5d/754d3865e7e434d8b90c403ad24ca032d234ff
+== File Change: contrib/middleman-sitemap/.git/objects/e7/ae6a68d8ea30f9cf8625f28f1d3f7dedfbfefb
+== File Change: contrib/middleman-sitemap/.git/objects/a2/921390e85bc989db7552cc6a400d5ef4fb224c
+== File Change: contrib/middleman-sitemap/.git/objects/8c/2ebdbe3b726e070f26a1fa14a197f09261806d
+== File Change: contrib/middleman-sitemap/.git/objects/ca/8468f0cd1179eff97d69df70bb0aa0d5c7dd46
+== File Change: contrib/middleman-sitemap/.git/objects/5e/8dbb74eeaad3711bdf73c15bf2670d5e6aa794
+== File Change: contrib/middleman-sitemap/.git/objects/fd/7c2be1bd6b005795b869ea8f9df6e1da7c5bb5
+== File Change: contrib/middleman-sitemap/.git/objects/b6/866d5ab933d6a6f3c2c26f02b66fdd264d627e
+== File Change: contrib/middleman-sitemap/.git/logs/HEAD
+== File Change: contrib/middleman-sitemap/.git/logs/refs/heads/master
+== File Change: contrib/middleman-sitemap/.git/description
+== File Change: contrib/middleman-sitemap/.git/refs/remotes/origin/HEAD
+== File Change: contrib/middleman-sitemap/.git/refs/heads/master
+== File Change: contrib/bootstrap/component.json
+== File Change: contrib/bootstrap/less/progress-bars.less
+== File Change: contrib/bootstrap/less/bootstrap.less
+== File Change: contrib/bootstrap/less/responsive-767px-max.less
+== File Change: contrib/bootstrap/less/grid.less
+== File Change: contrib/bootstrap/less/buttons.less
+== File Change: contrib/bootstrap/less/sprites.less
+== File Change: contrib/bootstrap/less/utilities.less
+== File Change: contrib/bootstrap/less/responsive-navbar.less
+== File Change: contrib/bootstrap/less/npm-debug.log
+== File Change: contrib/bootstrap/less/type.less
+== File Change: contrib/bootstrap/less/responsive-1200px-min.less
+== File Change: contrib/bootstrap/less/variables.less
+== File Change: contrib/bootstrap/less/navs.less
+== File Change: contrib/bootstrap/less/tooltip.less
+== File Change: contrib/bootstrap/less/breadcrumbs.less
+== File Change: contrib/bootstrap/less/modals.less
+== File Change: contrib/bootstrap/less/accordion.less
+== File Change: contrib/bootstrap/less/forms.less
+== File Change: contrib/bootstrap/less/pagination.less
+== File Change: contrib/bootstrap/less/compile
+== File Change: contrib/bootstrap/less/carousel.less
+== File Change: contrib/bootstrap/less/labels-badges.less
+== File Change: contrib/bootstrap/less/thumbnails.less
+== File Change: contrib/bootstrap/less/scaffolding.less
+== File Change: contrib/bootstrap/less/variables.less_backup
+== File Change: contrib/bootstrap/less/code.less
+== File Change: contrib/bootstrap/less/popovers.less
+== File Change: contrib/bootstrap/less/layouts.less
+== File Change: contrib/bootstrap/less/close.less
+== File Change: contrib/bootstrap/less/wells.less
+== File Change: contrib/bootstrap/less/media.less
+== File Change: contrib/bootstrap/less/reset.less
+== File Change: contrib/bootstrap/less/alerts.less
+== File Change: contrib/bootstrap/less/pager.less
+== File Change: contrib/bootstrap/less/tables.less
+== File Change: contrib/bootstrap/less/button-groups.less
+== File Change: contrib/bootstrap/less/dropdowns.less
+== File Change: contrib/bootstrap/less/responsive-utilities.less
+== File Change: contrib/bootstrap/less/component-animations.less
+== File Change: contrib/bootstrap/less/responsive.less
+== File Change: contrib/bootstrap/less/navbar.less
+== File Change: contrib/bootstrap/less/mixins.less
+== File Change: contrib/bootstrap/less/hero-unit.less
+== File Change: contrib/bootstrap/less/tests/buttons.html
+== File Change: contrib/bootstrap/less/tests/navbar.html
+== File Change: contrib/bootstrap/less/tests/css-tests.css
+== File Change: contrib/bootstrap/less/tests/forms.html
+== File Change: contrib/bootstrap/less/tests/forms-responsive.html
+== File Change: contrib/bootstrap/less/tests/navbar-static-top.html
+== File Change: contrib/bootstrap/less/tests/css-tests.html
+== File Change: contrib/bootstrap/less/tests/navbar-fixed-top.html
+== File Change: contrib/bootstrap/less/responsive-768px-979px.less
+== File Change: contrib/bootstrap/composer.json
+== File Change: contrib/bootstrap/img/glyphicons-halflings.png
+== File Change: contrib/bootstrap/img/glyphicons-halflings-white.png
+== File Change: contrib/bootstrap/CONTRIBUTING.md
+== File Change: contrib/bootstrap/Makefile
+== File Change: contrib/bootstrap/package.json
+== File Change: contrib/bootstrap/.gitignore
+== File Change: contrib/bootstrap/LICENSE
+== File Change: contrib/bootstrap/docs/index.html
+== File Change: contrib/bootstrap/docs/base-css.html
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/soundready.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/gathercontent.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/kippt.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/breakingnews.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/adoptahydrant.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/jshint.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/fleetio.png
+== File Change: contrib/bootstrap/docs/assets/img/example-sites/8020select.png
+== File Change: contrib/bootstrap/docs/assets/img/glyphicons-halflings.png
+== File Change: contrib/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-02.jpg
+== File Change: contrib/bootstrap/docs/assets/img/bs-docs-masthead-pattern.png
+== File Change: contrib/bootstrap/docs/assets/img/bs-docs-twitter-github.png
+== File Change: contrib/bootstrap/docs/assets/img/bootstrap-docs-readme.png
+== File Change: contrib/bootstrap/docs/assets/img/responsive-illustrations.png
+== File Change: contrib/bootstrap/docs/assets/img/bs-docs-bootstrap-features.png
+== File Change: contrib/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-03.jpg
+== File Change: contrib/bootstrap/docs/assets/img/grid-baseline-20px.png
+== File Change: contrib/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-01.jpg
+== File Change: contrib/bootstrap/docs/assets/img/less-logo-large.png
+== File Change: contrib/bootstrap/docs/assets/img/bs-docs-responsive-illustrations.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/browser-icon-chrome.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/slide-01.jpg
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-signin.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-justified-nav.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/browser-icon-firefox.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-sticky-footer.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-carousel.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/slide-03.jpg
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-marketing-narrow.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-starter.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-fluid.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/slide-02.jpg
+== File Change: contrib/bootstrap/docs/assets/img/examples/browser-icon-safari.png
+== File Change: contrib/bootstrap/docs/assets/img/examples/bootstrap-example-marketing.png
+== File Change: contrib/bootstrap/docs/assets/img/glyphicons-halflings-white.png
+== File Change: contrib/bootstrap/docs/assets/ico/apple-touch-icon-57-precomposed.png
+== File Change: contrib/bootstrap/docs/assets/ico/apple-touch-icon-114-precomposed.png
+== File Change: contrib/bootstrap/docs/assets/ico/favicon.png
+== File Change: contrib/bootstrap/docs/assets/ico/apple-touch-icon-144-precomposed.png
+== File Change: contrib/bootstrap/docs/assets/ico/apple-touch-icon-72-precomposed.png
+== File Change: contrib/bootstrap/docs/assets/ico/favicon.ico
+== File Change: contrib/bootstrap/docs/assets/css/docs.css
+== File Change: contrib/bootstrap/docs/assets/css/bootstrap-responsive.css
+== File Change: contrib/bootstrap/docs/assets/css/bootstrap.css
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-popover.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-tab.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-collapse.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap.min.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-tooltip.js
+== File Change: contrib/bootstrap/docs/assets/js/application.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-button.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-transition.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-dropdown.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-typeahead.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-modal.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-carousel.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-scrollspy.js
+== File Change: contrib/bootstrap/docs/assets/js/README.md
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-affix.js
+== File Change: contrib/bootstrap/docs/assets/js/html5shiv.js
+== File Change: contrib/bootstrap/docs/assets/js/holder/holder.js
+== File Change: contrib/bootstrap/docs/assets/js/bootstrap-alert.js
+== File Change: contrib/bootstrap/docs/assets/js/google-code-prettify/prettify.js
+== File Change: contrib/bootstrap/docs/assets/js/google-code-prettify/prettify.css
+== File Change: contrib/bootstrap/docs/assets/js/jquery.js
+== File Change: contrib/bootstrap/docs/getting-started.html
+== File Change: contrib/bootstrap/docs/javascript.html
+== File Change: contrib/bootstrap/docs/customize.html
+== File Change: contrib/bootstrap/docs/scaffolding.html
+== File Change: contrib/bootstrap/docs/extend.html
+== File Change: contrib/bootstrap/docs/build/index.js
+== File Change: contrib/bootstrap/docs/build/package.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.min.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.common.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.min.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.mustache.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.common.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.mustache.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.amd.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.amd.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.min.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/images/logo.png
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/images/noise.png
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/images/stripes.png
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/images/small-hogan-icon.png
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/index.html.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/favicon.ico
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/stylesheets/layout.css
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/stylesheets/skeleton.css
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/1.0.0/hogan.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/web/1.0.0/hogan.min.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/lib/hogan.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/lib/template.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/lib/compiler.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/tools/release.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/tools/web_templates.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/bin/hulk
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/Makefile
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/package.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/index.html
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/index.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/mustache.js
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/html/list.html
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/TESTING.md
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/Changes
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/README.md
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/interpolation.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/sections.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/interpolation.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/delimiters.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/comments.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/inverted.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/inverted.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/partials.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/partials.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/delimiters.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/comments.yml
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/specs/sections.json
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/spec/Rakefile
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/test/templates/list.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/wrappers/js.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/wrappers/amd.js.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/wrappers/mustache.js.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/wrappers/common.js.mustache
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/LICENSE
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/README.md
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/.gitmodules
+== File Change: contrib/bootstrap/docs/build/node_modules/hogan.js/.git_ignore
+== File Change: contrib/bootstrap/docs/build/node_modules/.bin/hulk
+== File Change: contrib/bootstrap/docs/components.html
+== File Change: contrib/bootstrap/docs/examples/signin.html
+== File Change: contrib/bootstrap/docs/examples/fluid.html
+== File Change: contrib/bootstrap/docs/examples/sticky-footer-navbar.html
+== File Change: contrib/bootstrap/docs/examples/marketing-narrow.html
+== File Change: contrib/bootstrap/docs/examples/justified-nav.html
+== File Change: contrib/bootstrap/docs/examples/sticky-footer.html
+== File Change: contrib/bootstrap/docs/examples/starter-template.html
+== File Change: contrib/bootstrap/docs/examples/hero.html
+== File Change: contrib/bootstrap/docs/examples/carousel.html
+== File Change: contrib/bootstrap/docs/templates/pages/getting-started.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/javascript.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/customize.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/components.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/base-css.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/extend.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/index.mustache
+== File Change: contrib/bootstrap/docs/templates/pages/scaffolding.mustache
+== File Change: contrib/bootstrap/docs/templates/layout.mustache
+== File Change: contrib/bootstrap/README.md
+== File Change: contrib/bootstrap/CHANGELOG.md
+== File Change: contrib/bootstrap/js/bootstrap-popover.js
+== File Change: contrib/bootstrap/js/bootstrap-tab.js
+== File Change: contrib/bootstrap/js/bootstrap-collapse.js
+== File Change: contrib/bootstrap/js/.jshintrc
+== File Change: contrib/bootstrap/js/bootstrap-tooltip.js
+== File Change: contrib/bootstrap/js/bootstrap-button.js
+== File Change: contrib/bootstrap/js/bootstrap-transition.js
+== File Change: contrib/bootstrap/js/bootstrap-dropdown.js
+== File Change: contrib/bootstrap/js/bootstrap-typeahead.js
+== File Change: contrib/bootstrap/js/bootstrap-modal.js
+== File Change: contrib/bootstrap/js/bootstrap-carousel.js
+== File Change: contrib/bootstrap/js/bootstrap-scrollspy.js
+== File Change: contrib/bootstrap/js/bootstrap-affix.js
+== File Change: contrib/bootstrap/js/bootstrap-alert.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-popover.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-tab.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-collapse.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-phantom.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-tooltip.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-button.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-transition.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-dropdown.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-typeahead.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-modal.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-carousel.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-scrollspy.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-affix.js
+== File Change: contrib/bootstrap/js/tests/unit/bootstrap-alert.js
+== File Change: contrib/bootstrap/js/tests/index.html
+== File Change: contrib/bootstrap/js/tests/vendor/qunit.css
+== File Change: contrib/bootstrap/js/tests/vendor/qunit.js
+== File Change: contrib/bootstrap/js/tests/vendor/jquery.js
+== File Change: contrib/bootstrap/js/tests/server.js
+== File Change: contrib/bootstrap/js/tests/phantom.js
+== File Change: contrib/bootstrap/.travis.yml
+== File Change: contrib/bootstrap/.git/hooks/commit-msg.sample
+== File Change: contrib/bootstrap/.git/hooks/pre-rebase.sample
+== File Change: contrib/bootstrap/.git/hooks/pre-applypatch.sample
+== File Change: contrib/bootstrap/.git/hooks/update.sample
+== File Change: contrib/bootstrap/.git/hooks/pre-commit.sample
+== File Change: contrib/bootstrap/.git/hooks/prepare-commit-msg.sample
+== File Change: contrib/bootstrap/.git/hooks/post-update.sample
+== File Change: contrib/bootstrap/.git/hooks/applypatch-msg.sample
+== File Change: contrib/bootstrap/.git/packed-refs
+== File Change: contrib/bootstrap/.git/info/exclude
+== File Change: contrib/bootstrap/.git/index
+== File Change: contrib/bootstrap/.git/config
+== File Change: contrib/bootstrap/.git/HEAD
+== File Change: contrib/bootstrap/.git/objects/pack/pack-819ece9acc310f64da4cb53aa5371b3eddd15a0d.idx
+== File Change: contrib/bootstrap/.git/objects/pack/pack-819ece9acc310f64da4cb53aa5371b3eddd15a0d.pack
+== File Change: contrib/bootstrap/.git/logs/HEAD
+== File Change: contrib/bootstrap/.git/logs/refs/heads/master
+== File Change: contrib/bootstrap/.git/description
+== File Change: contrib/bootstrap/.git/refs/remotes/origin/HEAD
+== File Change: contrib/bootstrap/.git/refs/heads/master
+== File Change: contrib/apache-virtualhost-www.4pdj.nl
+== Rebuilding resource list
+== Prerendering CSS
+== Checking for Compass sprites
+== Building files
+[1m[34m   identical[0m  build/assets/img/glyphicons-halflings.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_644_thumb.png
+[1m[34m   identical[0m  build/assets/img/eyes_sylvain.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_clanwar_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-vuurtoren_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_cemetary_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_minas2_thumb.png
+[1m[34m   identical[0m  build/assets/img/close.png
+[1m[34m   identical[0m  build/images/marrowgar_down_thumb.png
+[1m[34m   identical[0m  build/assets/img/twitter.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb-300x225.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-300x225.png
+[1m[34m   identical[0m  build/assets/img/glyphicons-halflings-white.png
+[1m[34m   identical[0m  build/images/gtd_chart-180x300.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma2_thumb.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-207x300.png
+[1m[34m   identical[0m  build/images/rijexamen-geslaagd_squarebig.png
+[1m[34m   identical[0m  build/images/icc_lady_down_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-verjaardag_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-strand-thumb.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb.png
+[1m[34m   identical[0m  build/images/gtd_chart.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb-150x150.png
+[1m[34m   identical[0m  build/images/icc_gunshipbattle_down_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-16_00.23.05.png
+[1m[34m   identical[0m  build/images/oracle.png
+[1m[34m   identical[0m  build/images/tap0.png
+[1m[34m   identical[0m  build/images/donate.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum2_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum4_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_656_thumb.png
+[1m[34m   identical[0m  build/images/speech-bubbles.png
+[1m[34m   identical[0m  build/images/kaylee.png
+[1m[34m   identical[0m  build/images/google_wave.png
+[1m[34m   identical[0m  build/images/lineage2_teon_catacombs_all_the_way_thumb.png
+[1m[34m   identical[0m  build/images/subskills_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_kaylee_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-11_23.33.00.png
+[1m[34m   identical[0m  build/images/2012-07-16_10.27.52.png
+[1m[34m   identical[0m  build/images/ffxiv_20130615_194139_square.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_30_catacomb_thumb.png
+[1m[34m   identical[0m  build/images/PDJ-2012-May-Apollo-0006_square.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-400x198.png
+[1m[34m   identical[0m  build/images/puck_hands_up_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog1_thumb.png
+[1m[34m   identical[0m  build/images/istqb_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_this_is_what_treasure_hunters_are_about_thumb.png
+[1m[34m   identical[0m  build/images/camping_dobbe_friesland_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-komode_thumb.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb-300x222.png
+[1m[34m   identical[0m  build/images/lineage2_revival_giran_lvl20_artisan_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl20_hunting_for_raccoons_thumb.png
+[1m[34m   identical[0m  build/images/next.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_648_thumb.png
+[1m[34m   identical[0m  build/images/kaylee_is_the_supervisor_thumb.png
+[1m[34m   identical[0m  build/images/ffxiv_20130615_194139_thumb.png
+[1m[34m   identical[0m  build/images/efteling_vliegende_hollander.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb-150x150.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_political_drama_thumb.png
+[1m[34m   identical[0m  build/images/close.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_647_thumb.png
+[1m[34m   identical[0m  build/images/minas.png
+[1m[34m   identical[0m  build/images/summer2009_minas1_thumb2.png
+[1m[34m   identical[0m  build/images/minas_thumb.png
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_662_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_fake_romance_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_653_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl35_forest_of_mirrors_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_sleeping_on_the_job_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_657_thumb.png
+[1m[34m   identical[0m  build/images/puck_fc_groningen_thumb.png
+[1m[34m   identical[0m  build/images/gracia.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_21_dion_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_652_thumb.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb-150x150.png
+[1m[34m   identical[0m  build/images/summer2009_pizza4_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-in-skipakje-in-de-winter_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land2_thumb.png
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas2_thumb.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-150x150.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_ivory_tower_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_651_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-ijsje-thumb.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb.png
+[1m[34m   identical[0m  build/images/wow_athun_revival_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered_and_accepted_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_643_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_646_thumb.png
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-thumb-150x150.png
+[1m[34m   identical[0m  build/images/gtd_chart-150x150.png
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-11_23.25.36.png
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-thumb-400x198.png
+[1m[34m   identical[0m  build/images/gtd_succes_agenda_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_ashura_giran_castle_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-een-likje-is-niet-genoeg_thumb.png
+[1m[34m   identical[0m  build/images/efteling_vliegende_hollander_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank2_thumb.png
+[1m[34m   identical[0m  build/images/schiermonnikoog-vuurtoren_square.png
+[1m[34m   identical[0m  build/images/vbox_logo2_gradient.png
+[1m[34m   identical[0m  build/images/summer2009_d-olle_grieze_thumb.png
+[1m[34m   identical[0m  build/images/kaylee_garden_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-13_15.09.30.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_654_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_b_grade_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_hotel_thumb.png
+[1m[34m   identical[0m  build/images/2012-07-13_12.03.36.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-met-opa_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza3_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-zittend_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank_square.png
+[1m[34m   identical[0m  build/images/mayou_lucy_samen_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_minas1_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_661_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum3_thumb.png
+[1m[34m   identical[0m  build/images/rijexamen-geslaagd_thumb.png
+[1m[34m   identical[0m  build/images/PDJ-2012-May-Apollo-0006-thumb.png
+[1m[34m   identical[0m  build/images/bg-checker.png
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog2_thumb.png
+[1m[34m   identical[0m  build/images/ffxiv_20130615_194139.png
+[1m[34m   identical[0m  build/images/lineage2_worldmap_kamael_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_645_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_ashura_syn_alliance_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren1_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_kaylee_thumb2.png
+[1m[34m   identical[0m  build/images/prev.png
+[1m[34m   identical[0m  build/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza1_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_649_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land_thumb.png
+[1m[34m   identical[0m  build/images/gtd_moleskine_thumb-300x192.png
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren2_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-bij-opa-en-oma_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma3_thumb.png
+[1m[34m   identical[0m  build/images/Sylvain-spelend-op-zijn-mat_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_dinged_lvl_50_thumb.png
+[1m[34m   identical[0m  build/images/box.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_655_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_dokkum1_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_hardins_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_650_thumb.png
+[1m[34m   identical[0m  build/images/lineage2_cooki_the_beginning_thumb.png
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_660_thumb.png
+[1m[34m   identical[0m  build/images/summer2009_pizza2_thumb.png
+[1m[34m   identical[0m  build/images/rijexamen-geslaagd_square.png
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma3.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-met-opa.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren1.jpg
+[1m[34m   identical[0m  build/images/2012-07-09_22.59.59.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_ivory_tower.jpg
+[1m[34m   identical[0m  build/images/lineage2_ashura_syn_alliance.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_656.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-150x150.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum3.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-ijsje.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_the_beginning.jpg
+[1m[34m   identical[0m  build/images/lineage2_revival_giran_lvl20_artisan.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza2.jpg
+[1m[34m   identical[0m  build/images/PDJ-2012-May-Apollo-0006.jpg
+[1m[34m   identical[0m  build/images/summer2009_minas2.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_650.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine-300x192.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_651.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land.jpg
+[1m[34m   identical[0m  build/images/Sylvain-een-likje-is-niet-genoeg.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-komode.jpg
+[1m[34m   identical[0m  build/images/lineage2_worldmap_kamael.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_swamp_land2.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-207x300.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_653.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_660.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza4.jpg
+[1m[34m   identical[0m  build/images/efteling.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_644.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum1.jpg
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog2.jpg
+[1m[34m   identical[0m  build/images/summer2009_lauwersoog1.jpg
+[1m[34m   identical[0m  build/images/225041472v6_350x350_front.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_fake_romance.jpg
+[1m[34m   identical[0m  build/images/lineage2_ashura_giran_castle.jpg
+[1m[34m   identical[0m  build/images/marrowgar_down.jpg
+[1m[34m   identical[0m  build/images/Sylvain-verjaardag.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_b_grade.jpg
+[1m[34m   identical[0m  build/images/camping_dobbe_friesland.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_649.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-150x150.jpg
+[1m[34m   identical[0m  build/images/summer2009_kaylee.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-1024x768.jpg
+[1m[34m   identical[0m  build/images/wow_athun_revival.jpg
+[1m[34m   identical[0m  build/images/Sylvain-met-oma-op-het-strand-van-egmond-aan-zee.jpg
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine-150x150.jpg
+[1m[34m   identical[0m  build/images/Sylvain-spelend-op-zijn-mat.jpg
+[1m[34m   identical[0m  build/images/kaylee_garden.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho-150x150.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_sleeping_on_the_job.jpg
+[1m[34m   identical[0m  build/images/minime.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_648.jpg
+[1m[34m   identical[0m  build/images/icc_lady_down.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_raiding_near_oren2.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_661.jpg
+[1m[34m   identical[0m  build/images/lineage2_gracia_delivered.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza1.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_646.jpg
+[1m[34m   identical[0m  build/images/2012-07-09_22.58.56.jpg
+[1m[34m   identical[0m  build/images/unreal_tournament2004_cover.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_political_drama.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-strand.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_657.jpg
+[1m[34m   identical[0m  build/images/gtd_moleskine.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_30_catacomb.jpg
+[1m[34m   identical[0m  build/images/Sylvain-staand-op-de-bank2.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_this_is_what_treasure_hunters_are_about.jpg
+[1m[34m   identical[0m  build/images/minas_garden.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_catacombs_all_the_way.jpg
+[1m[34m   identical[0m  build/images/puck_fc_groningen.jpg
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas.jpg
+[1m[34m   identical[0m  build/images/kaylee_is_the_supervisor.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda.jpg
+[1m[34m   identical[0m  build/images/cooki.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-grond-bij-opa-en-oma2.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl35_forest_of_mirrors.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_and_cleric_at_hardins.jpg
+[1m[34m   identical[0m  build/images/Sylvain-zittend.jpg
+[1m[34m   identical[0m  build/images/istqb.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_652.jpg
+[1m[34m   identical[0m  build/images/lineage2_cooki_clanwar.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_655.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_662.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_cemetary.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl20_hunting_for_raccoons.jpg
+[1m[34m   identical[0m  build/images/summer2009_france_joigny.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-1024x768.jpg
+[1m[34m   identical[0m  build/images/puck_hands_up.jpg
+[1m[34m   identical[0m  build/images/summer2009_d-olle_grieze.jpg
+[1m[34m   identical[0m  build/images/gtd_succes_agenda-300x225.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum4.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_th_lvl_21_dion.jpg
+[1m[34m   identical[0m  build/images/wow_nathema_naxxramas2.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_654.jpg
+[1m[34m   identical[0m  build/images/schiermonnikoog-vuurtoren.jpg
+[1m[34m   identical[0m  build/images/summer2009_france_joigny_hotel.jpg
+[1m[34m   identical[0m  build/images/rijexamen-geslaagd.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-940x198.jpg
+[1m[34m   identical[0m  build/images/summer2009_minas1.jpg
+[1m[34m   identical[0m  build/images/Silvain-20wekenecho-300x222.jpg
+[1m[34m   identical[0m  build/images/icc_gunshipbattle_down.jpg
+[1m[34m   identical[0m  build/images/lineage2_teon_dinged_lvl_50.jpg
+[1m[34m   identical[0m  build/assets/img/victorian_darkblue_by_iamfreeman.jpg
+[1m[34m   identical[0m  build/images/subskills.jpg
+[1m[34m   identical[0m  build/images/summer2009_pizza3.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010.jpg
+[1m[34m   identical[0m  build/images/Sylvain-op-de-bank-bij-opa-en-oma.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-760x198.jpg
+[1m[34m   identical[0m  build/images/huwelijk_peter_vanessa_14-juli-2010-707x1024.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_643.jpg
+[1m[34m   identical[0m  build/images/Sylvain-in-skipakje-in-de-winter.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_647.jpg
+[1m[34m   identical[0m  build/images/summer2009_dokkum2.jpg
+[1m[34m   identical[0m  build/images/eerste_sneeuw_2009_645.jpg
+[1m[34m   identical[0m  build/images/sylvain-19-07-2010-300x225.jpg
+[1m[34m   identical[0m  build/images/loading.gif
+[1m[34m   identical[0m  build/images/bullet.gif
+[1m[34m   identical[0m  build/images/favicon.gif
+[1m[34m   identical[0m  build/assets/img/loading.gif
+== Request: /assets/img/rss.svg
+== Finishing Request: assets/img/rss.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/rss.svg
+[1m[34m   identical[0m  build/images/middleman.svg
+== Request: /assets/img/linkedin.svg
+== Finishing Request: assets/img/linkedin.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/linkedin.svg
+== Request: /assets/img/sigil-white.svg
+== Finishing Request: assets/img/sigil-white.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/sigil-white.svg
+== Request: /assets/img/github.svg
+== Finishing Request: assets/img/github.svg (0.0s)
+[1m[34m   identical[0m  build/assets/img/github.svg
+[1m[34m   identical[0m  build/assets/js/4pdj.js
+[1m[34m   identical[0m  build/assets/js/sticky_navbar.js
+[1m[34m   identical[0m  build/assets/css/4pdj.css
+== Request: /gaming/tags/lineage-2/index.html
+== Finishing Request: gaming/tags/lineage-2/index.html (0.03s)
+[1m[34m   identical[0m  build/gaming/tags/lineage-2/index.html
+== Request: /gaming/2009/06/28/lvl-30/index.html
+== Finishing Request: gaming/2009/06/28/lvl-30/index.html (0.15s)
+[1m[34m   identical[0m  build/gaming/2009/06/28/lvl-30/index.html
+== Request: /gaming/2009/07/07/lets-hunt-for-treasure/index.html
+== Finishing Request: gaming/2009/07/07/lets-hunt-for-treasure/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/07/lets-hunt-for-treasure/index.html
+== Request: /gaming/2009/06/25/arrived2/index.html
+== Finishing Request: gaming/2009/06/25/arrived2/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/25/arrived2/index.html
+== Request: /gaming/2009/05/31/it-has-been-decided/index.html
+== Finishing Request: gaming/2009/05/31/it-has-been-decided/index.html (0.02s)
+[1m[34m   identical[0m  build/gaming/2009/05/31/it-has-been-decided/index.html
+== Request: /gaming/2009/10/25/wow-revival/index.html
+== Finishing Request: gaming/2009/10/25/wow-revival/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/10/25/wow-revival/index.html
+== Request: /gaming/2009/11/10/raiding-again/index.html
+== Finishing Request: gaming/2009/11/10/raiding-again/index.html (0.04s)
+[1m[34m   identical[0m  build/gaming/2009/11/10/raiding-again/index.html
+== Request: /gaming/2009/07/17/treasure/index.html
+== Finishing Request: gaming/2009/07/17/treasure/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/17/treasure/index.html
+== Request: /BingSiteAuth.xml
+== Finishing Request: BingSiteAuth.xml (0.0s)
+[1m[34m   identical[0m  build/BingSiteAuth.xml
+== Request: /pages/about/index.html
+== Finishing Request: pages/about/index.html (0.02s)
+[1m[34m   identical[0m  build/pages/about/index.html
+== Request: /pages/ptools/index.html
+== Finishing Request: pages/ptools/index.html (0.01s)
+[1m[34m   identical[0m  build/pages/ptools/index.html
+== Request: /gaming/2009/07/16/ding/index.html
+== Finishing Request: gaming/2009/07/16/ding/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/16/ding/index.html
+== Request: /gaming/2009/06/11/dispatched/index.html
+== Finishing Request: gaming/2009/06/11/dispatched/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/11/dispatched/index.html
+== Request: /gaming/2009/04/16/ut/index.html
+== Finishing Request: gaming/2009/04/16/ut/index.html (0.04s)
+[1m[34m   identical[0m  build/gaming/2009/04/16/ut/index.html
+== Request: /gaming/2009/05/08/wow-rip/index.html
+== Finishing Request: gaming/2009/05/08/wow-rip/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/05/08/wow-rip/index.html
+== Request: /gaming/2009/07/11/raiding-with-the-guild/index.html
+== Finishing Request: gaming/2009/07/11/raiding-with-the-guild/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/11/raiding-with-the-guild/index.html
+== Request: /gaming/2013/06/15/final-fantasy-xiv/index.html
+== Finishing Request: gaming/2013/06/15/final-fantasy-xiv/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2013/06/15/final-fantasy-xiv/index.html
+== Request: /gaming/2009/07/21/b-grade-and-a-pause/index.html
+== Finishing Request: gaming/2009/07/21/b-grade-and-a-pause/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/21/b-grade-and-a-pause/index.html
+== Request: /gaming/2009/06/24/dispatched2/index.html
+== Finishing Request: gaming/2009/06/24/dispatched2/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/24/dispatched2/index.html
+== Request: /gaming/2009/12/16/marrowgar-down/index.html
+== Finishing Request: gaming/2009/12/16/marrowgar-down/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/12/16/marrowgar-down/index.html
+== Request: /gaming/2009/07/05/testimony-of-the-pilgrim/index.html
+== Finishing Request: gaming/2009/07/05/testimony-of-the-pilgrim/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/05/testimony-of-the-pilgrim/index.html
+== Request: /gaming/2009/12/18/deeper-in-icc/index.html
+== Finishing Request: gaming/2009/12/18/deeper-in-icc/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/12/18/deeper-in-icc/index.html
+== Request: /gaming/2009/06/19/artisan/index.html
+== Finishing Request: gaming/2009/06/19/artisan/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/19/artisan/index.html
+== Request: /gaming/2009/06/13/delivered-but-epic-fail/index.html
+== Finishing Request: gaming/2009/06/13/delivered-but-epic-fail/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/13/delivered-but-epic-fail/index.html
+== Request: /entries.json
+== Finishing Request: entries.json (0.24s)
+[1m[34m   identical[0m  build/entries.json
+== Request: /sitemap.html
+== Finishing Request: sitemap.html (0.0s)
+[1m[34m   identical[0m  build/sitemap.html
+== Request: /feed.xml
+== Finishing Request: feed.xml (0.01s)
+[1m[34m   identical[0m  build/feed.xml
+== Request: /index.html
+== Finishing Request: index.html (0.08s)
+[1m[34m   identical[0m  build/index.html
+== Request: /sitemap.xml
+== Finishing Request: sitemap.xml (0.07s)
+[1m[34m   identical[0m  build/sitemap.xml
+== Request: /technology/2009/06/10/examen/index.html
+== Finishing Request: technology/2009/06/10/examen/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/10/examen/index.html
+== Request: /technology/2013/05/29/middleman/index.html
+== Finishing Request: technology/2013/05/29/middleman/index.html (0.05s)
+[1m[34m   identical[0m  build/technology/2013/05/29/middleman/index.html
+== Request: /technology/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html
+== Finishing Request: technology/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html (0.02s)
+[1m[34m   identical[0m  build/technology/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html
+== Request: /technology/2009/10/06/oracle-service-bus/index.html
+== Finishing Request: technology/2009/10/06/oracle-service-bus/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/10/06/oracle-service-bus/index.html
+== Request: /technology/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html
+== Finishing Request: technology/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html
+== Request: /technology/2009/03/03/hello-world/index.html
+== Finishing Request: technology/2009/03/03/hello-world/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/03/03/hello-world/index.html
+== Request: /technology/2009/05/27/finally/index.html
+== Finishing Request: technology/2009/05/27/finally/index.html (0.05s)
+[1m[34m   identical[0m  build/technology/2009/05/27/finally/index.html
+== Request: /technology/2009/06/06/ptools-went-public/index.html
+== Finishing Request: technology/2009/06/06/ptools-went-public/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/06/ptools-went-public/index.html
+== Request: /technology/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html
+== Finishing Request: technology/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html
+== Request: /technology/2013/06/07/grub2-chainload-mbr-image/index.html
+== Finishing Request: technology/2013/06/07/grub2-chainload-mbr-image/index.html (0.02s)
+[1m[34m   identical[0m  build/technology/2013/06/07/grub2-chainload-mbr-image/index.html
+== Request: /technology/2009/06/08/learning/index.html
+== Finishing Request: technology/2009/06/08/learning/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/08/learning/index.html
+== Request: /technology/2009/11/11/wave/index.html
+== Finishing Request: technology/2009/11/11/wave/index.html (0.04s)
+[1m[34m   identical[0m  build/technology/2009/11/11/wave/index.html
+== Request: /technology/2009/09/29/course-bea-weblogic-application-server/index.html
+== Finishing Request: technology/2009/09/29/course-bea-weblogic-application-server/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/09/29/course-bea-weblogic-application-server/index.html
+== Request: /technology/2009/11/20/virtualbox-bridged/index.html
+== Finishing Request: technology/2009/11/20/virtualbox-bridged/index.html (0.02s)
+[1m[34m   identical[0m  build/technology/2009/11/20/virtualbox-bridged/index.html
+== Request: /personal/2009/06/14/on-the-camping/index.html
+== Finishing Request: personal/2009/06/14/on-the-camping/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/06/14/on-the-camping/index.html
+== Request: /personal/2010/04/28/weeeeeee-cute/index.html
+== Finishing Request: personal/2010/04/28/weeeeeee-cute/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/04/28/weeeeeee-cute/index.html
+== Request: /personal/2009/12/18/at-home/index.html
+== Finishing Request: personal/2009/12/18/at-home/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/12/18/at-home/index.html
+== Request: /personal/2010/07/20/hugz/index.html
+== Finishing Request: personal/2010/07/20/hugz/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/07/20/hugz/index.html
+== Request: /personal/2009/08/16/road-trip/index.html
+== Finishing Request: personal/2009/08/16/road-trip/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/16/road-trip/index.html
+== Request: /personal/2009/12/17/snow/index.html
+== Finishing Request: personal/2009/12/17/snow/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/12/17/snow/index.html
+== Request: /personal/2009/05/17/efteling/index.html
+== Finishing Request: personal/2009/05/17/efteling/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/05/17/efteling/index.html
+== Request: /personal/2009/08/02/ode2/index.html
+== Finishing Request: personal/2009/08/02/ode2/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/02/ode2/index.html
+== Request: /personal/2011/07/25/kitties/index.html
+== Finishing Request: personal/2011/07/25/kitties/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/07/25/kitties/index.html
+== Request: /personal/2011/08/24/el-pooki-grande/index.html
+== Finishing Request: personal/2011/08/24/el-pooki-grande/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/08/24/el-pooki-grande/index.html
+== Request: /personal/2010/05/25/gtd-revisited/index.html
+== Finishing Request: personal/2010/05/25/gtd-revisited/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/05/25/gtd-revisited/index.html
+== Request: /personal/2010/01/01/happy-newyear/index.html
+== Finishing Request: personal/2010/01/01/happy-newyear/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/01/01/happy-newyear/index.html
+== Request: /personal/2012/08/27/apollo-2/index.html
+== Finishing Request: personal/2012/08/27/apollo-2/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2012/08/27/apollo-2/index.html
+== Request: /personal/2010/07/14/cute111/index.html
+== Finishing Request: personal/2010/07/14/cute111/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/07/14/cute111/index.html
+== Request: /personal/2009/08/27/post-joigny-syndrome/index.html
+== Finishing Request: personal/2009/08/27/post-joigny-syndrome/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/27/post-joigny-syndrome/index.html
+== Request: /personal/2009/06/28/ode/index.html
+== Finishing Request: personal/2009/06/28/ode/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/06/28/ode/index.html
+== Request: /personal/2009/08/30/joigny/index.html
+== Finishing Request: personal/2009/08/30/joigny/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/30/joigny/index.html
+== Request: /personal/2013/06/24/schiermonnikoog/index.html
+== Finishing Request: personal/2013/06/24/schiermonnikoog/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/06/24/schiermonnikoog/index.html
+== Request: /personal/2009/11/12/puck/index.html
+== Finishing Request: personal/2009/11/12/puck/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/11/12/puck/index.html
+== Request: /personal/2010/04/27/gtd/index.html
+== Finishing Request: personal/2010/04/27/gtd/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/04/27/gtd/index.html
+== Request: /personal/2013/07/10/passed-my-driving-exam/index.html
+== Finishing Request: personal/2013/07/10/passed-my-driving-exam/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/07/10/passed-my-driving-exam/index.html
+== Request: /personal/index.html
+== Finishing Request: personal/index.html (0.02s)
+[1m[32m      create[0m  build/personal/index.html
+== Request: /technology/index.html
+== Finishing Request: technology/index.html (0.07s)
+[1m[32m      create[0m  build/technology/index.html
+== Request: /gaming/index.html
+== Finishing Request: gaming/index.html (0.06s)
+[1m[32m      create[0m  build/gaming/index.html
+== Request: /personal/tags/camping/index.html
+== Finishing Request: personal/tags/camping/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/camping/index.html
+== Request: /personal/tags/dobbe/index.html
+== Finishing Request: personal/tags/dobbe/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/dobbe/index.html
+== Request: /personal/tags/zwaagwesteinde/index.html
+== Finishing Request: personal/tags/zwaagwesteinde/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/zwaagwesteinde/index.html
+== Request: /personal/tags/20-week-echo/index.html
+== Finishing Request: personal/tags/20-week-echo/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/20-week-echo/index.html
+== Request: /personal/tags/baby/index.html
+== Finishing Request: personal/tags/baby/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/baby/index.html
+== Request: /personal/tags/cold-feet/index.html
+== Finishing Request: personal/tags/cold-feet/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/cold-feet/index.html
+== Request: /personal/tags/snow/index.html
+== Finishing Request: personal/tags/snow/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/snow/index.html
+== Request: /personal/tags/sylvain-leo-erwan/index.html
+== Finishing Request: personal/tags/sylvain-leo-erwan/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/sylvain-leo-erwan/index.html
+== Request: /personal/tags/dokkum/index.html
+== Finishing Request: personal/tags/dokkum/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/dokkum/index.html
+== Request: /personal/tags/pizza/index.html
+== Finishing Request: personal/tags/pizza/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/pizza/index.html
+== Request: /personal/tags/groningen/index.html
+== Finishing Request: personal/tags/groningen/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/groningen/index.html
+== Request: /personal/tags/work/index.html
+== Finishing Request: personal/tags/work/index.html (0.04s)
+[1m[34m   identical[0m  build/personal/tags/work/index.html
+== Request: /personal/tags/efteling/index.html
+== Finishing Request: personal/tags/efteling/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/efteling/index.html
+== Request: /personal/tags/kaatsheuvel/index.html
+== Finishing Request: personal/tags/kaatsheuvel/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/kaatsheuvel/index.html
+== Request: /personal/tags/pirana/index.html
+== Finishing Request: personal/tags/pirana/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/pirana/index.html
+== Request: /personal/tags/vliegende-hollander/index.html
+== Finishing Request: personal/tags/vliegende-hollander/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/vliegende-hollander/index.html
+== Request: /personal/tags/wok-to-go/index.html
+== Finishing Request: personal/tags/wok-to-go/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/wok-to-go/index.html
+== Request: /personal/tags/kaylee/index.html
+== Finishing Request: personal/tags/kaylee/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/kaylee/index.html
+== Request: /personal/tags/minas/index.html
+== Finishing Request: personal/tags/minas/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/minas/index.html
+== Request: /personal/tags/sylvain/index.html
+== Finishing Request: personal/tags/sylvain/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/sylvain/index.html
+== Request: /personal/tags/gtd/index.html
+== Finishing Request: personal/tags/gtd/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/gtd/index.html
+== Request: /personal/tags/moleskine/index.html
+== Finishing Request: personal/tags/moleskine/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/moleskine/index.html
+== Request: /personal/tags/revisited/index.html
+== Finishing Request: personal/tags/revisited/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/revisited/index.html
+== Request: /personal/tags/succes-agenda/index.html
+== Finishing Request: personal/tags/succes-agenda/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/succes-agenda/index.html
+== Request: /personal/tags/new-year/index.html
+== Finishing Request: personal/tags/new-year/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/new-year/index.html
+== Request: /personal/tags/cute/index.html
+== Finishing Request: personal/tags/cute/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/cute/index.html
+== Request: /personal/tags/marriage/index.html
+== Finishing Request: personal/tags/marriage/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/marriage/index.html
+== Request: /personal/tags/catacombs/index.html
+== Finishing Request: personal/tags/catacombs/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/catacombs/index.html
+== Request: /personal/tags/sleep/index.html
+== Finishing Request: personal/tags/sleep/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/sleep/index.html
+== Request: /personal/tags/teon/index.html
+== Finishing Request: personal/tags/teon/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/teon/index.html
+== Request: /personal/tags/cats/index.html
+== Finishing Request: personal/tags/cats/index.html (0.05s)
+[1m[34m   identical[0m  build/personal/tags/cats/index.html
+== Request: /personal/tags/european-shorthair/index.html
+== Finishing Request: personal/tags/european-shorthair/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/european-shorthair/index.html
+== Request: /personal/tags/france/index.html
+== Finishing Request: personal/tags/france/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/france/index.html
+== Request: /personal/tags/joigny/index.html
+== Finishing Request: personal/tags/joigny/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/joigny/index.html
+== Request: /personal/tags/summer-2009/index.html
+== Finishing Request: personal/tags/summer-2009/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/summer-2009/index.html
+== Request: /personal/tags/wedding/index.html
+== Finishing Request: personal/tags/wedding/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/wedding/index.html
+== Request: /personal/tags/schiermonnikoog/index.html
+== Finishing Request: personal/tags/schiermonnikoog/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/schiermonnikoog/index.html
+== Request: /personal/tags/vuurtoren/index.html
+== Finishing Request: personal/tags/vuurtoren/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/vuurtoren/index.html
+== Request: /personal/tags/ijsje/index.html
+== Finishing Request: personal/tags/ijsje/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/ijsje/index.html
+== Request: /personal/tags/marum/index.html
+== Finishing Request: personal/tags/marum/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/marum/index.html
+== Request: /personal/tags/puck/index.html
+== Finishing Request: personal/tags/puck/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/puck/index.html
+== Request: /personal/tags/driving/index.html
+== Finishing Request: personal/tags/driving/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/driving/index.html
+== Request: /personal/tags/exam/index.html
+== Finishing Request: personal/tags/exam/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/exam/index.html
+== Request: /personal/tags/passed/index.html
+== Finishing Request: personal/tags/passed/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/tags/passed/index.html
+== Request: /personal/2013/index.html
+== Finishing Request: personal/2013/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/index.html
+== Request: /personal/2013/07/index.html
+== Finishing Request: personal/2013/07/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/07/index.html
+== Request: /personal/2013/07/10/index.html
+== Finishing Request: personal/2013/07/10/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/07/10/index.html
+== Request: /personal/2013/06/index.html
+== Finishing Request: personal/2013/06/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2013/06/index.html
+== Request: /personal/2013/06/24/index.html
+== Finishing Request: personal/2013/06/24/index.html (0.05s)
+[1m[34m   identical[0m  build/personal/2013/06/24/index.html
+== Request: /personal/2012/index.html
+== Finishing Request: personal/2012/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2012/index.html
+== Request: /personal/2012/08/index.html
+== Finishing Request: personal/2012/08/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2012/08/index.html
+== Request: /personal/2012/08/27/index.html
+== Finishing Request: personal/2012/08/27/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2012/08/27/index.html
+== Request: /personal/2011/index.html
+== Finishing Request: personal/2011/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/index.html
+== Request: /personal/2011/08/index.html
+== Finishing Request: personal/2011/08/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/08/index.html
+== Request: /personal/2011/08/24/index.html
+== Finishing Request: personal/2011/08/24/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/08/24/index.html
+== Request: /personal/2011/07/index.html
+== Finishing Request: personal/2011/07/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/07/index.html
+== Request: /personal/2011/07/25/index.html
+== Finishing Request: personal/2011/07/25/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2011/07/25/index.html
+== Request: /personal/2010/index.html
+== Finishing Request: personal/2010/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/index.html
+== Request: /personal/2010/07/index.html
+== Finishing Request: personal/2010/07/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/07/index.html
+== Request: /personal/2010/07/20/index.html
+== Finishing Request: personal/2010/07/20/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/07/20/index.html
+== Request: /personal/2010/07/14/index.html
+== Finishing Request: personal/2010/07/14/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/07/14/index.html
+== Request: /personal/2010/05/index.html
+== Finishing Request: personal/2010/05/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/05/index.html
+== Request: /personal/2010/05/25/index.html
+== Finishing Request: personal/2010/05/25/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/05/25/index.html
+== Request: /personal/2010/04/index.html
+== Finishing Request: personal/2010/04/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/04/index.html
+== Request: /personal/2010/04/28/index.html
+== Finishing Request: personal/2010/04/28/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/04/28/index.html
+== Request: /personal/2010/04/27/index.html
+== Finishing Request: personal/2010/04/27/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/04/27/index.html
+== Request: /personal/2010/01/index.html
+== Finishing Request: personal/2010/01/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2010/01/index.html
+== Request: /personal/2010/01/01/index.html
+== Finishing Request: personal/2010/01/01/index.html (0.05s)
+[1m[34m   identical[0m  build/personal/2010/01/01/index.html
+== Request: /personal/2009/index.html
+== Finishing Request: personal/2009/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/index.html
+== Request: /personal/2009/12/index.html
+== Finishing Request: personal/2009/12/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/12/index.html
+== Request: /personal/2009/12/18/index.html
+== Finishing Request: personal/2009/12/18/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/12/18/index.html
+== Request: /personal/2009/12/17/index.html
+== Finishing Request: personal/2009/12/17/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/12/17/index.html
+== Request: /personal/2009/11/index.html
+== Finishing Request: personal/2009/11/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/11/index.html
+== Request: /personal/2009/11/12/index.html
+== Finishing Request: personal/2009/11/12/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/11/12/index.html
+== Request: /personal/2009/08/index.html
+== Finishing Request: personal/2009/08/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/index.html
+== Request: /personal/2009/08/30/index.html
+== Finishing Request: personal/2009/08/30/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/30/index.html
+== Request: /personal/2009/08/27/index.html
+== Finishing Request: personal/2009/08/27/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/27/index.html
+== Request: /personal/2009/08/16/index.html
+== Finishing Request: personal/2009/08/16/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/16/index.html
+== Request: /personal/2009/08/02/index.html
+== Finishing Request: personal/2009/08/02/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/08/02/index.html
+== Request: /personal/2009/06/index.html
+== Finishing Request: personal/2009/06/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/06/index.html
+== Request: /personal/2009/06/28/index.html
+== Finishing Request: personal/2009/06/28/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/06/28/index.html
+== Request: /personal/2009/06/14/index.html
+== Finishing Request: personal/2009/06/14/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/06/14/index.html
+== Request: /personal/2009/05/index.html
+== Finishing Request: personal/2009/05/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/05/index.html
+== Request: /personal/2009/05/17/index.html
+== Finishing Request: personal/2009/05/17/index.html (0.01s)
+[1m[34m   identical[0m  build/personal/2009/05/17/index.html
+== Request: /technology/tags/blackout/index.html
+== Finishing Request: technology/tags/blackout/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/blackout/index.html
+== Request: /technology/tags/computrain/index.html
+== Finishing Request: technology/tags/computrain/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/computrain/index.html
+== Request: /technology/tags/drachten/index.html
+== Finishing Request: technology/tags/drachten/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/drachten/index.html
+== Request: /technology/tags/istqb/index.html
+== Finishing Request: technology/tags/istqb/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/istqb/index.html
+== Request: /technology/tags/testing-sucks/index.html
+== Finishing Request: technology/tags/testing-sucks/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/testing-sucks/index.html
+== Request: /technology/tags/hello/index.html
+== Finishing Request: technology/tags/hello/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/hello/index.html
+== Request: /technology/tags/world/index.html
+== Finishing Request: technology/tags/world/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/world/index.html
+== Request: /technology/tags/middleman/index.html
+== Finishing Request: technology/tags/middleman/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/middleman/index.html
+== Request: /technology/tags/wordpress/index.html
+== Finishing Request: technology/tags/wordpress/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/wordpress/index.html
+== Request: /technology/tags/exitwp/index.html
+== Finishing Request: technology/tags/exitwp/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/exitwp/index.html
+== Request: /technology/tags/firewall/index.html
+== Finishing Request: technology/tags/firewall/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/firewall/index.html
+== Request: /technology/tags/iptables/index.html
+== Finishing Request: technology/tags/iptables/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/iptables/index.html
+== Request: /technology/tags/karmic/index.html
+== Finishing Request: technology/tags/karmic/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/karmic/index.html
+== Request: /technology/tags/ubuntu/index.html
+== Finishing Request: technology/tags/ubuntu/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/ubuntu/index.html
+== Request: /technology/tags/upstart/index.html
+== Finishing Request: technology/tags/upstart/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/upstart/index.html
+== Request: /technology/tags/bastion-hotel/index.html
+== Finishing Request: technology/tags/bastion-hotel/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/bastion-hotel/index.html
+== Request: /technology/tags/de-meern/index.html
+== Finishing Request: technology/tags/de-meern/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/de-meern/index.html
+== Request: /technology/tags/oracle/index.html
+== Finishing Request: technology/tags/oracle/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/oracle/index.html
+== Request: /technology/tags/oracle-service-bus/index.html
+== Finishing Request: technology/tags/oracle-service-bus/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/oracle-service-bus/index.html
+== Request: /technology/tags/64bit/index.html
+== Finishing Request: technology/tags/64bit/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/64bit/index.html
+== Request: /technology/tags/cisco-anyconnect/index.html
+== Finishing Request: technology/tags/cisco-anyconnect/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/cisco-anyconnect/index.html
+== Request: /technology/tags/linux/index.html
+== Finishing Request: technology/tags/linux/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/linux/index.html
+== Request: /technology/tags/eggdrop/index.html
+== Finishing Request: technology/tags/eggdrop/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/eggdrop/index.html
+== Request: /technology/tags/irc/index.html
+== Finishing Request: technology/tags/irc/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/irc/index.html
+== Request: /technology/tags/tcl/index.html
+== Finishing Request: technology/tags/tcl/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/tcl/index.html
+== Request: /technology/tags/10-04/index.html
+== Finishing Request: technology/tags/10-04/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/10-04/index.html
+== Request: /technology/tags/lucid-lynx/index.html
+== Finishing Request: technology/tags/lucid-lynx/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/lucid-lynx/index.html
+== Request: /technology/tags/grub2/index.html
+== Finishing Request: technology/tags/grub2/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/grub2/index.html
+== Request: /technology/tags/chainload/index.html
+== Finishing Request: technology/tags/chainload/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/chainload/index.html
+== Request: /technology/tags/mbr/index.html
+== Finishing Request: technology/tags/mbr/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/mbr/index.html
+== Request: /technology/tags/image/index.html
+== Finishing Request: technology/tags/image/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/image/index.html
+== Request: /technology/tags/tmap/index.html
+== Finishing Request: technology/tags/tmap/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/tmap/index.html
+== Request: /technology/tags/work/index.html
+== Finishing Request: technology/tags/work/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/work/index.html
+== Request: /technology/tags/google/index.html
+== Finishing Request: technology/tags/google/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/google/index.html
+== Request: /technology/tags/google-wave/index.html
+== Finishing Request: technology/tags/google-wave/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/google-wave/index.html
+== Request: /technology/tags/bea/index.html
+== Finishing Request: technology/tags/bea/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/bea/index.html
+== Request: /technology/tags/fusion-middleware/index.html
+== Finishing Request: technology/tags/fusion-middleware/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/fusion-middleware/index.html
+== Request: /technology/tags/weblogic/index.html
+== Finishing Request: technology/tags/weblogic/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/weblogic/index.html
+== Request: /technology/tags/bridge/index.html
+== Finishing Request: technology/tags/bridge/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/bridge/index.html
+== Request: /technology/tags/bridge-utils/index.html
+== Finishing Request: technology/tags/bridge-utils/index.html (0.04s)
+[1m[34m   identical[0m  build/technology/tags/bridge-utils/index.html
+== Request: /technology/tags/uml-utilities/index.html
+== Finishing Request: technology/tags/uml-utilities/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/uml-utilities/index.html
+== Request: /technology/tags/virtualbox/index.html
+== Finishing Request: technology/tags/virtualbox/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/tags/virtualbox/index.html
+== Request: /technology/2013/index.html
+== Finishing Request: technology/2013/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2013/index.html
+== Request: /technology/2013/06/index.html
+== Finishing Request: technology/2013/06/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2013/06/index.html
+== Request: /technology/2013/06/07/index.html
+== Finishing Request: technology/2013/06/07/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2013/06/07/index.html
+== Request: /technology/2013/05/index.html
+== Finishing Request: technology/2013/05/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2013/05/index.html
+== Request: /technology/2013/05/29/index.html
+== Finishing Request: technology/2013/05/29/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2013/05/29/index.html
+== Request: /technology/2010/index.html
+== Finishing Request: technology/2010/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/index.html
+== Request: /technology/2010/06/index.html
+== Finishing Request: technology/2010/06/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/06/index.html
+== Request: /technology/2010/06/17/index.html
+== Finishing Request: technology/2010/06/17/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/06/17/index.html
+== Request: /technology/2010/01/index.html
+== Finishing Request: technology/2010/01/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/01/index.html
+== Request: /technology/2010/01/11/index.html
+== Finishing Request: technology/2010/01/11/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2010/01/11/index.html
+== Request: /technology/2009/index.html
+== Finishing Request: technology/2009/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/index.html
+== Request: /technology/2009/12/index.html
+== Finishing Request: technology/2009/12/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/12/index.html
+== Request: /technology/2009/12/22/index.html
+== Finishing Request: technology/2009/12/22/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/12/22/index.html
+== Request: /technology/2009/11/index.html
+== Finishing Request: technology/2009/11/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/11/index.html
+== Request: /technology/2009/11/20/index.html
+== Finishing Request: technology/2009/11/20/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/11/20/index.html
+== Request: /technology/2009/11/11/index.html
+== Finishing Request: technology/2009/11/11/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/11/11/index.html
+== Request: /technology/2009/10/index.html
+== Finishing Request: technology/2009/10/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/10/index.html
+== Request: /technology/2009/10/06/index.html
+== Finishing Request: technology/2009/10/06/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/10/06/index.html
+== Request: /technology/2009/09/index.html
+== Finishing Request: technology/2009/09/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/09/index.html
+== Request: /technology/2009/09/29/index.html
+== Finishing Request: technology/2009/09/29/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/09/29/index.html
+== Request: /technology/2009/06/index.html
+== Finishing Request: technology/2009/06/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/index.html
+== Request: /technology/2009/06/10/index.html
+== Finishing Request: technology/2009/06/10/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/10/index.html
+== Request: /technology/2009/06/08/index.html
+== Finishing Request: technology/2009/06/08/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/08/index.html
+== Request: /technology/2009/06/06/index.html
+== Finishing Request: technology/2009/06/06/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/06/06/index.html
+== Request: /technology/2009/05/index.html
+== Finishing Request: technology/2009/05/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/05/index.html
+== Request: /technology/2009/05/27/index.html
+== Finishing Request: technology/2009/05/27/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/05/27/index.html
+== Request: /technology/2009/03/index.html
+== Finishing Request: technology/2009/03/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/03/index.html
+== Request: /technology/2009/03/03/index.html
+== Finishing Request: technology/2009/03/03/index.html (0.01s)
+[1m[34m   identical[0m  build/technology/2009/03/03/index.html
+== Request: /gaming/tags/amazon/index.html
+== Finishing Request: gaming/tags/amazon/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/amazon/index.html
+== Request: /gaming/tags/epic-fail/index.html
+== Finishing Request: gaming/tags/epic-fail/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/epic-fail/index.html
+== Request: /gaming/tags/gracia/index.html
+== Finishing Request: gaming/tags/gracia/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/gracia/index.html
+== Request: /gaming/2009/07/04/its-sooooo-hot/index.html
+== Finishing Request: gaming/2009/07/04/its-sooooo-hot/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/04/its-sooooo-hot/index.html
+== Request: /gaming/tags/artisan/index.html
+== Finishing Request: gaming/tags/artisan/index.html (0.04s)
+[1m[34m   identical[0m  build/gaming/tags/artisan/index.html
+== Request: /gaming/tags/baium/index.html
+== Finishing Request: gaming/tags/baium/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/baium/index.html
+== Request: /gaming/tags/dwarf/index.html
+== Finishing Request: gaming/tags/dwarf/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/dwarf/index.html
+== Request: /gaming/tags/giran/index.html
+== Finishing Request: gaming/tags/giran/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/giran/index.html
+== Request: /gaming/tags/worldmap/index.html
+== Finishing Request: gaming/tags/worldmap/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/worldmap/index.html
+== Request: /gaming/tags/gunship/index.html
+== Finishing Request: gaming/tags/gunship/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/gunship/index.html
+== Request: /gaming/tags/icecrown-citadel/index.html
+== Finishing Request: gaming/tags/icecrown-citadel/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/icecrown-citadel/index.html
+== Request: /gaming/tags/lady/index.html
+== Finishing Request: gaming/tags/lady/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/lady/index.html
+== Request: /gaming/tags/reckless/index.html
+== Finishing Request: gaming/tags/reckless/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/reckless/index.html
+== Request: /gaming/tags/wow/index.html
+== Finishing Request: gaming/tags/wow/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/wow/index.html
+== Request: /gaming/tags/teon/index.html
+== Finishing Request: gaming/tags/teon/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/teon/index.html
+== Request: /gaming/tags/marrowgar/index.html
+== Finishing Request: gaming/tags/marrowgar/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/marrowgar/index.html
+== Request: /gaming/tags/b-grade/index.html
+== Finishing Request: gaming/tags/b-grade/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/b-grade/index.html
+== Request: /gaming/tags/final-fantasy/index.html
+== Finishing Request: gaming/tags/final-fantasy/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/final-fantasy/index.html
+== Request: /gaming/tags/ffxiv/index.html
+== Finishing Request: gaming/tags/ffxiv/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/ffxiv/index.html
+== Request: /gaming/tags/mmorpg/index.html
+== Finishing Request: gaming/tags/mmorpg/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/mmorpg/index.html
+== Request: /gaming/tags/shiva/index.html
+== Finishing Request: gaming/tags/shiva/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/shiva/index.html
+== Request: /gaming/tags/ivory-tower/index.html
+== Finishing Request: gaming/tags/ivory-tower/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/ivory-tower/index.html
+== Request: /gaming/tags/oren/index.html
+== Finishing Request: gaming/tags/oren/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/oren/index.html
+== Request: /gaming/tags/nagrand/index.html
+== Finishing Request: gaming/tags/nagrand/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/nagrand/index.html
+== Request: /gaming/tags/nathema/index.html
+== Finishing Request: gaming/tags/nathema/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/nathema/index.html
+== Request: /gaming/tags/quakenet/index.html
+== Finishing Request: gaming/tags/quakenet/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/quakenet/index.html
+== Request: /gaming/tags/snm-clan/index.html
+== Finishing Request: gaming/tags/snm-clan/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/snm-clan/index.html
+== Request: /gaming/tags/thenobodies/index.html
+== Finishing Request: gaming/tags/thenobodies/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/thenobodies/index.html
+== Request: /gaming/tags/unreal/index.html
+== Finishing Request: gaming/tags/unreal/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/unreal/index.html
+== Request: /gaming/tags/addiction/index.html
+== Finishing Request: gaming/tags/addiction/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/addiction/index.html
+== Request: /gaming/tags/catacomb/index.html
+== Finishing Request: gaming/tags/catacomb/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/catacomb/index.html
+== Request: /gaming/tags/heretic/index.html
+== Finishing Request: gaming/tags/heretic/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/heretic/index.html
+== Request: /gaming/tags/ashura/index.html
+== Finishing Request: gaming/tags/ashura/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/ashura/index.html
+== Request: /gaming/tags/cooki/index.html
+== Finishing Request: gaming/tags/cooki/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/cooki/index.html
+== Request: /gaming/tags/l2extreme/index.html
+== Finishing Request: gaming/tags/l2extreme/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/l2extreme/index.html
+== Request: /gaming/tags/syn/index.html
+== Finishing Request: gaming/tags/syn/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/syn/index.html
+== Request: /gaming/tags/titan/index.html
+== Finishing Request: gaming/tags/titan/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/titan/index.html
+== Request: /gaming/tags/valorenforcers/index.html
+== Finishing Request: gaming/tags/valorenforcers/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/valorenforcers/index.html
+== Request: /gaming/tags/virtual/index.html
+== Finishing Request: gaming/tags/virtual/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/virtual/index.html
+== Request: /gaming/tags/athun/index.html
+== Finishing Request: gaming/tags/athun/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/athun/index.html
+== Request: /gaming/tags/onyxia/index.html
+== Finishing Request: gaming/tags/onyxia/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/onyxia/index.html
+== Request: /gaming/tags/supervisor/index.html
+== Finishing Request: gaming/tags/supervisor/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/supervisor/index.html
+== Request: /gaming/tags/trial-of-the-crusader/index.html
+== Finishing Request: gaming/tags/trial-of-the-crusader/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/trial-of-the-crusader/index.html
+== Request: /gaming/tags/ulduar/index.html
+== Finishing Request: gaming/tags/ulduar/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/ulduar/index.html
+== Request: /gaming/tags/voa/index.html
+== Finishing Request: gaming/tags/voa/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/voa/index.html
+== Request: /gaming/tags/world-of-warcraft/index.html
+== Finishing Request: gaming/tags/world-of-warcraft/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/world-of-warcraft/index.html
+== Request: /gaming/tags/loot/index.html
+== Finishing Request: gaming/tags/loot/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/tags/loot/index.html
+== Request: /gaming/2013/index.html
+== Finishing Request: gaming/2013/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2013/index.html
+== Request: /gaming/2013/06/index.html
+== Finishing Request: gaming/2013/06/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2013/06/index.html
+== Request: /gaming/2013/06/15/index.html
+== Finishing Request: gaming/2013/06/15/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2013/06/15/index.html
+== Request: /gaming/2009/index.html
+== Finishing Request: gaming/2009/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/index.html
+== Request: /gaming/2009/12/index.html
+== Finishing Request: gaming/2009/12/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/12/index.html
+== Request: /gaming/2009/12/18/index.html
+== Finishing Request: gaming/2009/12/18/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/12/18/index.html
+== Request: /gaming/2009/12/16/index.html
+== Finishing Request: gaming/2009/12/16/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/12/16/index.html
+== Request: /gaming/2009/11/index.html
+== Finishing Request: gaming/2009/11/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/11/index.html
+== Request: /gaming/2009/11/10/index.html
+== Finishing Request: gaming/2009/11/10/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/11/10/index.html
+== Request: /gaming/2009/10/index.html
+== Finishing Request: gaming/2009/10/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/10/index.html
+== Request: /gaming/2009/10/25/index.html
+== Finishing Request: gaming/2009/10/25/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/10/25/index.html
+== Request: /gaming/2009/07/index.html
+== Finishing Request: gaming/2009/07/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/index.html
+== Request: /gaming/2009/07/21/index.html
+== Finishing Request: gaming/2009/07/21/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/21/index.html
+== Request: /gaming/2009/07/17/index.html
+== Finishing Request: gaming/2009/07/17/index.html (0.04s)
+[1m[34m   identical[0m  build/gaming/2009/07/17/index.html
+== Request: /gaming/2009/07/16/index.html
+== Finishing Request: gaming/2009/07/16/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/16/index.html
+== Request: /gaming/2009/07/11/index.html
+== Finishing Request: gaming/2009/07/11/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/11/index.html
+== Request: /gaming/2009/07/07/index.html
+== Finishing Request: gaming/2009/07/07/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/07/index.html
+== Request: /gaming/2009/07/05/index.html
+== Finishing Request: gaming/2009/07/05/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/05/index.html
+== Request: /gaming/2009/07/04/index.html
+== Finishing Request: gaming/2009/07/04/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/07/04/index.html
+== Request: /gaming/2009/06/index.html
+== Finishing Request: gaming/2009/06/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/index.html
+== Request: /gaming/2009/06/28/index.html
+== Finishing Request: gaming/2009/06/28/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/28/index.html
+== Request: /gaming/2009/06/25/index.html
+== Finishing Request: gaming/2009/06/25/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/25/index.html
+== Request: /gaming/2009/06/24/index.html
+== Finishing Request: gaming/2009/06/24/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/24/index.html
+== Request: /gaming/2009/06/19/index.html
+== Finishing Request: gaming/2009/06/19/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/19/index.html
+== Request: /gaming/2009/06/13/index.html
+== Finishing Request: gaming/2009/06/13/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/13/index.html
+== Request: /gaming/2009/06/11/index.html
+== Finishing Request: gaming/2009/06/11/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/06/11/index.html
+== Request: /gaming/2009/05/index.html
+== Finishing Request: gaming/2009/05/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/05/index.html
+== Request: /gaming/2009/05/31/index.html
+== Finishing Request: gaming/2009/05/31/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/05/31/index.html
+== Request: /gaming/2009/05/08/index.html
+== Finishing Request: gaming/2009/05/08/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/05/08/index.html
+== Request: /gaming/2009/04/index.html
+== Finishing Request: gaming/2009/04/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/04/index.html
+== Request: /gaming/2009/04/16/index.html
+== Finishing Request: gaming/2009/04/16/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/04/16/index.html
+== Request: /gaming/2009/p2/index.html
+== Finishing Request: gaming/2009/p2/index.html (0.01s)
+[1m[34m   identical[0m  build/gaming/2009/p2/index.html
+[1m[32m      remove[0m  build/apple-touch-icon.png
+[1m[32m      remove[0m  build/apple-touch-icon-144x144-precomposed.png
+[1m[32m      remove[0m  build/apple-touch-icon-precomposed.png
+[1m[32m      remove[0m  build/gaming/tags/trial-of-the-crusader/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/ffxiv/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/worldmap/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/world-of-warcraft/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/catacomb/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/final-fantasy/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/icecrown-citadel/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/gracia/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/wow/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/amazon/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/addiction/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/cooki/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/unreal/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/giran/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/mmorpg/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/nathema/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/lineage-2/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/onyxia/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/ashura/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/syn/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/ivory-tower/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/athun/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/teon/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/voa/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/epic-fail/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/reckless/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/l2extreme/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/quakenet/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/gunship/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/heretic/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/shiva/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/dwarf/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/loot/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/ulduar/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/baium/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/supervisor/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/valorenforcers/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/artisan/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/virtual/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/nagrand/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/snm-clan/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/b-grade/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/lady/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/marrowgar/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/oren/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/thenobodies/index.html.gz
+[1m[32m      remove[0m  build/gaming/tags/titan/index.html.gz
+[1m[32m      remove[0m  build/gaming/2013/06/15/final-fantasy-xiv/index.html.gz
+[1m[32m      remove[0m  build/gaming/2013/06/15/index.html.gz
+[1m[32m      remove[0m  build/gaming/2013/06/index.html.gz
+[1m[32m      remove[0m  build/gaming/2013/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/10/25/wow-revival/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/10/25/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/10/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/07/lets-hunt-for-treasure/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/07/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/21/b-grade-and-a-pause/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/21/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/11/raiding-with-the-guild/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/11/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/16/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/16/ding/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/05/testimony-of-the-pilgrim/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/05/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/17/treasure/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/17/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/04/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/07/04/its-sooooo-hot/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/28/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/28/lvl-30/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/24/dispatched2/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/24/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/11/dispatched/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/11/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/25/arrived2/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/25/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/19/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/19/artisan/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/13/delivered-but-epic-fail/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/06/13/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/11/10/raiding-again/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/11/10/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/11/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/12/16/marrowgar-down/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/12/16/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/12/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/12/18/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/12/18/deeper-in-icc/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/05/31/it-has-been-decided/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/05/31/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/05/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/05/08/wow-rip/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/05/08/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/p2/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/04/16/ut/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/04/16/index.html.gz
+[1m[32m      remove[0m  build/gaming/2009/04/index.html.gz
+[1m[32m      remove[0m  build/favicon.png
+[1m[32m      remove[0m  build/apple-touch-icon-72x72-precomposed.png
+[1m[32m      remove[0m  build/pages/ptools/index.html.gz
+[1m[32m      remove[0m  build/pages/about/index.html.gz
+[1m[32m      remove[0m  build/assets/css/4pdj.css.gz
+[1m[32m      remove[0m  build/assets/js/4pdj.js.gz
+[1m[32m      remove[0m  build/assets/js/sticky_navbar.js.gz
+[1m[32m      remove[0m  build/favicon.ico
+[1m[32m      remove[0m  build/apple-touch-icon-57x57-precomposed.png
+[1m[32m      remove[0m  build/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/blackout/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/exitwp/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/drachten/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/istqb/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/upstart/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/tcl/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/grub2/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/bastion-hotel/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/10-04/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/bridge/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/tmap/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/bridge-utils/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/uml-utilities/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/fusion-middleware/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/computrain/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/oracle/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/google-wave/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/world/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/firewall/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/karmic/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/mbr/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/eggdrop/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/work/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/linux/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/middleman/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/de-meern/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/oracle-service-bus/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/ubuntu/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/64bit/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/virtualbox/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/chainload/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/image/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/bea/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/wordpress/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/weblogic/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/iptables/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/testing-sucks/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/irc/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/hello/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/google/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/cisco-anyconnect/index.html.gz
+[1m[32m      remove[0m  build/technology/tags/lucid-lynx/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/06/07/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/06/07/grub2-chainload-mbr-image/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/06/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/05/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/05/29/middleman/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/05/29/index.html.gz
+[1m[32m      remove[0m  build/technology/2013/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/10/06/oracle-service-bus/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/10/06/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/10/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/09/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/09/29/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/09/29/course-bea-weblogic-application-server/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/10/examen/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/10/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/06/ptools-went-public/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/06/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/08/learning/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/06/08/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/11/20/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/11/20/virtualbox-bridged/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/11/11/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/11/11/wave/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/11/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/12/22/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/12/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/03/03/hello-world/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/03/03/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/03/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/05/27/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/05/27/finally/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/05/index.html.gz
+[1m[32m      remove[0m  build/technology/2009/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/01/11/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/01/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/06/17/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/06/index.html.gz
+[1m[32m      remove[0m  build/technology/2010/index.html.gz
+[1m[32m      remove[0m  build/sitemap.html.gz
+[1m[32m      remove[0m  build/personal/tags/pizza/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/schiermonnikoog/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/cats/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/exam/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/groningen/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/sleep/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/sylvain/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/driving/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/marriage/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/catacombs/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/minas/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/succes-agenda/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/20-week-echo/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/marum/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/pirana/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/joigny/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/kaylee/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/snow/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/vuurtoren/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/wedding/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/cute/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/efteling/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/work/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/vliegende-hollander/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/sylvain-leo-erwan/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/teon/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/dokkum/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/ijsje/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/new-year/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/revisited/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/gtd/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/passed/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/camping/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/puck/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/european-shorthair/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/kaatsheuvel/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/wok-to-go/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/cold-feet/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/zwaagwesteinde/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/france/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/baby/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/moleskine/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/dobbe/index.html.gz
+[1m[32m      remove[0m  build/personal/tags/summer-2009/index.html.gz
+[1m[32m      remove[0m  build/personal/2012/index.html.gz
+[1m[32m      remove[0m  build/personal/2012/08/27/apollo-2/index.html.gz
+[1m[32m      remove[0m  build/personal/2012/08/27/index.html.gz
+[1m[32m      remove[0m  build/personal/2012/08/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/07/10/passed-my-driving-exam/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/07/10/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/07/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/06/24/schiermonnikoog/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/06/24/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/06/index.html.gz
+[1m[32m      remove[0m  build/personal/2013/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/07/25/kitties/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/07/25/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/07/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/08/24/el-pooki-grande/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/08/24/index.html.gz
+[1m[32m      remove[0m  build/personal/2011/08/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/06/28/ode/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/06/28/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/06/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/06/14/on-the-camping/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/06/14/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/11/12/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/11/12/puck/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/11/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/12/17/snow/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/12/17/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/12/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/12/18/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/12/18/at-home/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/05/17/efteling/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/05/17/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/05/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/30/joigny/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/30/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/16/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/16/road-trip/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/27/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/27/post-joigny-syndrome/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/02/ode2/index.html.gz
+[1m[32m      remove[0m  build/personal/2009/08/02/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/07/20/hugz/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/07/20/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/07/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/07/14/cute111/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/07/14/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/01/01/happy-newyear/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/01/01/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/01/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/05/25/gtd-revisited/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/05/25/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/05/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/04/28/weeeeeee-cute/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/04/28/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/04/27/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/04/27/gtd/index.html.gz
+[1m[32m      remove[0m  build/personal/2010/04/index.html.gz
+[1m[32m      remove[0m  build/apple-touch-icon-114x114-precomposed.png
+[1m[32m        gzip[0m  build/index.html.gz (6.2 KB smaller)
+[1m[32m        gzip[0m  build/gaming/index.html.gz (5.6 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/trial-of-the-crusader/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/ffxiv/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/worldmap/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/world-of-warcraft/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/catacomb/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/final-fantasy/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/icecrown-citadel/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/gracia/index.html.gz (3.6 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/wow/index.html.gz (3.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/amazon/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/addiction/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/cooki/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/unreal/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/giran/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/mmorpg/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/nathema/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/lineage-2/index.html.gz (4.1 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/onyxia/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/ashura/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/syn/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/ivory-tower/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/athun/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/teon/index.html.gz (3.7 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/voa/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/epic-fail/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/reckless/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/l2extreme/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/quakenet/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/gunship/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/heretic/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/shiva/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/dwarf/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/loot/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/ulduar/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/baium/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/supervisor/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/valorenforcers/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/artisan/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/virtual/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/nagrand/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/snm-clan/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/b-grade/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/lady/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/marrowgar/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/oren/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/thenobodies/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/tags/titan/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2013/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2013/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2013/06/15/final-fantasy-xiv/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2013/06/15/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/10/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/10/25/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/10/25/wow-revival/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/07/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/07/lets-hunt-for-treasure/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/index.html.gz (3.8 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/21/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/21/b-grade-and-a-pause/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/11/raiding-with-the-guild/index.html.gz (4.6 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/16/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/16/ding/index.html.gz (4.2 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/05/testimony-of-the-pilgrim/index.html.gz (4.8 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/17/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/17/treasure/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/04/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/07/04/its-sooooo-hot/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/index.html.gz (4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/28/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/28/lvl-30/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/index.html.gz (3.7 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/24/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/24/dispatched2/index.html.gz (4.2 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/11/dispatched/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/25/arrived2/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/25/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/19/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/19/artisan/index.html.gz (4.7 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/13/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/06/13/delivered-but-epic-fail/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/11/10/raiding-again/index.html.gz (4.6 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/11/10/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/12/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/12/16/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/12/16/marrowgar-down/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/12/18/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/12/18/deeper-in-icc/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/05/31/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/05/31/it-has-been-decided/index.html.gz (5.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/05/08/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/05/08/wow-rip/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/p2/index.html.gz (3.9 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/04/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/04/16/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/gaming/2009/04/16/ut/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/pages/ptools/index.html.gz (5 KB smaller)
+[1m[32m        gzip[0m  build/pages/about/index.html.gz (3.5 KB smaller)
+[1m[32m        gzip[0m  build/assets/css/4pdj.css.gz (104.1 KB smaller)
+[1m[32m        gzip[0m  build/assets/js/sticky_navbar.js.gz (59.6 KB smaller)
+[1m[32m        gzip[0m  build/assets/js/4pdj.js.gz (95.9 KB smaller)
+[1m[32m        gzip[0m  build/technology/index.html.gz (5.9 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/blackout/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/exitwp/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/drachten/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/istqb/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/upstart/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/tcl/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/grub2/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/bastion-hotel/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/10-04/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/bridge/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/tmap/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/bridge-utils/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/uml-utilities/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/fusion-middleware/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/computrain/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/oracle/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/google-wave/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/world/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/firewall/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/karmic/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/mbr/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/eggdrop/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/work/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/linux/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/middleman/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/de-meern/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/oracle-service-bus/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/ubuntu/index.html.gz (3.6 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/64bit/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/virtualbox/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/chainload/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/image/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/bea/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/wordpress/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/weblogic/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/iptables/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/testing-sucks/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/irc/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/hello/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/google/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/cisco-anyconnect/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/tags/lucid-lynx/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/06/07/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/06/07/grub2-chainload-mbr-image/index.html.gz (5.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/05/29/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2013/05/29/middleman/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/10/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/10/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/10/06/oracle-service-bus/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/index.html.gz (4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/09/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/09/29/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/09/29/course-bea-weblogic-application-server/index.html.gz (4.7 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/10/examen/index.html.gz (4.7 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/10/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/index.html.gz (3.5 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/06/ptools-went-public/index.html.gz (6.2 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/08/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/06/08/learning/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/11/20/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/11/20/virtualbox-bridged/index.html.gz (6.1 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/11/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/11/11/wave/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/12/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/12/22/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/12/22/cisco-anyconnect-on-ubuntu-64bit/index.html.gz (5.1 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/03/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/03/03/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/03/03/hello-world/index.html.gz (4.1 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/05/27/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2009/05/27/finally/index.html.gz (5.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/index.html.gz (3.5 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/01/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/01/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/01/11/custom-firewall-under-ubuntu-karmic-koala-with-upstart/index.html.gz (6.3 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/06/17/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/technology/2010/06/17/ubuntu-64-bit-lucid-lynx-vs-flash/index.html.gz (5.2 KB smaller)
+[1m[32m        gzip[0m  build/personal/index.html.gz (5.8 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/pizza/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/schiermonnikoog/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/cats/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/exam/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/groningen/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/sleep/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/sylvain/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/driving/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/marriage/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/catacombs/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/minas/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/succes-agenda/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/20-week-echo/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/marum/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/pirana/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/joigny/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/kaylee/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/snow/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/vuurtoren/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/wedding/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/cute/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/efteling/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/work/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/vliegende-hollander/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/sylvain-leo-erwan/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/teon/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/dokkum/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/ijsje/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/new-year/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/revisited/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/gtd/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/passed/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/camping/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/puck/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/european-shorthair/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/kaatsheuvel/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/wok-to-go/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/cold-feet/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/zwaagwesteinde/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/france/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/baby/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/moleskine/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/dobbe/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/tags/summer-2009/index.html.gz (3.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/2012/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2012/08/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2012/08/27/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2012/08/27/apollo-2/index.html.gz (4.2 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/07/10/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/07/10/passed-my-driving-exam/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/07/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/06/24/schiermonnikoog/index.html.gz (4.7 KB smaller)
+[1m[32m        gzip[0m  build/personal/2013/06/24/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/07/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/07/25/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/07/25/kitties/index.html.gz (4.2 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/08/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/08/24/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2011/08/24/el-pooki-grande/index.html.gz (5.8 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/index.html.gz (3.9 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/06/28/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/06/28/ode/index.html.gz (4.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/06/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/06/14/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/06/14/on-the-camping/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/11/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/11/12/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/11/12/puck/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/12/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/12/17/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/12/17/snow/index.html.gz (5.9 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/12/18/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/12/18/at-home/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/05/17/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/05/17/efteling/index.html.gz (5.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/30/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/30/joigny/index.html.gz (4.9 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/index.html.gz (3.5 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/16/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/16/road-trip/index.html.gz (4.8 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/27/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/27/post-joigny-syndrome/index.html.gz (4.6 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/02/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2009/08/02/ode2/index.html.gz (4.5 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/07/20/hugz/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/07/20/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/07/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/07/14/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/07/14/cute111/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/index.html.gz (3.7 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/01/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/01/01/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/01/01/happy-newyear/index.html.gz (4.2 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/05/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/05/25/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/05/25/gtd-revisited/index.html.gz (5.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/04/28/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/04/28/weeeeeee-cute/index.html.gz (4.3 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/04/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/04/27/index.html.gz (3.4 KB smaller)
+[1m[32m        gzip[0m  build/personal/2010/04/27/gtd/index.html.gz (14.3 KB smaller)
+[1m[32m        gzip[0m  build/sitemap.html.gz (27.1 KB smaller)
+[1m[34m        gzip[0m  Total gzip savings: 1.3 MB
+FaviconMaker: WARNING! Your installed ImageMagick version 6.6.9 is not up-to-date and might produce suboptimal output!
+[1m[32m   generated[0m  build/apple-touch-icon-144x144-precomposed.png
+[1m[32m   generated[0m  build/apple-touch-icon-114x114-precomposed.png
+[1m[32m   generated[0m  build/apple-touch-icon-72x72-precomposed.png
+[1m[32m   generated[0m  build/apple-touch-icon-57x57-precomposed.png
+[1m[32m   generated[0m  build/apple-touch-icon-precomposed.png
+[1m[32m   generated[0m  build/apple-touch-icon.png
+[1m[32m   generated[0m  build/favicon.png
+
+[1m[32m   generated[0m  build/favicon.ico
+[1m[32m      remove[0m  build/sigil-white.png

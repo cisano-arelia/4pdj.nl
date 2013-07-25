@@ -7,10 +7,41 @@ Time.zone = "CET"
 
 # Blog
 activate :blog do |blog|
-  blog.prefix = "blog"
+  blog.name = "personal"
+  blog.prefix = "personal"
   blog.permalink = ":year/:month/:day/:title.html"
   blog.sources = ":year-:month-:day-:title.html"
-  blog.layout = "blog"
+  blog.layout = "article"
+  blog.paginate = true
+  blog.page_link = "p:num"
+  blog.per_page = 10
+  blog.default_extension = ".markdown.erb"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+end
+
+# Blog
+activate :blog do |blog|
+  blog.name = "technology"
+  blog.prefix = "technology"
+  blog.permalink = ":year/:month/:day/:title.html"
+  blog.sources = ":year-:month-:day-:title.html"
+  blog.layout = "article"
+  blog.paginate = true
+  blog.page_link = "p:num"
+  blog.per_page = 10
+  blog.default_extension = ".markdown.erb"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+end
+
+# Blog
+activate :blog do |blog|
+  blog.name = "gaming"
+  blog.prefix = "gaming"
+  blog.permalink = ":year/:month/:day/:title.html"
+  blog.sources = ":year-:month-:day-:title.html"
+  blog.layout = "article"
   blog.paginate = true
   blog.page_link = "p:num"
   blog.per_page = 10
@@ -48,6 +79,10 @@ activate :sprockets
 require "lib/breadcrumbs"
 helpers Breadcrumbs
 
+# AllArticles
+require "lib/allarticles"
+helpers AllArticles
+
 # Sitemap.xml
 require 'builder'
 page "/sitemap.xml", :layout => false
@@ -55,6 +90,10 @@ page "/sitemap.html", :layout => false, :directory_index => false
 
 # Bing
 page "/BingSiteAuth.xml", :layout => false
+
+["personal","technology","gaming"].each do |key|
+  proxy "/#{key}.html", "/category.html", :locals => {:category => key}, :ignore => true
+end
 
 ### 
 # Compass

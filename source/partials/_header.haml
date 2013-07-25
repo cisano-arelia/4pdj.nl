@@ -5,13 +5,11 @@
     %a.brand{:href=>'/'}
       4pdj
     %ul.nav
-      %li.divider-vertical
-      %li.dropdown
-        %a.dropdown-toggle(href='#' data-toggle='dropdown')
-          Pages
-          %b.caret
-        %ul.dropdown-menu
-          = partial "partials/pages"
+      - blog_instances.keys.each do |key|
+        %li.divider-vertical
+        %li
+          %a{:href=>'/' + key.to_s}
+            = key
       %li.divider-vertical.hidden-phone
       %li.dropdown.hidden-phone
         %a.dropdown-toggle(href='#' data-toggle='dropdown')
@@ -19,13 +17,6 @@
           %b.caret
         %ul.dropdown-menu
           = partial "partials/archive"
-      %li.divider-vertical.hidden-phone
-      %li.dropdown.hidden-phone
-        %a.dropdown-toggle(href='#' data-toggle='dropdown')
-          Topics
-          %b.caret
-        %ul.dropdown-menu
-          = partial "partials/topics"
     %ul.nav.pull-right.hidden-phone
       %li
         %form.navbar-search.pull-left

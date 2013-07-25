@@ -1,3 +1,8 @@
-- blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-  %li
-    = link_to(year.to_s + " (" + articles.size.to_s + ")", blog_year_path(year))
+- blog_instances.keys.each do |key|
+  %li.dropdown-submenu
+    %a(tabindex="-1" href="#")
+      = key
+    %ul.dropdown-menu
+      - blog(key.to_sym).articles.group_by {|a| a.date.year }.each do |year, articles|
+        %li
+          = link_to(year.to_s + " (" + articles.size.to_s + ")", blog_year_path(year, key.to_sym))

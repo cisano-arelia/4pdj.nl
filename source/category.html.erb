@@ -1,0 +1,21 @@
+---
+title: 4pdj - <%= category %>
+---
+<% 2.times do |iter| %>
+<div class="row-fluid">
+  <% blog(category.to_sym).articles[0+(3*iter)..2+(3*iter)].each do |current_article| %>
+    <article class="span4">
+      <header>
+        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
+      </header>
+      <div class="article-content">
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail hidden-phone" alt="<%= current_article.title %>"><% end %>
+        <%= current_article.summary %>
+      </div>
+      <footer>
+        <a href="<%= current_article.url %>" class="btn disabled"><i class="icon-zoom-in"></i> read more</a>
+      </footer>
+    </article>
+  <% end %>
+</div>
+<% end %>

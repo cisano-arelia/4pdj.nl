@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "middleman", "~> 3.1"
-gem "middleman-blog", "~> 3.2"
+gem "middleman-blog", :github => "middleman/middleman-blog"
 
 # LiveReload
 gem "middleman-livereload", "~> 3.1"
