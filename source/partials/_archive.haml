@@ -1,7 +1,7 @@
 - blog_instances.keys.each do |key|
   %li.dropdown-submenu
     %a(tabindex="-1" href="#")
-      = key
+      = key.to_s.titleize
     %ul.dropdown-menu
       - blog(key.to_sym).articles.group_by {|a| a.date.year }.each do |year, articles|
         %li

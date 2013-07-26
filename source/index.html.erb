@@ -7,7 +7,7 @@ per_page: 7
   <% if current_article.data['hero'] %>
   <div class="row-fluid">
     <div class="span4 hidden-phone">
-    <img src="<%= current_article.data['hero'] %>" alt="<%= current_article.title %>">
+    <img src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
     </div>
   <% end %>
   <article <% if current_article.data['hero'] %>class="span8"<% end %>>
