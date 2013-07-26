@@ -80,8 +80,8 @@ require "lib/breadcrumbs"
 helpers Breadcrumbs
 
 # AllArticles
-require "lib/allarticles"
-helpers AllArticles
+require "lib/multiblog"
+helpers MultiBlog
 
 # Sitemap.xml
 require 'builder'

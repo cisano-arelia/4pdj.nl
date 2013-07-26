@@ -27,7 +27,7 @@
         Tagged as 
         - if current_page.data['tags']
           - current_page.data['tags'].sort.each do |tag|
-            = link_to tag, tag_path(tag)
+            = link_to tag, tag_path(tag,current_blog())
             - if tag != current_page.data['tags'].sort.last
               ,
       #disqus_thread
