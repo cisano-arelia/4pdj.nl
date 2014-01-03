@@ -11,6 +11,13 @@ body {
 	margin-bottom: 0px;
 }
 
+.affix {
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 2;
+}
+
 .pull-right {
         float: right;
 }
