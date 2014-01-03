@@ -1,185 +1,212 @@
 /*
  *= require bootstrap
- *= require bootstrap-responsive
  *= require lightbox
  */
 
 body {
-	font-family: 'Droid Sans','Noto Sans',Arial,sans-serif;
-	padding: 0px;
-	margin: 0px;
-	background: url(/assets/img/victorian_darkblue_by_iamfreeman.jpg) repeat;
-}
-
-.navbar-inner, .navbar .brand, .navbar-static-top {
-	padding-left: 0px;
-	padding-right: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
-}
-
-.navbar .brand {
-	font-weight: bold;
-	color: rgb(73, 167, 255);
-	padding-left: 15px;
+        background: url(/assets/img/victorian_darkblue_by_iamfreeman.jpg) repeat;
 }
 
 .navbar {
-	z-index: 100;
-}
-
-.pull-right {
-	float: right;
-}
-
-ul.nav.pull-right {
-	padding-right:5px;
-}
-
-#content {
-	padding: 14px 15px;
-}
-
-#search-results, #search-close {
-	padding: 14px 15px 0px 15px;
-}
-
-#footer {
-	background-color: #f1f1f1;
-	border-top: 1px solid #ddd;
-}
-
-#copyright {
-	padding: 14px 19px;
-}
-
-#powered {
-	padding: 10px 15px;
-}
-
-#poweredby {
-	padding-top: 4px;
-}
-
-.breadcrumb {
-	background-color: #f1f1f1;
-	border-bottom: 1px solid #ddd;
 	margin-bottom: 0px;
 }
 
-article img, article a img, .hero-unit img {
-	padding: 5px;
-	border: solid 1px #EFEFEF;
-	margin: 0px;
+.pull-right {
+        float: right;
 }
 
-.hero-unit img {
-	background: white;
-	border: solid 1px #BBB;
+#content {
+        padding: 14px 15px;
+}
+
+#search-results, #search-close {
+        padding: 14px 15px 0px 15px;
+}
+
+#footer {
+        background-color: #f1f1f1;
+        border-top: 1px solid #ddd;
+}
+
+#copyright {
+        padding: 14px 19px;
+}
+
+#powered {
+        padding: 10px 15px;
+}
+
+#poweredby {
+        padding-top: 4px;
+}
+
+.breadcrumb {
+        background-color: #f1f1f1;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 0px;
+}
+
+article img, article a img, .jumbotron img {
+        padding: 5px;
+        border: solid 1px #EFEFEF;
+        margin: 0px;
+}
+
+.jumbotron img {
+        background: white;
+        border: solid 1px #BBB;
 }
 
 #rss, #linkedin, #twitter, #github {
-	height: 30px;
+        height: 30px;
 }
 
 #rss, #linkedin, #twitter {
         padding: 0px;
-	margin: -10px;
+        margin: -10px;
 }
 
 article a:hover img {
-	border: solid 1px #CCC;
-	-moz-box-shadow: 1px 1px 5px #999;
-	-webkit-box-shadow: 1px 1px 5px #999;
+        border: solid 1px #CCC;
+        -moz-box-shadow: 1px 1px 5px #999;
+        -webkit-box-shadow: 1px 1px 5px #999;
         box-shadow: 1px 1px 5px #999;
 }
 
 .thumbnail {
-	float: left;
-	margin-right: 6px;
+        float: left;
+        margin-right: 6px;
 }
 
 #main {
-	-moz-box-shadow: 1px 1px 20px #000;
-	-webkit-box-shadow: 1px 1px 20px #000;
+        -moz-box-shadow: 1px 1px 20px #000;
+        -webkit-box-shadow: 1px 1px 20px #000;
         box-shadow: 1px 1px 20px #000;
-	margin-bottom: 20px;
-	background-color:white;
+        margin-bottom: 20px;
+        background-color:white;
 }
 
 article h1, section h1, #search-results h1 {
-	color: #0088cc;
+        color: #0088cc;
 
-	-ms-word-break: break-all;
-	word-break: break-all;
+        -ms-word-break: break-all;
+        word-break: break-all;
 
-	word-break: break-word;
+        word-break: break-word;
 
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
         hyphens: auto;
 }
 
 .byline address {
-	display:inline;
-	line-height:normal;
+        display:inline;
+        line-height:normal;
 }
 
 .byline, .tagline, .byline address {
-	font-variant:small-caps;
-	font-weight:500;
-	font-size:110%;
-	margin:0px;
+        font-variant:small-caps;
+        font-weight:500;
+        font-size:110%;
+        margin:0px;
 }
 
 #disqus_thread, .blog_article {
-	margin-top: 20px;
-	padding-top:20px;
-	border-top: 1px solid #ddd;
+        margin-top: 20px;
+        padding-top:20px;
+        border-top: 1px solid #ddd;
 }
 
 .logo {
-	background-image: url(/assets/img/eyes_sylvain.png);
-	background-repeat: no-repeat;
-	background-size: auto;
-	background-color: black;
+        background-image: url(/assets/img/eyes_sylvain.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-color: black;
 }
 
 img.sigil {
-	margin: 14px;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-khtml-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	width: 120px;
-	height: 120px;
-	-moz-box-shadow: 1px 1px 3px #999;
-	-webkit-box-shadow: 1px 1px 3px #999;
-	box-shadow: 1px 1px 3px #999;
+        margin: 14px;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -khtml-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        width: 120px;
+        height: 120px;
+        -moz-box-shadow: 1px 1px 3px #999;
+        -webkit-box-shadow: 1px 1px 3px #999;
+        box-shadow: 1px 1px 3px #999;
 }
 
-.hero-unit .span8 {
-	padding-left:20px;
+.jumbotron .col-md-8 {
+        padding-left:20px;
 }
 
-article h1, section h1, .hero-unit h1 {
-	font-size:40px;
+article h1, section h1, .jumbotron h1 {
+        font-size:40px;
 }
 
 @media screen and (max-width: 767px) {
-	#main {
-		margin-top: 0px;
-		margin-bottom: 0px;
-	}
-	article h1, section h1, .hero-unit h1 {
-		font-size:30px;
-		font-weight: 600;
-	}
-	.hero-unit {
-		padding: 20px;
-	}
-	.hero-unit .span8 {
-		padding-left:0px;
-	}
+        #main {
+                margin-top: 0px;
+                margin-bottom: 0px;
+        }
+        article h1, section h1, .jumbotron h1 {
+                font-size:30px;
+                font-weight: 600;
+        }
+        .jumbotron {
+                padding: 20px;
+        }
+        .jumbotron .col-md-8 {
+                padding-left:0px;
+        }
 }
 
+.dropdown-submenu{
+    position:relative;
+}
+
+.dropdown-submenu > .dropdown-menu
+{
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left:-1px;
+    -webkit-border-radius:0 6px 6px 6px;
+    -moz-border-radius:0 6px 6px 6px;
+    border-radius:0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu{
+    display:block;
+}
+
+.dropdown-submenu > a:after{
+    display:block;
+    content:" ";
+    float:right;
+    width:0;
+    height:0;
+    border-color:transparent;
+    border-style:solid;
+    border-width:5px 0 5px 5px;
+    border-left-color:#cccccc;
+    margin-top:5px;
+    margin-right:-10px;
+}
+
+.dropdown-submenu:hover > a:after{
+    border-left-color:#ffffff;
+}
+
+.dropdown-submenu .pull-left{
+    float:none;
+}
+
+.dropdown-submenu.pull-left > .dropdown-menu{
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+}

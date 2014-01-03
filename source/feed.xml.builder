@@ -5,10 +5,10 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.id "http://4pdj.nl/"
   xml.link "href" => "http://4pdj.nl/"
   xml.link "href" => "http://4pdj.nl/feed.xml", "rel" => "self"
-  xml.updated blog.articles.first.date.to_time.iso8601
+  xml.updated all_articles.first.date.to_time.iso8601
   xml.author { xml.name "Nathema" }
 
-  blog.articles[0..5].each do |article|
+  all_articles.each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => article.url

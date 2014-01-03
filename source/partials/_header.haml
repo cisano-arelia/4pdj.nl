@@ -1,32 +1,33 @@
-.logo.hidden-phone
+.logo.hidden-sm
   %img.sigil{:src=>"/assets/img/sigil-white.svg",:alt=>"4pdj"}
-.navbar.navbar-medium.navbar-inverse.navbar-static-top#navbar
-  .navbar-inner
-    %a.brand{:href=>'/'}
+%nav.navbar.navbar-inverse.navbar-static-top#navbar(role='navigation')
+  .navbar-header
+    %a.navbar-brand{:href=>'/'}
       4pdj
-    %ul.nav
-      - blog_instances.keys.each do |key|
-        %li.divider-vertical
-        %li
-          %a{:href=>'/' + key.to_s}
-            = key.to_s.titleize
-      %li.divider-vertical.hidden-phone
-      %li.dropdown.hidden-phone
-        %a.dropdown-toggle(href='#' data-toggle='dropdown')
-          Archive
-          %b.caret
-        %ul.dropdown-menu
-          = partial "partials/archive"
-    %ul.nav.pull-right.hidden-phone
+  %ul.nav.navbar-nav
+    - blog_instances.keys.each do |key|
+      %li.divider-vertical
       %li
-        %form.navbar-search.pull-left
-          %input.search-query(type="text" placeholder="Search")
-      %li
-        %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
-          %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
-      %li
-        %a{:href=>'http://nl.linkedin.com/in/pdjnl', :target=>"_blank"}
-          %img#linkedin{:src=>"/assets/img/linkedin.svg", :alt=>"LinkedIn"}
-      %li
-        %a{:href=>'/feed.xml'}
-          %img#rss{:src=>"/assets/img/rss.svg", :alt=>"Syndication"}
+        %a{:href=>'/' + key.to_s}
+          = key.to_s.titleize
+    %li.divider-vertical.hidden-sm
+    %li.dropdown.hidden-sm
+      %a.dropdown-toggle(href='#' data-toggle='dropdown')
+        Archive
+        %b.caret
+      %ul.dropdown-menu
+        = partial "partials/archive"
+  %ul.nav.navbar-nav.navbar-right.hidden-sm
+    %li
+      %form.navbar-form.navbar-left(role='search')
+        .form-group
+          %input.form-control.search-query(type="text" placeholder="Search")
+    %li
+      %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
+        %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
+    %li
+      %a{:href=>'http://nl.linkedin.com/in/pdjnl', :target=>"_blank"}
+        %img#linkedin{:src=>"/assets/img/linkedin.svg", :alt=>"LinkedIn"}
+    %li
+      %a{:href=>'/feed.xml'}
+        %img#rss{:src=>"/assets/img/rss.svg", :alt=>"Syndication"}

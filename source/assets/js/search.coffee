@@ -4,7 +4,14 @@ $ = jQuery
 
 $ ->
 
-  $('.search-query').live 'keypress', (e) ->
+  $('.search-close-button').click ->
+    $('#search-block').toggleClass('hidden')
+    $('#search-block').attr('style','height: 0px;')
+    $('#search-results').html ''
+
+  $('.search-close-button').trigger('click')
+
+  $('.search-query').on 'keypress', (e) ->
     if e.keyCode == 13
       e.preventDefault()
       search_term = $('.search-query').val().toLowerCase()
@@ -26,7 +33,7 @@ $ ->
           for result in results
             $('#search-results').append '<li><a href="'+result.url+'">'+result.title+'</a></li>'
           $('#search-results').append '</ul></p>'
-          $('#search-block').toggleClass('in')
+          $('#search-block').toggleClass('hidden')
           $('#search-block').removeAttr('style')
         else
           $('#search-results').append '<p>No results found.</p>'

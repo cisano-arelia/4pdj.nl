@@ -1,7 +1,8 @@
-%ul.breadcrumb
-  - breadcrumbs.each do |breadcrumb|
-    %li{:class=>(breadcrumb == breadcrumbs.last)?"active":""}
-      = breadcrumb
-      - if breadcrumb != breadcrumbs.last
-        %span.divider
-          &raquo;
+.row
+  %ul.breadcrumb
+    - breadcrumbs.each do |breadcrumb|
+      %li{:class=>(breadcrumb == breadcrumbs.last)?"active":""}
+        = breadcrumb
+        - if breadcrumb != breadcrumbs.last
+          %span.divider
+            &raquo;

@@ -19,16 +19,12 @@
     = yield_content :head
   %body
     %header#header
-      .row-fluid
-        .span12
-          = partial "partials/header"
+      = partial "partials/header"
     .container#main
-      .row-fluid
-        = partial "partials/breadcrumbs"
-      .row-fluid
-        = partial "partials/search"
-      .row-fluid
+      = partial "partials/breadcrumbs"
+      = partial "partials/search"
+      .row
         %section#content
           = yield
-      %footer.row-fluid#footer
+      %footer.row#footer
         = partial "partials/footer"

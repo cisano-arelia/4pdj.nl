@@ -3,14 +3,14 @@ title: 4pdj
 per_page: 7
 ---
 <% current_article = all_articles[0] %>
-<div class="hero-unit">
+<div class="jumbotron">
   <% if current_article.data['hero'] %>
-  <div class="row-fluid">
-    <div class="span4 hidden-phone">
-    <img src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
+  <div class="row">
+    <div class="col-md-4 hidden-sm">
+    <img class="img-responsive" src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
     </div>
   <% end %>
-  <article <% if current_article.data['hero'] %>class="span8"<% end %>>
+  <article <% if current_article.data['hero'] %>class="col-md-8"<% end %>>
     <header>
       <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
     </header>
@@ -18,7 +18,7 @@ per_page: 7
       <%= current_article.summary %>
     </div>
     <footer>
-      <a href="<%= current_article.url %>" class="btn disabled"><i class="icon-zoom-in"></i> read more</a>
+      <a href="<%= current_article.url %>" class="btn btn-info" role="button"><i class="icon-zoom-in"></i> read more</a>
     </footer>
   </article>
   <% if current_article.data['hero'] %>
@@ -27,20 +27,24 @@ per_page: 7
 </div>
 
 <% 2.times do |iter| %>
-<div class="row-fluid">
+<div class="row">
   <% all_articles[1+(iter*3)..3+(iter*3)].each do |current_article| %>
-    <article class="span4">
+    <article class="col-md-4">
       <header>
         <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
       </header>
       <div class="article-content">
-        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail hidden-phone" alt="<%= current_article.title %>"><% end %>
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail hidden-sm" alt="<%= current_article.title %>"><% end %>
         <%= current_article.summary %>
       </div>
-      <footer>
-        <a href="<%= current_article.url %>" class="btn disabled"><i class="icon-zoom-in"></i> read more</a>
-      </footer>
     </article>
+  <% end %>
+</div>
+<div class="row">
+  <% all_articles[1+(iter*3)..3+(iter*3)].each do |current_article| %>
+    <div class="col-md-4">
+      <a href="<%= current_article.url %>" class="btn btn-default pull-right" role="button"><i class="icon-zoom-in"></i> read more</a>
+    </div>
   <% end %>
 </div>
 <% end %>

@@ -1,28 +1,28 @@
 source "https://rubygems.org"
 
-gem "middleman", "~> 3.1"
-gem "middleman-blog", :github => "middleman/middleman-blog"
+gem "middleman", "~> 3.2"
+gem "middleman-blog", "~> 3.5"
 
 # LiveReload
 gem "middleman-livereload", "~> 3.1"
 
 # Favicons
-gem "middleman-favicon-maker", "~> 3.2"
+gem "middleman-favicon-maker", "~> 3.3"
 
 # Minify
-gem "middleman-minify-html"
+gem "middleman-minify-html", "~> 3.1"
 
 # Syntax
-gem "middleman-syntax"
+gem "middleman-syntax", "~> 1.2"
 
 # Sprockets
-gem "middleman-sprockets"
+gem "middleman-sprockets", "~> 3.2"
 
 # For feed.xml.builder
-gem "builder", "~> 3.0"
+gem "builder", "~> 3.2"
 
 # Markdown
-gem "markdown"
+gem "markdown", "~> 1.1"
 
 # Bugfix
 gem "rb-inotify"
@@ -32,4 +32,4 @@ gem "therubyracer"
 gem "nokogiri"
 
 # Needed for JS
-gem 'json', '~> 1.7'
+gem 'json'
