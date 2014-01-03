@@ -1,6 +1,7 @@
 ---
 title: 4pdj - <%= category %>
 ---
+<% breadcrumbs.unshift category %>
 <% 2.times do |iter| %>
 <div class="row">
   <% blog(category.to_sym).articles[0+(3*iter)..2+(3*iter)].each do |current_article| %>

@@ -86,8 +86,14 @@ article a:hover img {
         background-color:white;
 }
 
-article h1, section h1, #search-results h1 {
+article h1, section h1, .jumbotron h1 {
+        font-size:40px;
+}
+
+article h1, section h1, .jumbotron h1, #search-results h1 {
         color: #0088cc;
+
+	clear: both;
 
         -ms-word-break: break-all;
         word-break: break-all;
@@ -139,10 +145,6 @@ img.sigil {
 
 .jumbotron .col-md-8 {
         padding-left:20px;
-}
-
-article h1, section h1, .jumbotron h1 {
-        font-size:40px;
 }
 
 @media screen and (max-width: 767px) {

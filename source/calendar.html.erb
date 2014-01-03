@@ -1,6 +1,10 @@
 ---
-pageable: true
----
+<% breadcrumbs.unshift case page_type
+			 when 'day' then Date.new(year, month, day).strftime('%b %e %Y')
+                         when 'month' then Date.new(year, month, 1).strftime('%b %Y')
+                         when 'year' then year
+                       end  %>
+<% breadcrumbs.unshift blog_controller.name %>
 <h1>Archive for
   <% case page_type
      when 'day' %>
@@ -12,23 +16,9 @@ pageable: true
   <% end %>
 </h1>
 
-<% if paginate %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
-<% end %>
-
 <ul>
   <% page_articles.each_with_index do |article, i| %>
     <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
   <% end %>
 </ul>
 
-<% if paginate %>
-<ul class="pager">
-  <li class="previous<% unless next_page %> disabled<% end %>">
-    <%= link_to '&larr; Older', next_page %>
-  </li>
-  <li class="next<% unless prev_page %> disabled<% end %>"">
-    <%= link_to 'Newer &rarr;', prev_page %>
-  </li>
-</ul>
-<% end %>
