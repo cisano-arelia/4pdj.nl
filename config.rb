@@ -159,9 +159,8 @@ ignore 'assets/js/lightbox.js'
 ignore 'assets/js/stick_navbar.js'
 ignore 'assets/js/search.coffee'
 
-ignore 'assets/css/bootstrap.css'
-ignore 'assets/css/bootstrap-theme.css'
 ignore 'assets/css/lightbox.css'
+ignore 'assets/css/*.less'
 
 # Build-specific configuration
 configure :build do

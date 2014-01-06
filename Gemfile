@@ -15,7 +15,12 @@ gem "middleman-minify-html", "~> 3.1"
 # Syntax
 gem "middleman-syntax", "~> 1.2"
 
+# Less
+gem "less"
+
 # Sprockets
+gem "sprockets"
+gem "sprockets-less"
 gem "middleman-sprockets", "~> 3.2"
 
 # For feed.xml.builder
