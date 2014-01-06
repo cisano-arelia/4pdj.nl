@@ -161,7 +161,11 @@ ignore 'assets/js/search.coffee'
 
 ignore 'assets/css/lightbox.css'
 ignore 'assets/css/inconsolata.css'
-ignore 'assets/css/*.less'
+
+Dir["source/assets/css/*.less"].each do |f|
+  next if File.basename(f) == '4pdj.less'
+  ignore f.gsub('source/', '')
+end
 
 # Build-specific configuration
 configure :build do

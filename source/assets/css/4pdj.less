@@ -63,11 +63,18 @@
 	border-bottom: 2px solid @hr-border;
 }
 
-article img, article a img, .jumbotron img {
+article img, article a img {
         padding: 5px;
         border: solid 1px @black;
         margin: 0px;
 	background-color: @gray-darker;
+}
+
+.jumbotron img {
+        padding: 5px;
+        border: solid 1px darken(@gray-darker,5%);;
+        margin: 0px;
+	background-color: lighten(@gray-darker,7%);
 }
 
 #rss, #linkedin, #twitter, #github {
