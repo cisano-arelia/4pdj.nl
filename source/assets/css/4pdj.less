@@ -1,14 +1,18 @@
 /*
- *= require bootstrap.less
+ *= require inconsolata
  *= require lightbox
  */
 
-body {
-        background: url(/assets/img/victorian_darkblue_by_iamfreeman.jpg) repeat;
-}
+@import "bootstrap.less";
 
 .navbar {
 	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+.navbar-brand {
+	font-size: 20px;
+	background-color: @green;
 }
 
 @media (min-width: 768px) {
@@ -37,8 +41,8 @@ body {
 }
 
 #footer {
-        background-color: #f1f1f1;
-        border-top: 1px solid #ddd;
+        background-color: @gray-darker;
+        border-top: 1px solid @black;
 }
 
 #copyright {
@@ -54,20 +58,16 @@ body {
 }
 
 .breadcrumb {
-        background-color: #f1f1f1;
-        border-bottom: 1px solid #ddd;
         margin-bottom: 0px;
+	font-weight: bold;
+	border-bottom: 2px solid rgba(255,255,255,.17);
 }
 
 article img, article a img, .jumbotron img {
         padding: 5px;
-        border: solid 1px #EFEFEF;
+        border: solid 1px @black;
         margin: 0px;
-}
-
-.jumbotron img {
-        background: white;
-        border: solid 1px #BBB;
+	background-color: @gray-darker;
 }
 
 #rss, #linkedin, #twitter, #github {
@@ -79,33 +79,16 @@ article img, article a img, .jumbotron img {
         margin: -10px;
 }
 
-article a:hover img {
-        border: solid 1px #CCC;
-        -moz-box-shadow: 1px 1px 5px #999;
-        -webkit-box-shadow: 1px 1px 5px #999;
-        box-shadow: 1px 1px 5px #999;
-}
-
 .thumbnail {
         float: left;
         margin-right: 6px;
 }
 
-#main {
-        -moz-box-shadow: 1px 1px 20px #000;
-        -webkit-box-shadow: 1px 1px 20px #000;
-        box-shadow: 1px 1px 20px #000;
-        margin-bottom: 20px;
-        background-color:white;
-}
-
 article h1, section h1, .jumbotron h1 {
-        font-size:40px;
+        font-size:30px;
 }
 
 article h1, section h1, .jumbotron h1, #search-results h1 {
-        color: #0088cc;
-
 	clear: both;
 
         -ms-word-break: break-all;
@@ -116,6 +99,9 @@ article h1, section h1, .jumbotron h1, #search-results h1 {
         -webkit-hyphens: auto;
         -moz-hyphens: auto;
         hyphens: auto;
+
+	font-weight: bold;
+	color: @orange;
 }
 
 .byline address {
@@ -133,27 +119,10 @@ article h1, section h1, .jumbotron h1, #search-results h1 {
 #disqus_thread, .blog_article {
         margin-top: 20px;
         padding-top:20px;
-        border-top: 1px solid #ddd;
 }
 
-.logo {
-        background-image: url(/assets/img/eyes_sylvain.png);
-        background-repeat: no-repeat;
-        background-size: auto;
-        background-color: black;
-}
-
-img.sigil {
-        margin: 14px;
-        border-radius: 5px;
-        -moz-border-radius: 5px;
-        -khtml-border-radius: 5px;
-        -webkit-border-radius: 5px;
-        width: 120px;
-        height: 120px;
-        -moz-box-shadow: 1px 1px 3px #999;
-        -webkit-box-shadow: 1px 1px 3px #999;
-        box-shadow: 1px 1px 3px #999;
+#disqus_thread {
+	border-top: 2px solid rgba(255,255,255,.17);
 }
 
 .jumbotron .col-md-8 {
@@ -205,13 +174,11 @@ img.sigil {
     border-color:transparent;
     border-style:solid;
     border-width:5px 0 5px 5px;
-    border-left-color:#cccccc;
     margin-top:5px;
     margin-right:-10px;
 }
 
 .dropdown-submenu:hover > a:after{
-    border-left-color:#ffffff;
 }
 
 .dropdown-submenu .pull-left{

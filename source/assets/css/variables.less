@@ -6,34 +6,59 @@
 // Global values
 // --------------------------------------------------
 
+@base03:		#002b36;
+@base02:		#073642;
+@base01:		#586e75;
+@base00:		#657b83;
+@base0:			#839496;
+@base1:			#93a1a1;
+@base2:			#eee8d5;
+@base3:			#fdf6e3;
+@yellow:		#b58900;
+@orange:		#cb4b16;
+@red:			#dc322f;
+@magenta:		#d33682;
+@violet:		#6c71c4;
+@blue:			#268bd2;
+@cyan:			#2aa198;
+@green:			#859900;
+
 // Grays
 // -------------------------
 
-@gray-darker:            lighten(#000, 13.5%); // #222
-@gray-dark:              lighten(#000, 20%);   // #333
-@gray:                   lighten(#000, 33.5%); // #555
-@gray-light:             lighten(#000, 60%);   // #999
-@gray-lighter:           lighten(#000, 93.5%); // #eee
+@black:			@base03;
+@gray-darker:           @base02;
+@gray-dark:             @base00;
+@gray:                  @base0;
+@gray-light:            @base1;
+@gray-lighter:          @base2;
+@white:			@base3;
+
+// Specials
+// -------------------------
+
+@navbar-link-color:		#d7e5a1;
+@navbar-link-active-color:	#e8bc33;
 
 // Brand colors
 // -------------------------
 
-@brand-primary:         #428bca;
-@brand-success:         #5cb85c;
-@brand-warning:         #f0ad4e;
-@brand-danger:          #d9534f;
-@brand-info:            #5bc0de;
+@brand-primary:         @blue;
+@brand-success:         @green;
+@brand-warning:         @orange;
+@brand-danger:          @red;
+@brand-info:            @yellow;
 
 // Scaffolding
 // -------------------------
 
-@body-bg:               #fff;
-@text-color:            @gray-dark;
+@body-bg:               @black;
+@text-color:            @gray;
 
 // Links
 // -------------------------
 
-@link-color:            @brand-primary;
+@link-color:            @orange;
 @link-hover-color:      darken(@link-color, 15%);
 
 // Typography
@@ -41,8 +66,8 @@
 
 @font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
 @font-family-serif:       Georgia, "Times New Roman", Times, serif;
-@font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
-@font-family-base:        @font-family-sans-serif;
+@font-family-monospace:   Inconsolata, Menlo, Monaco, Consolas, "Courier New", monospace;
+@font-family-base:        @font-family-monospace;
 
 @font-size-base:          14px;
 @font-size-large:         ceil(@font-size-base * 1.25); // ~18px
@@ -94,7 +119,7 @@
 @border-radius-large:            6px;
 @border-radius-small:            3px;
 
-@component-active-color:         #fff;
+@component-active-color:         @white;
 @component-active-bg:            @brand-primary;
 
 @caret-width-base:               4px;
@@ -119,45 +144,45 @@
 
 @btn-font-weight:                normal;
 
-@btn-default-color:              #333;
-@btn-default-bg:                 #fff;
-@btn-default-border:             #ccc;
+@btn-default-color:             @white;
+@btn-default-bg:                @gray-darker;
+@btn-default-border:            @black;
 
-@btn-primary-color:              #fff;
+@btn-primary-color:              @white;
 @btn-primary-bg:                 @brand-primary;
 @btn-primary-border:             darken(@btn-primary-bg, 5%);
 
-@btn-success-color:              #fff;
+@btn-success-color:              @white;
 @btn-success-bg:                 @brand-success;
 @btn-success-border:             darken(@btn-success-bg, 5%);
 
-@btn-warning-color:              #fff;
+@btn-warning-color:              @white;
 @btn-warning-bg:                 @brand-warning;
 @btn-warning-border:             darken(@btn-warning-bg, 5%);
 
-@btn-danger-color:               #fff;
+@btn-danger-color:               @white;
 @btn-danger-bg:                  @brand-danger;
 @btn-danger-border:              darken(@btn-danger-bg, 5%);
 
-@btn-info-color:                 #fff;
+@btn-info-color:                 @white;
 @btn-info-bg:                    @brand-info;
 @btn-info-border:                darken(@btn-info-bg, 5%);
 
-@btn-link-disabled-color:        @gray-light;
+@btn-link-disabled-color:        @white;
 
 
 // Forms
 // -------------------------
 
-@input-bg:                       #fff;
+@input-bg:                       #007777;
 @input-bg-disabled:              @gray-lighter;
 
-@input-color:                    @gray;
-@input-border:                   #ccc;
+@input-color:                    @white;
+@input-border:                   @black;
 @input-border-radius:            @border-radius-base;
 @input-border-focus:             #66afe9;
 
-@input-color-placeholder:        @gray-light;
+@input-color-placeholder:        @black;
 
 @input-height-base:              (@line-height-computed + (@padding-base-vertical * 2) + 2);
 @input-height-large:             (ceil(@font-size-large * @line-height-large) + (@padding-large-vertical * 2) + 2);
@@ -173,14 +198,14 @@
 // Dropdowns
 // -------------------------
 
-@dropdown-bg:                    #fff;
-@dropdown-border:                rgba(0,0,0,.15);
-@dropdown-fallback-border:       #ccc;
-@dropdown-divider-bg:            #e5e5e5;
+@dropdown-bg:                    @gray-darker;
+@dropdown-border:                darken(@navbar-default-bg, 6.5%);
+@dropdown-fallback-border:       @black;
+@dropdown-divider-bg:            @gray-dark;
 
-@dropdown-link-color:            @gray-dark;
-@dropdown-link-hover-color:      darken(@gray-dark, 5%);
-@dropdown-link-hover-bg:         #f5f5f5;
+@dropdown-link-color:            @navbar-link-color;
+@dropdown-link-hover-color:      @red;
+@dropdown-link-hover-bg:         transparent;
 
 @dropdown-link-active-color:     @component-active-color;
 @dropdown-link-active-bg:        @component-active-bg;
@@ -266,21 +291,22 @@
 @navbar-padding-horizontal:        floor(@grid-gutter-width / 2);
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
 
-@navbar-default-color:             #777;
-@navbar-default-bg:                #f8f8f8;
+@navbar-default-color:             @gray-dark;
+@navbar-default-bg:                @gray-darker;
 @navbar-default-border:            darken(@navbar-default-bg, 6.5%);
 
+
 // Navbar links
-@navbar-default-link-color:                #777;
-@navbar-default-link-hover-color:          #333;
+@navbar-default-link-color:                @navbar-link-color;
+@navbar-default-link-hover-color:          @red;
 @navbar-default-link-hover-bg:             transparent;
-@navbar-default-link-active-color:         #555;
-@navbar-default-link-active-bg:            darken(@navbar-default-bg, 6.5%);
-@navbar-default-link-disabled-color:       #ccc;
+@navbar-default-link-active-color:         @navbar-link-active-color;
+@navbar-default-link-active-bg:            @black;
+@navbar-default-link-disabled-color:       @gray-darker;
 @navbar-default-link-disabled-bg:          transparent;
 
 // Navbar brand label
-@navbar-default-brand-color:               @navbar-default-link-color;
+@navbar-default-brand-color:               @white;
 @navbar-default-brand-hover-color:         darken(@navbar-default-brand-color, 10%);
 @navbar-default-brand-hover-bg:            transparent;
 
@@ -372,9 +398,9 @@
 
 @jumbotron-padding:              30px;
 @jumbotron-color:                inherit;
-@jumbotron-bg:                   @gray-lighter;
+@jumbotron-bg:                   @gray-darker;
 @jumbotron-heading-color:        inherit;
-@jumbotron-font-size:            ceil(@font-size-base * 1.5);
+@jumbotron-font-size:            ceil(@font-size-base * 1.2);
 
 
 // Form states and alerts
@@ -539,8 +565,8 @@
 // Thumbnails
 // -------------------------
 @thumbnail-padding:           4px;
-@thumbnail-bg:                @body-bg;
-@thumbnail-border:            #ddd;
+@thumbnail-bg:                @gray-darker;
+@thumbnail-border:            @black;
 @thumbnail-border-radius:     @border-radius-base;
 
 @thumbnail-caption-color:     @text-color;
@@ -568,9 +594,9 @@
 
 // Breadcrumbs
 // -------------------------
-@breadcrumb-bg:               #f5f5f5;
-@breadcrumb-color:            #ccc;
-@breadcrumb-active-color:     @gray-light;
+@breadcrumb-bg:               @black;
+@breadcrumb-color:            @gray;
+@breadcrumb-active-color:     @navbar-link-color;
 @breadcrumb-separator:        "/";
 
 
@@ -599,12 +625,12 @@
 
 // Code
 // ------------------------
-@code-color:                  #c7254e;
-@code-bg:                     #f9f2f4;
+@code-color:                  @base01;
+@code-bg:                     @gray-lighter;
 
-@pre-bg:                      #f5f5f5;
-@pre-color:                   @gray-dark;
-@pre-border-color:            #ccc;
+@pre-bg:                      @gray-lighter;
+@pre-color:                   @base01;
+@pre-border-color:            @black;
 @pre-scrollable-max-height:   340px;
 
 // Type
@@ -620,7 +646,7 @@
 // -------------------------
 
 // Hr border color
-@hr-border:                   @gray-lighter;
+@hr-border:                   rgba(255,255,255,.17);
 
 // Horizontal forms & lists
 @component-offset-horizontal: 180px;

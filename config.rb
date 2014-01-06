@@ -160,6 +160,7 @@ ignore 'assets/js/stick_navbar.js'
 ignore 'assets/js/search.coffee'
 
 ignore 'assets/css/lightbox.css'
+ignore 'assets/css/inconsolata.css'
 ignore 'assets/css/*.less'
 
 # Build-specific configuration
