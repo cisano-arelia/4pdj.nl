@@ -1,4 +1,4 @@
-%nav.navbar.navbar-default.navbar-fixed-top#navbar(role='navigation')
+%nav.navbar.navbar-default#navbar(role='navigation')
   .navbar-header
     %a.navbar-brand{:href=>'/'}
       4pdj
@@ -8,8 +8,8 @@
       %li
         %a{:href=>'/' + key.to_s}
           = key.to_s.titleize
-    %li.divider-vertical.hidden-sm
-    %li.dropdown.hidden-sm
+    %li.divider-vertical.visible-lg
+    %li.dropdown.visible-lg
       %a.dropdown-toggle(href='#' data-toggle='dropdown')
         Archive
         %b.caret
