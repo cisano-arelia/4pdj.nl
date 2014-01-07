@@ -4,7 +4,7 @@
                          when 'month' then Date.new(year, month, 1).strftime('%b %Y')
                          when 'year' then year
                        end  %>
-<% breadcrumbs.unshift blog_controller.name %>
+<% breadcrumbs.unshift '<a href="/'+blog_controller.name.to_s+'">'+blog_controller.name.to_s+'</a>' %>
 <h1>Archive for
   <% case page_type
      when 'day' %>

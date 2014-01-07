@@ -7,7 +7,7 @@
   \-
   = current_page.title
 - breadcrumbs.unshift current_page.title
-- breadcrumbs.unshift blog_controller.name
+- breadcrumbs.unshift '<a href="/'+blog_controller.name.to_s+'">'+blog_controller.name.to_s+'</a>'
 - wrap_layout :layout do
   %article
     %header

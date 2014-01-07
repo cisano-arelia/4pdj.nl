@@ -1,7 +1,7 @@
 ---
 ---
 <% breadcrumbs.unshift tagname %>
-<% breadcrumbs.unshift blog_controller.name %>
+<% breadcrumbs.unshift '<a href="/'+blog_controller.name.to_s+'">'+blog_controller.name.to_s+'</a>' %>
 <h1>Articles tagged '<%= tagname %>'</h1>
 
 <ul>
