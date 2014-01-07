@@ -63,6 +63,14 @@
 	border-bottom: 2px solid @hr-border;
 }
 
+.breadcrumb a {
+	color: @orange;
+}
+
+.breadcrumb a:hover {
+	color: darken(@orange, 15%);
+}
+
 article img, article a img {
         padding: 5px;
         border: solid 1px @black;
@@ -95,7 +103,7 @@ article h1, section h1, .jumbotron h1 {
         font-size:30px;
 }
 
-article h1, section h1, .jumbotron h1, #search-results h1 {
+article h1, article h1 a, section h1, .jumbotron h1, #search-results h1 {
 	clear: both;
 
         -ms-word-break: break-all;
@@ -107,8 +115,15 @@ article h1, section h1, .jumbotron h1, #search-results h1 {
         -moz-hyphens: auto;
         hyphens: auto;
 
-	font-weight: bold;
 	color: @orange;
+}
+
+article h1 a:hover {
+	color: darken(@orange, 15%);
+}
+
+article h1:first-letter, article h1 a:first-letter {
+    text-transform: uppercase;
 }
 
 .byline address {
