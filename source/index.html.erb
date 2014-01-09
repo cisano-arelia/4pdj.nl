@@ -6,8 +6,8 @@ per_page: 7
 <div class="jumbotron">
   <% if current_article.data['hero'] %>
   <div class="row">
-    <div class="col-md-4 visible-lg">
-    <img class="img-responsive" src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
+    <div class="col-md-4 visible-lg visible-md">
+      <img class="img-responsive" src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
     </div>
   <% end %>
   <article <% if current_article.data['hero'] %>class="col-md-8"<% end %>>
@@ -34,13 +34,13 @@ per_page: 7
         <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
       </header>
       <div class="article-content">
-        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-lg" alt="<%= current_article.title %>"><% end %>
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-md visible-lg visible-sm" alt="<%= current_article.title %>"><% end %>
         <%= current_article.summary %>
       </div>
     </article>
   <% end %>
 </div>
-<div class="row visible-lg">
+<div class="row visible-lg visible-md">
   <% all_articles[1+(iter*3)..3+(iter*3)].each do |current_article| %>
     <div class="col-md-4">
       <a href="<%= current_article.url %>" class="btn btn-default pull-right" role="button"><i class="icon-zoom-in"></i> read more</a>

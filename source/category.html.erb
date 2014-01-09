@@ -10,7 +10,7 @@ title: 4pdj - <%= category %>
         <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title.titleize %></a></h1>
       </header>
       <div class="article-content">
-        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-lg" alt="<%= current_article.title %>"><% end %>
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-lg visible-md visible-sm" alt="<%= current_article.title %>"><% end %>
         <%= current_article.summary %>
       </div>
     </article>

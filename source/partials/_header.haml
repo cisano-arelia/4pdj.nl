@@ -1,6 +1,6 @@
 %nav.navbar.navbar-default#navbar(role='navigation')
   .navbar-header
-    %button.navbar-toggle(type="button" data-toggle="collapse" data-target=".navbar-ex1-collapse")
+    %button.navbar-toggle(type="button" data-toggle="collapse" data-target=".navbar-ex-collapse")
       %span.sr-only
         Toggle navigation
       %span.icon-bar
@@ -8,7 +8,7 @@
       %span.icon-bar
     %a.navbar-brand{:href=>'/'}
       4pdj
-  .collapse.navbar-collapse.navbar-ex1-collapse
+  .collapse.navbar-collapse.navbar-ex-collapse
     %ul.nav.navbar-nav
       - blog_instances.keys.each do |key|
         %li.divider-vertical
@@ -22,8 +22,8 @@
           %b.caret
         %ul.dropdown-menu
           = partial "partials/archive"
-    %ul.nav.navbar-nav.navbar-right
-      %li.visible-lg
+    %ul.nav.navbar-nav.navbar-right.visible-lg.visible-md
+      %li
         %form.navbar-form.navbar-left(role='search')
           .form-group
             %input.form-control.search-query(type="text" placeholder="Search")
