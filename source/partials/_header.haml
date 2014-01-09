@@ -1,31 +1,38 @@
 %nav.navbar.navbar-default#navbar(role='navigation')
   .navbar-header
+    %button.navbar-toggle(type="button" data-toggle="collapse" data-target=".navbar-ex1-collapse")
+      %span.sr-only
+        Toggle navigation
+      %span.icon-bar
+      %span.icon-bar
+      %span.icon-bar
     %a.navbar-brand{:href=>'/'}
       4pdj
-  %ul.nav.navbar-nav
-    - blog_instances.keys.each do |key|
+  .collapse.navbar-collapse.navbar-ex1-collapse
+    %ul.nav.navbar-nav
+      - blog_instances.keys.each do |key|
+        %li.divider-vertical
+        %li
+          %a{:href=>'/' + key.to_s}
+            = key.to_s.titleize
       %li.divider-vertical
+      %li.dropdown
+        %a.dropdown-toggle(href='#' data-toggle='dropdown')
+          Archive
+          %b.caret
+        %ul.dropdown-menu
+          = partial "partials/archive"
+    %ul.nav.navbar-nav.navbar-right
+      %li.visible-lg
+        %form.navbar-form.navbar-left(role='search')
+          .form-group
+            %input.form-control.search-query(type="text" placeholder="Search")
       %li
-        %a{:href=>'/' + key.to_s}
-          = key.to_s.titleize
-    %li.divider-vertical.visible-lg
-    %li.dropdown.visible-lg
-      %a.dropdown-toggle(href='#' data-toggle='dropdown')
-        Archive
-        %b.caret
-      %ul.dropdown-menu
-        = partial "partials/archive"
-  %ul.nav.navbar-nav.navbar-right.visible-lg
-    %li
-      %form.navbar-form.navbar-left(role='search')
-        .form-group
-          %input.form-control.search-query(type="text" placeholder="Search")
-    %li
-      %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
-        %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
-    %li
-      %a{:href=>'http://nl.linkedin.com/in/pdjnl', :target=>"_blank"}
-        %img#linkedin{:src=>"/assets/img/linkedin.svg", :alt=>"LinkedIn"}
-    %li
-      %a{:href=>'/feed.xml'}
-        %img#rss{:src=>"/assets/img/rss.svg", :alt=>"Syndication"}
+        %a{:href=>'http://twitter.com/_pdj_', :target=>"_blank"}
+          %img#twitter{:src=>"/assets/img/twitter.png", :alt=>"Twitter"}
+      %li
+        %a{:href=>'http://nl.linkedin.com/in/pdjnl', :target=>"_blank"}
+          %img#linkedin{:src=>"/assets/img/linkedin.svg", :alt=>"LinkedIn"}
+      %li
+        %a{:href=>'/feed.xml'}
+          %img#rss{:src=>"/assets/img/rss.svg", :alt=>"Syndication"}
