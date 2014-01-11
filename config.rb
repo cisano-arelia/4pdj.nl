@@ -5,7 +5,7 @@
 # Time.zone = "UTC"
 Time.zone = "CET"
 
-# Blog
+# Personal blog
 activate :blog do |blog|
   blog.name = "personal"
   blog.prefix = "personal"
@@ -20,7 +20,7 @@ activate :blog do |blog|
   blog.calendar_template = "calendar.html"
 end
 
-# Blog
+# Technology blog
 activate :blog do |blog|
   blog.name = "technology"
   blog.prefix = "technology"
@@ -35,7 +35,7 @@ activate :blog do |blog|
   blog.calendar_template = "calendar.html"
 end
 
-# Blog
+# Gaming blog
 activate :blog do |blog|
   blog.name = "gaming"
   blog.prefix = "gaming"
@@ -91,8 +91,10 @@ page "/sitemap.html", :layout => false, :directory_index => false
 # Bing
 page "/BingSiteAuth.xml", :layout => false
 
-["personal","technology","gaming"].each do |key|
-  proxy "/#{key}.html", "/category.html", :locals => {:category => key}, :ignore => true
+ready do
+  blog_instances.keys.each do |key|
+    proxy "/#{key.to_s}.html", "/category.html", :locals => {:category => key}, :ignore => true
+  end
 end
 
 ###
