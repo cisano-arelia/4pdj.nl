@@ -7,19 +7,24 @@
   \-
   = current_page.title
 - breadcrumbs.unshift current_page.title
-- breadcrumbs.unshift '<a href="/'+blog_controller.name.to_s+'">'+blog_controller.name.to_s+'</a>'
+- breadcrumbs.unshift '<a href="'+blog_controller.options.prefix.to_s+'">'+blog_controller.name.to_s+'</a>'
 - wrap_layout :layout do
   %article
     %header
       %h1.headline
         = current_page.title.titleize
+      .source
+        - if current_page.data['source']
+          From
+          %a{:href=>current_page.data['source']}
+            = current_page.data['source']
     .article-content
       = yield
     %footer.footer.blog_article
       .byline
         By 
         %address.author
-          %a{:rel=>"author", :href=>"/pages/about/", :title=>current_page.data['author']}
+          %a{:rel=>"author", :href=>case current_page.data['author'] when 'pdj' then "/pages/about/" else current_page.data['source'] end, :title=>current_page.data['author']}
             = current_page.data['author']
         on 
         %time{:datetime=>current_page.date.strftime('%Y-%m-%d')}

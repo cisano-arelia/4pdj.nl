@@ -10,11 +10,11 @@
       4pdj
   .collapse.navbar-collapse.navbar-ex-collapse
     %ul.nav.navbar-nav
-      - blog_instances.keys.each do |key|
+      - blog_instances.each do |key,blog|
         %li.divider-vertical
         %li
-          %a{:href=>'/' + key.to_s}
-            = key.to_s.titleize
+          %a{:href=>blog.options.prefix.to_s}
+            = blog.options.name.to_s.titleize
       %li.divider-vertical
       %li.dropdown
         %a.dropdown-toggle(href='#' data-toggle='dropdown')

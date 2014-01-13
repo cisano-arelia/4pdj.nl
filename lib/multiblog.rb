@@ -9,8 +9,10 @@ module MultiBlog
   module Helpers
     def all_articles()
         all = []
-	blog_instances.keys.each do |key|
-          all.push(*blog_instances[key.to_sym].data.articles)
+	blog_instances.each do |key,blog|
+	  if (key.to_s != 'baka na inu') then
+          	all.push(*blog.data.articles)
+	  end
         end
         all.sort! { |a,b| b.date <=> a.date }
     end

@@ -76,6 +76,13 @@ article img, article a img {
         border: solid 1px @black;
         margin: 0px;
 	background-color: @gray-darker;
+	clear: both;
+	display: block;
+}
+
+article iframe {
+	display: block;
+	clear: both;
 }
 
 .jumbotron img {
@@ -103,7 +110,12 @@ article h1, section h1, .jumbotron h1 {
         font-size:30px;
 }
 
+article h2, section h2, .jumbotron h2 {
+        font-size:20px;
+}
+
 article h1, article h1 a, section h1, .jumbotron h1, #search-results h1 {
+	display: block;
 	clear: both;
 
         -ms-word-break: break-all;
@@ -131,7 +143,7 @@ article h1:first-letter, article h1 a:first-letter {
         line-height:normal;
 }
 
-.byline, .tagline, .byline address {
+.byline, .tagline, .byline address, .source {
         font-variant:small-caps;
         font-weight:500;
         font-size:110%;

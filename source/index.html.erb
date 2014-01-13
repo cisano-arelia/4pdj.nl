@@ -1,8 +1,14 @@
 ---
-title: 4pdj
+title: 4pdj<% if ((defined?(category)).nil?) %> - <%= category.to_s %><% end %>
 per_page: 7
 ---
-<% current_article = all_articles[0] %>
+<% if ((defined?(category)).nil?) then
+	the_posts = all_articles
+   else
+        the_posts = blog(category).articles
+	breadcrumbs.unshift category.to_s
+   end
+   current_article = the_posts[0] %>
 <div class="jumbotron">
   <% if current_article.data['hero'] %>
   <div class="row">
@@ -28,7 +34,7 @@ per_page: 7
 
 <% 2.times do |iter| %>
 <div class="row">
-  <% all_articles[1+(iter*3)..3+(iter*3)].each do |current_article| %>
+  <% the_posts[1+(iter*3)..3+(iter*3)].each do |current_article| %>
     <article class="col-md-4">
       <header>
         <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
@@ -41,7 +47,7 @@ per_page: 7
   <% end %>
 </div>
 <div class="row visible-lg visible-md">
-  <% all_articles[1+(iter*3)..3+(iter*3)].each do |current_article| %>
+  <% the_posts[1+(iter*3)..3+(iter*3)].each do |current_article| %>
     <div class="col-md-4">
       <a href="<%= current_article.url %>" class="btn btn-default pull-right" role="button"><i class="icon-zoom-in"></i> read more</a>
     </div>

@@ -50,6 +50,21 @@ activate :blog do |blog|
   blog.calendar_template = "calendar.html"
 end
 
+# Baka na inu blog
+activate :blog do |blog|
+  blog.name = "baka na inu"
+  blog.prefix = "baka_na_inu"
+  blog.permalink = ":year/:month/:day/:title.html"
+  blog.sources = ":year-:month-:day-:title.html"
+  blog.layout = "article"
+  blog.paginate = true
+  blog.page_link = "p:num"
+  blog.per_page = 10
+  blog.default_extension = ".markdown.erb"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+end
+
 # RSS Feed
 page "/feed.xml", :layout => false
 
@@ -92,8 +107,12 @@ page "/sitemap.html", :layout => false, :directory_index => false
 page "/BingSiteAuth.xml", :layout => false
 
 ready do
-  blog_instances.keys.each do |key|
-    proxy "/#{key.to_s}.html", "/category.html", :locals => {:category => key}, :ignore => true
+  blog_instances.each do |key,blog|
+    if (key.to_s != 'baka na inu') then
+      proxy "#{blog.options.prefix.to_s}.html", "/index.html", :locals => {:category => key}
+    else
+      proxy "#{blog.options.prefix.to_s}.html", "/index_baka.html", :locals => {:category => key}, :ignore => true
+    end
   end
 end
 

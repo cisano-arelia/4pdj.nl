@@ -1,0 +1,48 @@
+---
+title: 4pdj - <%= category.to_s %>
+---
+<% breadcrumbs.unshift category.to_s %>
+<% blog(category).articles[0..9].each do |current_article| %>
+  <div class="row">
+    <article class="col-md-12">
+      <header>
+        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title.titleize %></a></h1>
+	<div class="source">
+          <% if current_article.data['source'] %>
+            from
+            <a href="<%= current_article.data['source'] %>"><%= current_article.data['source'] %></a>
+          <% end %>
+        </div>
+      </header>
+      <div class="article-content">
+        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-lg visible-md visible-sm" alt="<%= current_article.title %>"><% end %>
+        <%= current_article.body %>
+      </div>
+      <footer class="footer blog_article">
+        <div class="byline">
+          By
+          <address class="author">
+            <a rel="author" href="<%= current_article.data['source'] %>" title="<%= current_article.data['author'] %>">
+              <%= current_article.data['author'] %>
+            </a>
+          </address>
+          added here at
+          <time datetime="<%= current_article.date.strftime('%Y-%m-%d') %>">
+            <%= current_article.date.strftime('%b %e, %Y') %>
+          </time>
+        </div>
+        <div class="tagline">
+          Tagged as
+          <% if current_article.data['tags'] %>
+            <% current_article.data['tags'].sort.each do |tag| %>
+              <%= link_to tag, tag_path(tag,category.to_s) %>
+              <% if tag != current_article.data['tags'].sort.last %>
+                ,
+              <% end %>
+            <% end %>
+          <% end %>
+        </div>
+      </footer>
+    </article>
+  </div>
+<% end %>
