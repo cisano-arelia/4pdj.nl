@@ -7,6 +7,12 @@ title: 4pdj - <%= category.to_s %>
     <article class="col-md-12">
       <header>
         <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title.titleize %></a></h1>
+	<div class="comment">
+          <% if current_article.data['comment'] %>
+            My comment:
+            <%= current_article.data['comment'] %>
+          <% end %>
+        </div>
 	<div class="source">
           <% if current_article.data['source'] %>
             from
@@ -31,17 +37,17 @@ title: 4pdj - <%= category.to_s %>
             <%= current_article.date.strftime('%b %e, %Y') %>
           </time>
         </div>
+        <% if current_article.data['tags'] %>
         <div class="tagline">
           Tagged as
-          <% if current_article.data['tags'] %>
             <% current_article.data['tags'].sort.each do |tag| %>
               <%= link_to tag, tag_path(tag,category.to_s) %>
               <% if tag != current_article.data['tags'].sort.last %>
                 ,
               <% end %>
             <% end %>
-          <% end %>
         </div>
+        <% end %>
       </footer>
     </article>
   </div>

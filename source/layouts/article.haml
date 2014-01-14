@@ -13,6 +13,10 @@
     %header
       %h1.headline
         = current_page.title.titleize
+      .comment
+        - if current_page.data['comment']
+          My comment:
+          = current_page.data['comment']
       .source
         - if current_page.data['source']
           From
@@ -29,9 +33,9 @@
         on 
         %time{:datetime=>current_page.date.strftime('%Y-%m-%d')}
           = current_page.date.strftime('%b %e, %Y')
-      .tagline
-        Tagged as 
-        - if current_page.data['tags']
+      - if current_page.data['tags']
+        .tagline
+          Tagged as 
           - current_page.data['tags'].sort.each do |tag|
             = link_to tag, tag_path(tag)
             - if tag != current_page.data['tags'].sort.last

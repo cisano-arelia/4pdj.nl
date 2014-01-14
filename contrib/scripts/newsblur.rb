@@ -69,6 +69,8 @@ result["stories"].each{ |story|
 		end
 	end
 
+	if (!story["shared_comments"].nil?) then meta['comment'] = story["shared_comments"] end
+
 	meta['title'] = story["story_title"]
 	meta['source'] = story["story_permalink"]
 
