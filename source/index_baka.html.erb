@@ -1,8 +1,22 @@
 ---
 title: 4pdj - <%= category.to_s %>
+pageable: true
 ---
 <% breadcrumbs.unshift category.to_s %>
-<% blog(category).articles[0..9].each do |current_article| %>
+<% if paginate %>
+  <div class="row">
+    <ul class="pager">
+      <li class="previous<% unless next_page %> disabled<% end %>">
+        <%= link_to '&larr; Older', next_page %>
+      </li>
+      <li class="next<% unless prev_page %> disabled<% end %>"">
+        <%= link_to 'Newer &rarr;', prev_page %>
+      </li>
+    </ul>
+  </div>
+<% end %>
+<%= per_page %>,<%= num_pages %>,<%= blog(category).articles.size %>,<%= page_start %>,<%= page_end %>
+<% blog(category).articles[page_start .. page_end].each_with_index do |current_article,i| %>
   <div class="row">
     <article class="col-md-12">
       <header>
@@ -52,3 +66,16 @@ title: 4pdj - <%= category.to_s %>
     </article>
   </div>
 <% end %>
+<% if paginate %>
+  <div class="row">
+    <ul class="pager">
+      <li class="previous<% unless next_page %> disabled<% end %>">
+        <%= link_to '&larr; Older', next_page %>
+      </li>
+      <li class="next<% unless prev_page %> disabled<% end %>"">
+        <%= link_to 'Newer &rarr;', prev_page %>
+      </li>
+    </ul>
+  </div>
+<% end %>
+
