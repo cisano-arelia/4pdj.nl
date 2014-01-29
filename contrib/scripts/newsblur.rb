@@ -77,12 +77,16 @@ result["stories"].each{ |story|
 	filename = meta['date'] + '-' + meta['title']
 	filename = filename.downcase.gsub(/[^0-9a-z\-]/i, '_').gsub(/\_+/, "_") + ".html.erb"
 
-	File.open(filename, 'w') {|f| 
-		f.write(meta.to_yaml)
-		f.write("---\n")
-		f.write(story["story_content"].gsub(/(<[^>]+) style=".*?"/i, '\1').gsub(/(<[^>]+) class=".*?"/i, '\1').gsub(/<(\/?)h1>/i,'<\1h2>') + "\n")
-	}
+	if (!story["shared_comments"].downcase.include? "nsfw") then
+		File.open(filename, 'w') {|f| 
+			f.write(meta.to_yaml)
+			f.write("---\n")
+			f.write(story["story_content"].gsub(/(<[^>]+) style=".*?"/i, '\1').gsub(/(<[^>]+) class=".*?"/i, '\1').gsub(/<(\/?)h1>/i,'<\1h2>') + "\n")
+		}
 
-	print "Wrote #{filename}\n"
+		print "Wrote #{filename}\n"
+	else
+		print "Skipped #{filename}\n"
+	end
 }
 

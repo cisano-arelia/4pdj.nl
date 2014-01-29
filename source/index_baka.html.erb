@@ -1,81 +1,81 @@
 ---
-title: 4pdj - <%= category.to_s %>
+title: 4pdj - Baka Na Inu
 pageable: true
+blog: baka na inu
 ---
-<% breadcrumbs.unshift category.to_s %>
+<% breadcrumbs.unshift 'Baka Na Inu' %>
 <% if paginate %>
-  <div class="row">
-    <ul class="pager">
-      <li class="previous<% unless next_page %> disabled<% end %>">
-        <%= link_to '&larr; Older', next_page %>
-      </li>
-      <li class="next<% unless prev_page %> disabled<% end %>"">
-        <%= link_to 'Newer &rarr;', prev_page %>
-      </li>
-    </ul>
-  </div>
+<div class="row">
+  <ul class="pager">
+    <li class="previous<% unless next_page %> disabled<% end %>">
+      <%= link_to '&larr; Older', next_page %>
+    </li>
+    <li class="next<% unless prev_page %> disabled<% end %>">
+      <%= link_to 'Newer &rarr;', prev_page %>
+    </li>
+  </ul>
+</div>
 <% end %>
-<%= per_page %>,<%= num_pages %>,<%= blog(category).articles.size %>,<%= page_start %>,<%= page_end %>
-<% blog(category).articles[page_start .. page_end].each_with_index do |current_article,i| %>
-  <div class="row">
-    <article class="col-md-12">
-      <header>
-        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title.titleize %></a></h1>
-	<div class="comment">
-          <% if current_article.data['comment'] %>
-            My comment:
-            <%= current_article.data['comment'] %>
-          <% end %>
-        </div>
-	<div class="source">
-          <% if current_article.data['source'] %>
-            from
-            <a href="<%= current_article.data['source'] %>"><%= current_article.data['source'] %></a>
-          <% end %>
-        </div>
-      </header>
-      <div class="article-content">
-        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-lg visible-md visible-sm" alt="<%= current_article.title %>"><% end %>
-        <%= current_article.body %>
-      </div>
-      <footer class="footer blog_article">
-        <div class="byline">
-          By
-          <address class="author">
-            <a rel="author" href="<%= current_article.data['source'] %>" title="<%= current_article.data['author'] %>">
-              <%= current_article.data['author'] %>
-            </a>
-          </address>
-          added here at
-          <time datetime="<%= current_article.date.strftime('%Y-%m-%d') %>">
-            <%= current_article.date.strftime('%b %e, %Y') %>
-          </time>
-        </div>
-        <% if current_article.data['tags'] %>
-        <div class="tagline">
-          Tagged as
-            <% current_article.data['tags'].sort.each do |tag| %>
-              <%= link_to tag, tag_path(tag,category.to_s) %>
-              <% if tag != current_article.data['tags'].sort.last %>
-                ,
-              <% end %>
-            <% end %>
-        </div>
+<% page_articles.each do |page| %>
+<div class="row">
+  <article class="col-md-12">
+    <header>
+      <h1 class="headline"><a href="<%= page.url %>"><%= page.title.titleize %></a></h1>
+      <div class="comment">
+        <% if page.data['comment'] %>
+        My comment:
+        <%= page.data['comment'] %>
         <% end %>
-      </footer>
-    </article>
-  </div>
+      </div>
+      <div class="source">
+        <% if page.data['source'] %>
+        from
+        <a href="<%= page.data['source'] %>"><%= page.data['source'] %></a>
+        <% end %>
+      </div>
+    </header>
+    <div class="article-content">
+      <% if page.data['miniature'] %><img src="<%= page.data['miniature'] %>" class="thumbnail visible-lg visible-md visible-sm" alt="<%= page.title %>"><% end %>
+      <%= page.body %>
+    </div>
+    <footer class="footer blog_article">
+      <div class="byline">
+        By
+        <address class="author">
+          <a rel="author" href="<%= page.data['source'] %>" title="<%= page.data['author'] %>">
+            <%= page.data['author'] %>
+          </a>
+        </address>
+        added here at
+        <time datetime="<%= page.date.strftime('%Y-%m-%d') %>">
+          <%= page.date.strftime('%b %e, %Y') %>
+        </time>
+      </div>
+      <% if page.data['tags'] %>
+      <div class="tagline">
+        Tagged as
+        <% page.data['tags'].sort.each do |tag| %>
+        <%= link_to tag, tag_path(tag,'baka na inu') %>
+        <% if tag != page.data['tags'].sort.last %>
+        ,
+        <% end %>
+        <% end %>
+      </div>
+      <% end %>
+    </footer>
+  </article>
+</div>
 <% end %>
 <% if paginate %>
-  <div class="row">
-    <ul class="pager">
-      <li class="previous<% unless next_page %> disabled<% end %>">
-        <%= link_to '&larr; Older', next_page %>
-      </li>
-      <li class="next<% unless prev_page %> disabled<% end %>"">
-        <%= link_to 'Newer &rarr;', prev_page %>
-      </li>
-    </ul>
-  </div>
+<div class="row">
+  <ul class="pager">
+    <li class="previous<% unless next_page %> disabled<% end %>">
+      <%= link_to '&larr; Older', next_page %>
+    </li>
+    <li class="next<% unless prev_page %> disabled<% end %>"">
+      <%= link_to 'Newer &rarr;', prev_page %>
+    </li>
+  </ul>
+</div>
 <% end %>
 

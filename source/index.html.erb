@@ -4,30 +4,30 @@ per_page: 7
 ---
 <% if ((defined?(category)).nil?) then
 	the_posts = all_articles
-   else
-        the_posts = blog(category).articles
-	breadcrumbs.unshift category.to_s
-   end
-   current_article = the_posts[0] %>
+else
+  the_posts = blog(category).articles
+  breadcrumbs.unshift category.to_s
+end
+current_article = the_posts[0] %>
 <div class="jumbotron">
   <% if current_article.data['hero'] %>
   <div class="row">
     <div class="col-md-4 visible-lg visible-md">
       <img class="img-responsive" src="<%= current_article.data['hero'] %>" alt="<%= current_article.title.titleize %>">
     </div>
-  <% end %>
-  <article <% if current_article.data['hero'] %>class="col-md-8"<% end %>>
-    <header>
-      <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
-    </header>
-    <div class="article-content">
-      <%= current_article.summary %>
-    </div>
-    <footer>
-      <a href="<%= current_article.url %>" class="btn btn-info" role="button"><i class="icon-zoom-in"></i> read more</a>
-    </footer>
-  </article>
-  <% if current_article.data['hero'] %>
+    <% end %>
+    <article <% if current_article.data['hero'] %>class="col-md-8"<% end %>>
+      <header>
+        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
+      </header>
+      <div class="article-content">
+        <%= current_article.summary %>
+      </div>
+      <footer>
+        <a href="<%= current_article.url %>" class="btn btn-info" role="button"><i class="icon-zoom-in"></i> read more</a>
+      </footer>
+    </article>
+    <% if current_article.data['hero'] %>
   </div>
   <% end %>
 </div>
@@ -35,22 +35,22 @@ per_page: 7
 <% 2.times do |iter| %>
 <div class="row">
   <% the_posts[1+(iter*3)..3+(iter*3)].each do |current_article| %>
-    <article class="col-md-4">
-      <header>
-        <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
-      </header>
-      <div class="article-content">
-        <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-md visible-lg visible-sm" alt="<%= current_article.title %>"><% end %>
-        <%= current_article.summary %>
-      </div>
-    </article>
+  <article class="col-md-4">
+    <header>
+      <h1 class="headline"><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
+    </header>
+    <div class="article-content">
+      <% if current_article.data['miniature'] %><img src="<%= current_article.data['miniature'] %>" class="thumbnail visible-md visible-lg visible-sm" alt="<%= current_article.title %>"><% end %>
+      <%= current_article.summary %>
+    </div>
+  </article>
   <% end %>
 </div>
 <div class="row visible-lg visible-md">
   <% the_posts[1+(iter*3)..3+(iter*3)].each do |current_article| %>
-    <div class="col-md-4">
-      <a href="<%= current_article.url %>" class="btn btn-default pull-right" role="button"><i class="icon-zoom-in"></i> read more</a>
-    </div>
+  <div class="col-md-4">
+    <a href="<%= current_article.url %>" class="btn btn-default pull-right" role="button"><i class="icon-zoom-in"></i> read more</a>
+  </div>
   <% end %>
 </div>
 <% end %>

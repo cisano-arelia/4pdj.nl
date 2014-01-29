@@ -106,12 +106,12 @@ page "/sitemap.html", :layout => false, :directory_index => false
 # Bing
 page "/BingSiteAuth.xml", :layout => false
 
+proxy "baka_na_inu.html", "/index_baka.html", :ignore => true
+
 ready do
   blog_instances.each do |key,blog|
-    if (key.to_s != 'baka na inu') then
+    if (!key.to_s.include? 'baka') then
       proxy "#{blog.options.prefix.to_s}.html", "/index.html", :locals => {:category => key}
-    else
-      proxy "#{blog.options.prefix.to_s}.html", "/index_baka.html", :locals => {:category => key}, :ignore => true
     end
   end
 end
