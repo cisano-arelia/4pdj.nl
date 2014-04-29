@@ -103,6 +103,9 @@ require 'builder'
 page "/sitemap.xml", :layout => false
 page "/sitemap.html", :layout => false, :directory_index => false
 
+# 404
+page "/404.html", :directory_index => false
+
 # Bing
 page "/BingSiteAuth.xml", :layout => false
 
@@ -200,9 +203,9 @@ configure :build do
   activate :minify_html
 
   # Favicon generator
-  activate :favicon_maker,
-    :favicon_maker_input_dir => "source/assets/img/",
-    :favicon_maker_base_image => "sigil-white.png"
+  #activate :favicon_maker,
+  #  :favicon_maker_input_dir => "source/assets/img/",
+  #  :favicon_maker_base_image => "sigil-white.png"
 
   # Enable cache buster
   #activate :cache_buster
