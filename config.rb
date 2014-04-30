@@ -105,6 +105,7 @@ page "/sitemap.html", :layout => false, :directory_index => false
 
 # 404
 page "/404.html", :directory_index => false
+proxy "/404blank.html", "/404.html", :directory_index => false, :layout => :blank
 
 # Bing
 page "/BingSiteAuth.xml", :layout => false
@@ -187,7 +188,7 @@ ignore 'assets/css/lightbox.css'
 ignore 'assets/css/inconsolata.css'
 
 Dir["source/assets/css/*.less"].each do |f|
-  next if File.basename(f) == '4pdj.less'
+  next if File.basename(f) == 'style.less'
   ignore f.gsub('source/', '')
 end
 
